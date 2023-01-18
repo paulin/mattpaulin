@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Teaching kids to be entrepreneurs"
-date:   2023-06-18
+date:   2018-06-18
 categories:
 ---
 # Teaching kids to be entrepreneurs

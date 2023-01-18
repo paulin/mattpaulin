@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "T-Shaped Poster Exercise"
-date:   2023-04-19
+date:   2021-04-19
 categories:
 ---
 NOTE: Credit goes to [Kevin Klinemeier](https://www.linkedin.com/in/agilekevin/) for coming up with the original exercise.
