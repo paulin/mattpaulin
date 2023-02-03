@@ -1,6 +1,6 @@
 ---
 ---
-// Prevents the header 
+{% Prevents the header  %}
 # CollegeSnapps: A mobile application to help get students to and through college
 
 CollegeSnapps gets students to and through college.
