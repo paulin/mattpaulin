@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 ---
 # Roomfull: An app to make musician lives easier
 What is Roomfull?

@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 ---
 
 # Highway 61 : Connecting music to your world.

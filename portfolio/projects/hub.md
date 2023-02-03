@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 ---
 # Hub by CBRE : Using good product practices to find valuable markets.
 ## What is Hub?
