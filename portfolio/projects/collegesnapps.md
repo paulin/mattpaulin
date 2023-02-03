@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 ---
 CollegeSnapps: A mobile application to help get students to and through college
 
@@ -26,4 +26,4 @@ Matt Paulin created a team of engineers and a product designer to build this vis
 CollegeSnapps goes to SXSWedu
 With the application completed, the CollegeSnapps team had the privilege of presenting the application to educators at SXSWEdu. We were a unique blend of technology and educators and made it into the finalist round next to much better funded startups.
 
-What made our application stand out was that the product was designed for simplicity and to meet students in a way that they naturally communicate. Coupling this with the passion and real world problems that Don Fraser and Matt Drake brought we were able to attract attention from many education groups and philanthropists in the audience. 
+What made our application stand out was that the product was designed for simplicity and to meet students in a way that they naturally communicate. Coupling this with the passion and real world problems that Don Fraser and Matt Drake brought we were able to attract attention from many education groups and philanthropists in the audience.
