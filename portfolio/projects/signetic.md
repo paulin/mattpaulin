@@ -20,3 +20,19 @@ When the number of clients grew too great for the founders to interact with, Mat
 It was an absolute team effort, thanks to the City of Seattle, Seattle Fire Department, and the surrounding Fire Department the greater team successfully vaccinated 350,000 people, most in Seattle and the surrounding area. This made Seattle the second most vaccinated city in the United States. The results were immediate. The covid rates dropped dramatically allowing the City to reopen with confidence.
 
 Additionally our team was the most equitable in the nation. Thanks to the features and rapid rollout of the software we were able to conclusively show that we had gotten the vaccines to the people who needed it the most in the right order.
+
+![Screen1](/assets/images/portfolio/signetic/Signetic1.png){:width="30%"}
+![Screen2](/assets/images/portfolio/signetic/Signetic2.png){:width="30%"}
+![Screen3](/assets/images/portfolio/signetic/Signetic3.png){:width="30%"}
+![Screen4](/assets/images/portfolio/signetic/Signetic4.png){:width="30%"}
+![Screen5](/assets/images/portfolio/signetic/Signetic5.png){:width="30%"}
+![Screen6](/assets/images/portfolio/signetic/Signetic6.png){:width="30%"}
+![Screen7](/assets/images/portfolio/signetic/Signetic7.png){:width="30%"}
+![Screen8](/assets/images/portfolio/signetic/Signetic8.png){:width="30%"}
+![Screen9](/assets/images/portfolio/signetic/Signetic9.png){:width="30%"}
+![Screen10](/assets/images/portfolio/signetic/Signetic10.png){:width="30%"}
+![Screen11](/assets/images/portfolio/signetic/Signetic11.png){:width="30%"}
+![Screen12](/assets/images/portfolio/signetic/Signetic12.png){:width="30%"}
+![Screen13](/assets/images/portfolio/signetic/Signetic13.png){:width="30%"}
+![Screen14](/assets/images/portfolio/signetic/Signetic14.png){:width="30%"}
+![Screen15](/assets/images/portfolio/signetic/Signetic15.png){:width="30%"}

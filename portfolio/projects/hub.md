@@ -8,6 +8,12 @@ This comment prevents the first line from showing up in the navbar.
 ## What is Hub?
 CBRE is the world's largest commercial real estate firm. They help businesses find, maintain, and invest in commercial properties. CBRE had identified a “small office” segment as a valuable group. These “small office” clients are businesses requiring up to 10,000 sq ft of office space. Hub was a highly visible initiative for helping small offices to browse the huge catalog of properties that CBRE maintains.
 
+![Screen1](/assets/images/portfolio/hub/Hub1.png){:width="30%"}
+![Screen2](/assets/images/portfolio/hub/Hub2.png){:width="30%"}
+![Screen3](/assets/images/portfolio/hub/Hub3.png){:width="30%"}
+![Screen4](/assets/images/portfolio/hub/Hub4.png){:width="30%"}
+![Screen5](/assets/images/portfolio/hub/Hub5.png){:width="30%"}
+
 ## What did Matt do?
 Originally Hub was conceived to just be a listing platform. The technology used to construct it was overly complicated and many of the key engineers had left. Once in charge, Matt immediately chose a launch date two months out and began working with the engineering team to reduce the complexity of the system. In parallel he established clear communications with the stakeholders and began the agile process of building a backlog, sizing, and scoping individual user stories. Within two months a working prototype was formed that could be used as a starting point for what Hub could be.
 

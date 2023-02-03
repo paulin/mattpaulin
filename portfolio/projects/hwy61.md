@@ -1,5 +1,5 @@
 ---
-# layout: page
+layout: page
 ---
 {% comment %}
 This comment prevents the first line from showing up in the navbar.
@@ -7,12 +7,9 @@ This comment prevents the first line from showing up in the navbar.
 # Highway 61 : Connecting music to your world.
 
 
-What is Highway 61?
-For Americana fans
+#What is Highway 61?
+For Americana fans Who Want good curated Americana related media in one place HWY61 Is a your gateway to all things Americana
 
-Who Want good curated Americana related media in one place
-
-HWY61 Is a your gateway to all things Americana
 
 That has a well curated set of local radio stations, podcasts, and points of interests.
 
@@ -24,7 +21,8 @@ HWY61 is unique in how it connects where you live to the music that was created 
 
 HWY61 tested well with people who traveled and loved podcasts. It gave them a reason to drive out of their way to see something new and broaden their musical knowledge.
 
-Matt made this vision a reality
+![Screen1](/assets/images/portfolio/hwy61/hwy61-1.png){:width="30%"}
+# Matt made this vision a reality
 Working on behalf of Indie Global, Matt was involved at every stage of the production of HWY61. The first step was to conduct market studies, business analysis, and user testing in what the product could be. This involved working with the visionary to put together a budget and a team for defining and growing the product.
 
 Once the initial business analysis was conducted we moved into defining the product from a user interface perspective and then created a prototype using ionic to create both an Android and iOS version. The server backend was created using node.js and running it on Heroku with the nosql database MongoDB. The prototype was then launched in conjunction with a streaming radio station that played Americana style music. The resulting MVP was used to test the market and refine the experience.
