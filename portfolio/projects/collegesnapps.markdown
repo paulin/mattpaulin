@@ -1,7 +1,8 @@
 ---
+layout: page
 ---
 {% comment %}
-this is commented out
+This comment prevents the first line from showing up in the navbar.
 {% endcomment %}
 # CollegeSnapps: A mobile application to help get students to and through college
 
