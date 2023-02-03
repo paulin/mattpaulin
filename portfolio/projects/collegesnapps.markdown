@@ -2,6 +2,7 @@
 layout: page
 ---
 
+Something before
 ## Test Heading
 
 CollegeSnapps: A mobile application to help get students to and through college
