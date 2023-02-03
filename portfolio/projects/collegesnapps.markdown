@@ -1,10 +1,6 @@
 ---
 ---
-
-// Something before
-## Test Heading
-
-CollegeSnapps: A mobile application to help get students to and through college
+# CollegeSnapps: A mobile application to help get students to and through college
 
 CollegeSnapps gets students to and through college.
 Don Frazer and Matt Drake were both educators who had a dream to help underprivileged students get into college. They had noticed a huge problem which could be easily solved. As students work their way through high school they were not aware of deadlines that could critically affect their chance of getting a higher education.  For example, if they forget to sign up for the ACT by a certain date then this could cascade into missing college submission deadlines, which could then have them missing the first year of college. For some of these students, they would be the first in their family to ever go to college. If they missed that first deadline then it was very unlikely that they would ever go at all.
