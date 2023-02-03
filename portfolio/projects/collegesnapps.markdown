@@ -1,6 +1,8 @@
 ---
 ---
-{% Prevents the header  %}
+{% comment %}
+this is commented out
+{% endcomment %}
 # CollegeSnapps: A mobile application to help get students to and through college
 
 CollegeSnapps gets students to and through college.
