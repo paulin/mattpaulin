@@ -34,8 +34,6 @@ Temperature of Space = [-270.42 Celsius](https://www.scienceabc.com/nature/unive
 Average temp on Earth = [13.9 degrees Celsius](https://www.space.com/17816-earth-temperature.html)
 
 
-
-
 # How would you do this?
 
 1. We need to put it at [Lagrange point 1](https://en.wikipedia.org/wiki/Lagrange_point)
@@ -48,20 +46,21 @@ The L1 point lies on the line defined between the two large masses M1 and M2. It
 3. Produce them and place them at a reduced costs.
 
 4. I wonder if you can get enough material from https://en.wikipedia.org/wiki/99942_Apophis, only 370m in diameter
-
-Hey @race , just curious but do you know of any space propulsion that used a magnetic field to interact with the magnetic field of a planet or the sun?  For instance, just a big loop of wire that when powered creates a field that then pushes or pulls on the fields from other bodies near it.
-
-It's probably an old idea, but I can't figure out what it would have been called.
+https://www.jpl.nasa.gov/asteroid-watch/eyes-on-asteroids
 
 
-race
-12:04 PM
-Sure.  My advisor in grad school invented a plasma sail project called mini magnetospheric plasma propulsion or M2P2.  Creates an artificial magnetoaphere that is pushed by the solar wind particles.  For just hanging out over a planet there's an old concept called the pole sitter, where a craft would generate their own magnetic field to repel the field of a planet that has one and use it to just sit above the pole of the planet without orbiting.  It always felt to me that it would require too much energy to be worth it compared to just an orbit with a high apogee.
+# So how could this even work?
+
+As it turns out astroids are constantly coming near us. In fact on 2029-04-13	[Apophis](https://en.wikipedia.org/wiki/99942_Apophis) should be about 38.0170 thousand km) give or take	±3.4 km. What if we could capture it and use it's material to build some sort of sunscreen. NOTE: The moon is [363,300 km](https://www.space.com/18145-how-far-is-the-moon.html) away so this is pretty close if we ever just wanted a bunch of rocks.  It's about the size of a giant building and is composed of sand, iron, and nickel. Here is an exerpt from [Nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/asteroids/apophis/in-depth/).
+
+"Apophis is classified as an S-type, or stony-type asteroid made up of silicate (or rocky) materials and a mixture of metallic nickel and iron. Radar images suggest it is elongated and possibly has two lobes, making it look something like a peanut. Much more will be learned about this asteroid's structure following its close flyby of Earth in 2029."
 
 
-matt
-Update your status
-12:06 PM
-Hmm, if you have to hold a craft at L1 for as long as possible, what propulsion system would your recommend?  The helictical ion engine you designed? Or is there something pretty common?
+Obviously the first problem is capture and moving it to L1. We have 6 years to figure that part out. It is nice that it shows up about every 7 years. So maybe we could put an engine on it when it passes by next time and then use that to alter it's orbit.
 
-https://en.wikipedia.org/wiki/99942_Apophis
+# What can you do with Nickel, Iron, and Silicon?
+I'm not sure but this is where I will leave this thought experiment. The general idea is that we block sunlight from getting to the Earth, maybe by building big umberella ships, maybe by grinding up an astroid and spraying it all over L1.
+
+# Engines
+https://earthweb.ess.washington.edu/space/M2P2/
+pole sitter https://www.sciencedirect.com/science/article/abs/pii/S0273117720304130
