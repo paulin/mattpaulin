@@ -11,7 +11,7 @@ HWY61 was a platform for "Americana fans Who Want good curated Americana related
 Highway 61 was a location aware mobile application that tells travelers of interesting locations when they are near. The application uses over 900 geospatial audio points and a streaming radio station to give users a unique view into the origins of the music that shaped the United States.
 
 
-It featured a well curated set of local radio stations, podcasts, and soundpoints. These soundpoints were "Points of Interests" with a geographic position and an audio clip. When a traveler came close to a "Point of Interest" they were notified and could learn the history behind the music they loved. Unlike Satellite xm radio, HWY61 has stations of local music so you experience the authentic music of the area
+It featured a well curated set of local radio stations, podcasts, and soundpoints. These soundpoints were "Points of Interests" with a geographic position and an audio clip. When a traveler came close to a soundpoint they were notified and could learn the history behind the music they loved. Unlike Satellite xm radio, HWY61 has stations of local music so you experience the authentic music of the area
 
 
 HWY61 was unique in how it connects where you live to the music that was created there. For example, down the street from where I live I learned that there had been a recording studio that Nirvana had recorded in. Knowing these local facts connects you to the artist through location.
