@@ -17,4 +17,4 @@ Timeline of select products from my portfolio
 * Making smaller listings more valuable for brokers
 
 2020 - 2022 : [Signetic](/portfolio/projects/signetic.html)
-* Saving lives in Seattle by vaccinating 500k people
+* Saving lives in Seattle by vaccinating 350k people
