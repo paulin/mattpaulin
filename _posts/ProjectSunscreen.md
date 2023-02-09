@@ -4,34 +4,47 @@ title:  "Operation Sunscreen"
 categories: Climate Change
 ---
 # A bad idea
-What if we put a sun shield between the earth and the sun to reduce the amount of energy getting to the earth?
+So I have been thinking about what it would take to cool the Earth. Most of the ideas on this subject involved reducing Carbon. I totally agree with this and I think we have to be responsible for what we put in the atmosphere.  But I think we are going to have a really hard time changing the temperature this way. Essentially, we have to get all 7 billion of us to agree. That seems like the real problem. So while we are working on this, how about a plan B.
 
-What if we could turn it to open up more light, or close it to reduce the amount of light?
+Plan B: What if we put a sun shield between the earth and the sun to reduce the amount of energy getting to the earth?
 
-# Its a feature not a bug
-Since we already have cast a blanket of CO2 around the earth, we can use it as a regulator. If we want more heat, we let in more energy.
+BONUS: If we can control dimming the light then we can turn it up if it gets too cold.
 
-# Why this?
-Because we will fail to reduce carbon enough.
+So I will admit I don't think this will work because we simply do not know how to do this. It is a bit of a pie in the sky idea, almost literally, however I still want to explore what this would take.
 
-But step back, a moment, and look at what the problem is? It's an energy problem.
 
 # How much energy do we need to change?
-Radius of Earth = 6,378 km
-[Energy numbers from NASA](https://earthobservatory.nasa.gov/features/EnergyBalance/page2.php)
-Solar Constant: Earth’s average distance from the Sun (about 150 million kilometers), the average intensity of solar energy reaching the top of the atmosphere directly facing the Sun is about 1,360 watts per square meter.
+Lets start with how much energy the Earth is even absorbing.  Since it is essentially a circular shape being illuminated we can make a gross approximation by just taking it's surface area and mutiplying by the solar constant.
 
-[Solar Constant:](https://en.wikipedia.org/wiki/Solar_constant) It is measured by satellite as being 1.361 kilowatts per square meter (kW/m2)
+* Radius of Earth = 6,378 km
+* Visible Earth area = 6378 ^ 2 X pi = 127796483130631 square meters
+* Solar Constant: 1.361 kilowatts per square meter (kW/m2) [Energy numbers from NASA](https://earthobservatory.nasa.gov/features/EnergyBalance/page2.php)
 
-[Earth absorbs](https://earthobservatory.nasa.gov/features/EnergyBalance) absorbs an average of about 240 watts of solar power per square meter (one watt is one joule of energy every second).
+ Visible Earth Area X 1.361 = 1.739310135407893e+17 kW
 
-[Earth has changed 1 degree Celcius from where it should be](https://climate.nasa.gov/vital-signs/global-temperature/)
+# How much energy should we block?
 
-It takes [533,000,000 kJ](https://www.quora.com/Has-anyone-calculated-how-much-energy-is-required-to-raise-the-temperature-of-Earth-our-planet-by-one-degree) to warm the Earth 1 degree Celcius.
-So I would assume it is the same amount to reduce to go down one degree Celcius.
+1. [Earth has changed 1 degree Celcius from where it should be](https://climate.nasa.gov/vital-signs/global-temperature/) So I would assume it is the same amount to reduce to go down one degree Celcius.
+
+2. It takes [533,000,000 kJ](https://www.quora.com/Has-anyone-calculated-how-much-energy-is-required-to-raise-the-temperature-of-Earth-our-planet-by-one-degree) to warm the Earth 1 degree Celcius.
+
+So essentially we need to know how many square meters we need to block to reduce 533 Million kilojoules.
+
+Let's start by figuring out how many watts that needs to be for one day.
+46051200000000 = 533000000 * 24 * 60 * 60
+
+1. [Earth absorbs](https://earthobservatory.nasa.gov/features/EnergyBalance) absorbs an average of about 240 watts of solar power per square meter (one watt is one joule of energy every second).
+
+If we make a proportion of how much the earth absorbs from the solar constant we find out that the earth only absorbs
+earthEnergy = totalEnergy * absorbEarth/solarConstant
+* blockArea = earthVisibleArea * wattChange/earthEnergy
+The answer I get is 1,918,800,000,000 square meters or about 1,918,800 sq km which is roughly the size of the state of Washington.
+
+# Does this make sense?
 
 Temperature of Space = [-270.42 Celsius](https://www.scienceabc.com/nature/universe/what-is-the-temperature-of-space.html)
 Average temp on Earth = [13.9 degrees Celsius](https://www.space.com/17816-earth-temperature.html)
+
 
 
 # How would you do this?
