@@ -20,11 +20,11 @@ Before we dive into this, I want you to realize that I do not have a legal backg
 In case you don’t know what a User Story is, think of it as one sentence that explains what one type of user can do in a system. It is very focused on one feature and always written from the perspective of that user.
 I like to think of them like the old Mad Lib sentences where you fill in the blanks.
 
-As a *ROLE* I want to *TASK* so that *INTENT* (bonus) because *REASON*.
+As a *ROLE* I want to *TASK* so that *INTENT* because *REASON*.
 
 In this case you have to fill in the; ROLE, TASK, INTENT, and REASON to complete the sentence.
 
-You simply have to make a list of everything in this format. Sounds simple at first, but it makes you really think about who wants what sort of feature and why. The bonus of “because” is most useful when you hand this to engineering and design teams. This really helps them empathize with the user when they make decisions so they can propose other solutions that solve the same problem in better ways than the originators ever thought of.
+You simply have to make a list of everything in this format. Sounds simple at first, but it makes you really think about who wants what sort of feature and why. The REASON is most useful when you hand this to engineering and design teams. This really helps them empathize with the user when they make decisions so they can propose other solutions that solve the same problem in better ways than the originators ever thought of.
 
 
 # Step 1: Read and create your first draft User Stories
