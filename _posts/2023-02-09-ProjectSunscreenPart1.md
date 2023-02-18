@@ -3,6 +3,8 @@ layout: post
 title:  "Project Sunscreen"
 categories: Climate Change
 ---
+![1](/assets/images/projectsunscreen/space_umbrella.png){:width="80%" :style="display:block; margin-left:auto; margin-right:auto"}
+
 # Project Suncreen: Another potential bad idea to solve Climate Change
 So I have been thinking about what it would take to cool the Earth. Most of the ideas on this subject involved reducing Carbon. I totally agree with this and I think we have to be responsible for what we put in the atmosphere.  But I think we are going to have a really hard time changing the temperature this way. Essentially, we have to get all 7 billion of us to agree. That seems like the real problem. While we are working on reducing carbon emmissions with [Speed and Scale](https://speedandscale.com/), or [Project Drawdown](https://www.drawdown.org/), how about a plan B?
 
@@ -44,6 +46,8 @@ If we make a proportion of how much the earth absorbs from the solar constant we
 
 
 **The answer I get is 1,918,800,000,000 square meters or about 1,918,800 square km which is roughly the size of the [state of Washington](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_area).**
+
+![1](/assets/images/projectsunscreen/space_umbrella_2.png){:width="80%" :style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Sanity check: Does this make sense?
 Let's check if this makes any sense by just looking at what the temperature of the Earth is currently, and what it would be if the sun wasn't there.
