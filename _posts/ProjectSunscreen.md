@@ -77,3 +77,5 @@ I'm not sure but this is where I will leave this thought experiment. The general
 # Engines
 https://earthweb.ess.washington.edu/space/M2P2/
 pole sitter https://www.sciencedirect.com/science/article/abs/pii/S0273117720304130
+https://en.wikipedia.org/wiki/Spacecraft_propulsion
+https://en.wikipedia.org/wiki/List_of_exceptional_asteroids
