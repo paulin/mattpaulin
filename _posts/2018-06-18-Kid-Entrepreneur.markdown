@@ -80,3 +80,6 @@ You can visit her website, https://tessapaulin.com, and maybe even buy a book. A
 A book really was the perfect starting product for Tessa. I had written one several years ago and knew how to work with the tools. Thanks to Createspace and Amazon, she wouldn’t have to do any of the manufacturing or distribution. She could concentrate entirely on the product and marketing.
 
 This probably isn’t the case with every child. I think it really depends on them and what they like. For instance, I’m thinking of trying to do 3D printing with my son and then possibly selling the resulting products through Shopify, Etsy or Zulily. The goal is the same, though, I want them to try so this never seems scary for them later.
+
+# Bonus
+[Tessa explains her pricing](https://www.youtube.com/watch?v=hg-XOEUvuwU)

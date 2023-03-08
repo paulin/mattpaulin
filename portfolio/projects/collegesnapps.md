@@ -5,6 +5,8 @@ layout: page
 This comment prevents the first line from showing up in the navbar.
 {% endcomment %}
 
+![Main Screen](/assets/images/portfolio/collegesnapps/CollegeSnapps Dashboard 1.png){:width="100%"}
+
 # Context: CollegeSnapps was designed to help students "Get to and through college."
 Don Frazer and Matt Drake were both educators who had a dream to help underprivileged students get into college. They had noticed a huge problem which could be easily solved. As students work their way through high school, but they were not aware of deadlines that could critically affect their chance of getting a higher education.  For example, if they forget to sign up for the ACT by a certain date then this could cascade into missing college submission deadlines, which could then have them missing the first year of college. For some of these students, they would be the first in their family to ever go to college. If they missed that first deadline then it was very unlikely that they would ever go at all.
 
@@ -24,8 +26,6 @@ I then worked with my team to think through how to architect the front and backe
 ![Screen3](/assets/images/portfolio/collegesnapps/CollegeSnapps3.png){:width="40%"}
 ![Screen4](/assets/images/portfolio/collegesnapps/CollegeSnapps4.png){:width="40%"}
 
-
-![Screen5](/assets/images/portfolio/collegesnapps/CollegeSnapps5.png){:width="40%"}
 
 Our next step was to look at the problem from the counselor's perspective. The counselors had to manage hundreds of students. CollegeSnapps could solve this by making it easier to track and automate many of the flows for the different students. The counselors would log in through a website and build scripts that all of the students could follow.
 

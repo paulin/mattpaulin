@@ -5,6 +5,10 @@ layout: page
 This comment prevents the first line from showing up in the navbar.
 {% endcomment %}
 
+[![Main Screen](/assets/images/portfolio/hwy61/HWY61MainScreen.png "Video walkthrough of the product")](https://www.youtube.com/watch?v=e1lhpsDEG_4)
+[YouTube Video Walkthrough](https://www.youtube.com/watch?v=e1lhpsDEG_4)
+
+
 # Highway 61 : Connecting music to your world.
 HWY61 was a platform for "Americana fans Who Want good curated Americana related media in one place HWY61 Is a your gateway to all things Americana"
 

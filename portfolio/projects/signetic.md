@@ -5,6 +5,8 @@ layout: page
 This comment prevents the first line from showing up in the navbar.
 {% endcomment %}
 
+![Screen5](/assets/images/portfolio/signetic/Signetic5.png){:width="100%"}
+
 # Context: Signetic MVS created and ready just before the 2021 vaccination efforts
 In November 2020 it was announced that a vaccine was created to battle Covid. Immediately a market was kicked off for vaccinating the entire U.S. population. Signetic MVS was formed from flu vaccination software. Signetic MVS was built on top of the Power Apps Platform from Microsoft with a modern product team in Nepal.
 
@@ -31,16 +33,11 @@ It was an absolute team effort, thanks to the City of Seattle, Seattle Fire Depa
 
 Additionally our team was the most equitable in the nation. Thanks to the features and rapid rollout of the software we were able to conclusively show that we had gotten the vaccines to the people who needed it the most in the right order.
 
-
-
-
+{% comment %}
 ![Screen4](/assets/images/portfolio/signetic/Signetic4.png){:width="70%"}
-![Screen5](/assets/images/portfolio/signetic/Signetic5.png){:width="70%"}
 ![Screen6](/assets/images/portfolio/signetic/Signetic6.png){:width="70%"}
 ![Screen7](/assets/images/portfolio/signetic/Signetic7.png){:width="70%"}
 ![Screen8](/assets/images/portfolio/signetic/Signetic8.png){:width="70%"}
-
-{% comment %}
 ![Screen1](/assets/images/portfolio/signetic/Signetic1.png){:width="70%"}
 ![Screen9](/assets/images/portfolio/signetic/Signetic9.png){:width="70%"}
 ![Screen10](/assets/images/portfolio/signetic/Signetic10.png){:width="70%"}

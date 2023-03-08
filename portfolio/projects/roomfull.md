@@ -4,9 +4,11 @@ layout: page
 {% comment %}
 This comment prevents the first line from showing up in the navbar.
 {% endcomment %}
-# Roomfull:
+[![RoomfullMain](/assets/images/portfolio/roomfull/RoomFullMain2.png "Video Walkthrough of Roomfull")](https://www.youtube.com/watch?v=jJtQKIXVGNU)
+[View it on YouTube](https://www.youtube.com/watch?v=jJtQKIXVGNU)
 
-# Context: Roomfull?
+
+# Roomfull is an app for musicians
 Roomfull connects entertainers and clients to create amazing events at their houses. The musical artist Tim Bluhm had been using facebook and instagram to perform shows at client’s houses as a way to fill in the gaps on tours. This allowed him to make the most of tours and to connect with his audience in a more personal setting.
 
 In the process of creating this unique experience, he found that it could be profitable but it required a lot of time to communicate and manage the billing aspects for clients. Tim wanted to create Roomfull as a way to turn his business process into a scalable model that all artists could use.

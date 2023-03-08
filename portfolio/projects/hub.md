@@ -5,7 +5,7 @@ layout: page
 This comment prevents the first line from showing up in the navbar.
 {% endcomment %}
 
-
+![Screen1](/assets/images/portfolio/hub/Hub1.png){:width="100%"}
 
 ## Context: What is Hub by CBRE?
 CBRE is the world's largest commercial real estate firm. They help businesses find, maintain, and invest in commercial properties. CBRE had identified a “small office” segment as a valuable group. These “small office” clients are businesses requiring up to 10,000 sqft of office space. Hub was a highly visible initiative for helping small offices to browse the huge catalog of properties that CBRE maintains. The goal of the project was to build an online website that allowed this segment of clients to find the perfect office space while also minimizing the amount of time a broker was needed to fill the space.
@@ -15,8 +15,6 @@ Originally Hub was conceived to just be a listing platform. The technology used 
 
 ![Screen3](/assets/images/portfolio/hub/Hub3.png){:width="40%"}
 ![Screen5](/assets/images/portfolio/hub/Hub5.png){:width="40%"}
-
-![Screen1](/assets/images/portfolio/hub/Hub1.png){:width="40%"}
 
 ![Screen4](/assets/images/portfolio/hub/Hub4.png){:width="40%"}
 ![Screen2](/assets/images/portfolio/hub/Hub2.png){:width="40%"}
