@@ -1,5 +1,12 @@
 ---
 layout: page
+
+carousels:
+  - images:
+    - image: /assets/images/portfolio/collegesnapps/CollegeSnapps1.png
+    - image: /assets/images/portfolio/collegesnapps/CollegeSnapps2.png
+    - image: /assets/images/portfolio/collegesnapps/CollegeSnapps3.png
+    - image: /assets/images/portfolio/collegesnapps/CollegeSnapps4.png
 ---
 {% comment %}
 This comment prevents the first line from showing up in the navbar.

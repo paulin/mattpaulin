@@ -1,5 +1,13 @@
 ---
 layout: page
+
+carousels:
+  - images:
+    - image: /assets/images/portfolio/roomfull/Roomfull1.png
+    - image: /assets/images/portfolio/roomfull/Roomfull2.png
+    - image: /assets/images/portfolio/roomfull/Roomfull3.png
+    - image: /assets/images/portfolio/roomfull/Roomfull4.png
+    - image: /assets/images/portfolio/roomfull/Roomfull5.png
 ---
 {% comment %}
 This comment prevents the first line from showing up in the navbar.
@@ -13,11 +21,7 @@ Roomfull connects entertainers and clients to create amazing events at their hou
 
 In the process of creating this unique experience, he found that it could be profitable but it required a lot of time to communicate and manage the billing aspects for clients. Tim wanted to create Roomfull as a way to turn his business process into a scalable model that all artists could use.
 
-![Screen1](/assets/images/portfolio/roomfull/Roomfull1.png){:width="30%"}
-![Screen2](/assets/images/portfolio/roomfull/Roomfull2.png){:width="30%"}
-![Screen3](/assets/images/portfolio/roomfull/Roomfull3.png){:width="30%"}
-![Screen4](/assets/images/portfolio/roomfull/Roomfull4.png){:width="30%"}
-![Screen5](/assets/images/portfolio/roomfull/Roomfull5.png){:width="30%"}
+{% include carousel.html height="80" unit="%" duration="7" number="1" %}
 
 
 # Action: Turning an idea into a real product
