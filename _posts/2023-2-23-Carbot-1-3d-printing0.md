@@ -16,8 +16,8 @@ He is incredible at typing while teaching at the same time. Many times I had to 
 
 
 ### The Code
-If you just want my code, you can grab it from here [my github repo](https://github.com/paulin/coding-with-radu). Its pretty easy to run, just download the code then open index.html in a browser and it should start right up.
+If you just want my code, you can grab it from [my github repo](https://github.com/paulin/coding-with-radu). Its pretty easy to run, just download the code then open index.html in a browser and it should start right up.
 
 
 ### Observations
-What Radu is doing isn't exactly the way I want to build Carbot. Carbot will have more than 5 distance sensors, in fact I want it to be able to do everything from a simple vision sensor. I also don't expect the car to learn how to get around the block on it's own. My real plan is to build an android app that will display what the onboard camera is seeing, then to control the car from the app. I will will have my son drive the car while recording the inputs and video. Then we will use this information as the training set into a TensorFlow model.  The resulting network will be a sort of autopilot that we can turn on from the app and the car should just drive itself...  Should....
+What Radu is doing isn't exactly the way I want to build Carbot. Carbot will have more than 5 distance sensors, in fact I want it to be able to do everything from a simple vision sensor. I also don't expect the car to learn how to get around the block on it's own. My real plan is to build an android app that will display what the onboard camera is seeing, then to control the car from the app. I will then have my son drive the car while recording the inputs and video. We will use this information as the training set into a TensorFlow model.  The resulting network will be a sort of autopilot that we can turn on from the app and the car should just drive itself...  Should....
