@@ -29,9 +29,10 @@ When the number of clients grew too great for the founders to interact with, I f
 ![Screen3](/assets/images/portfolio/signetic/Signetic3.png){:width="100%"}
 
 
-It was an absolute team effort, thanks to the City of Seattle, Seattle Fire Department, and the surrounding Fire Department the greater team successfully vaccinated 350,000 people, most in Seattle and the surrounding area. This made Seattle the second most vaccinated city in the United States. The results were immediate. The covid rates dropped dramatically allowing the City to reopen with confidence.
+It was an absolute team effort, thanks to the City of Seattle, Seattle Fire Department, and the surrounding Fire Department the greater team successfully vaccinated 500,000 people, most in Seattle and the surrounding area. This made Seattle the second most vaccinated city in the United States. The results were immediate. The covid rates dropped dramatically allowing the City to reopen with confidence.
 
 Additionally our team was the most equitable in the nation. Thanks to the features and rapid rollout of the software we were able to conclusively show that we had gotten the vaccines to the people who needed it the most in the right order.
+
 
 {% comment %}
 ![Screen4](/assets/images/portfolio/signetic/Signetic4.png){:width="70%"}
