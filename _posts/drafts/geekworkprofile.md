@@ -27,8 +27,9 @@ It is always chaos, and there are always opportunities in disquise. Being in tec
 
 
 #Book most impactful to your career or book most recently read?
-Speed and Scale by John Doerr is a must read. This book will provide you with what you need to know about climate change and how you can help. Additionally it is a lesson in how to apply OKRs toward self governance which I believe might be an innovation politics has been missing. If you plan on having kids or having giving your kids a better chance at more generations you need to
+"Speed and Scale" by John Doerr is a must read. This book will provide you with what you need to know about climate change and how you can help. Additionally it is a lesson in how to apply OKRs toward self governance which I believe might be an innovation politics has been missing.
 
+I don't think we have enough people worrying about these problems and John Doerr has created the dashboard to keep track of where we are in correcting our climate.
 
 
 #Hobby or what do you love to do outside of work?
