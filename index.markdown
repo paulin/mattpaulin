@@ -15,4 +15,4 @@ You can learn more about me on [LinkedIn](https://www.linkedin.com/in/mattpaulin
 
 [Let's meet online](https://calendly.com/mattpaulin)
 
-<p/>{:.porthole style="height:200px;"}
+<!--<p/>{:.porthole style="height:200px;"}-->
