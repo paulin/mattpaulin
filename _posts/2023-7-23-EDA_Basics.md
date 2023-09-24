@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EDA Basics"
-date:   2023-09-23
+date:   2023-07-23
 categories: Data
 ---
 
