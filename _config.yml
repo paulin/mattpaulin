@@ -52,3 +52,5 @@ porthole_background_image_url: /assets/images/background2.jpeg
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+github: [metadata]
