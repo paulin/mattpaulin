@@ -43,6 +43,15 @@ I used a Random Forest Regressor since the data involves both cyclic time-relate
 
 Another advantage of using Random Forest for this case is its interpretability in terms of feature importance, which can offer insights into how different times of day or days of the week affect drive times.
 
+In this model I was able to achieve the following
+
+* Mean Absolute Error: 3.25
+* Mean Squared Error: 23.31
+
+With a Mean Absolute Error (MAE) of 3.25 and a Mean Squared Error (MSE) of 23.31, the model seems to have a reasonable level of accuracy, given the context of predicting drive times. An MAE of 3.25 means that on average, the model's predictions are within about 3.25 minutes of the actual drive times
+
+After that I used the model to predict what it would look like for each day of the week.
+
 # Predicted Drive Times from Seattle to Stevens Ski Resort
 
 Here are the predicted drive times for each day of the week:
@@ -56,7 +65,7 @@ Here are the predicted drive times for each day of the week:
 ![Predicted Drive Time on Sunday](/assets/images/drive_time_charts/drive_time_sunday.png)
 
 # What would I do next time?
-I had a lot of fun doing this analysis but I think I would do it differently in the future. 
+I had a lot of fun doing this analysis but I think I would do it differently in the future.
 
 
 ### 1. Track the return times from Stevens
