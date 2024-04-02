@@ -26,7 +26,7 @@ You can run the script against Google Maps and get a distance back with a little
 
 I then put this all into a Docker instance and posted it to CloudRun. With some configuration, I was able to get it to append the results into a csv file in Google Cloud Storage.
 
-I pulled the file down and posted it [here](https://github.com/Ministry-of-Product/forecaster/blob/main/gcs-docker-forecaster/steventime.csv) in case you want to give it a try.
+I pulled the file down and posted it [here](https://github.com/Ministry-of-Product/forecaster/blob/main/analysis/steventime.csv) in case you want to give it a try.
 
 Here is my full repo: [GitHub - Forecaster Repo](https://github.com/Ministry-of-Product/forecaster)
 
@@ -64,6 +64,11 @@ Here are the predicted drive times for each day of the week:
 ![Predicted Drive Time on Saturday](/assets/images/drive_time_charts/drive_time_saturday.png)
 ![Predicted Drive Time on Sunday](/assets/images/drive_time_charts/drive_time_sunday.png)
 
+# What stood out in this analysis?
+For one, I'm suprised as to how there is such slow down period on Monday and Tuesday in the morning. I had thought I would see that sort of activity on Saturday and Sunday. I keep reviewing my code and I'm pretty sure I got the days of the week right. But I'm still suspicious.
+
+I also can't help but to look at this and see just the range is within 5 or 10 minutes difference. I realize that this is a prediction built from actual data over a several month period but it still seems to make this whole project seem moot because we are not talking about that much difference.  
+
 # What would I do next time?
 I had a lot of fun doing this analysis but I think I would do it differently in the future.
 
@@ -86,3 +91,5 @@ When the dataset gets larger and more complex, capturing intricate time series p
 
 # Conclusion
 Overall I think this project was a lot of fun for just creating a dataset and seeing what I could do with it. It is clearly not rich enough to be useful beyond my on intution. Basically leave around 6:30 am on a weekend if you want to make sure you have a parking spot.
+
+I do think there is a world of personalized forecasting that hasn't been thought out yet. For instance, if you have a specific commute, when is the best time to leave?  We all develop these mental models but it would be nice to use some of the Google Maps historical drive times to help us optimize. 
