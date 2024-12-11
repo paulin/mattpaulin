@@ -104,7 +104,7 @@ To replicate Carbot, you’ll need:
 2. **Arduino UNO with Bluetooth**  
    [Buy from Arduino Store](https://store-usa.arduino.cc/collections/boards/products/arduino-uno-wifi-rev2)
 3. **Donkey Car Partial Kit**  
-   You can get this [Kit](https://store.donkeycar.com/collections/frontpage) from the DonkeyCar Store. Used for the frame, though I plan to design my own.
+   You can get this [Kit](https://store.donkeycar.com/collections/frontpage) from the DonkeyCar Store. I really only used for the frame in the future it will make more sense to design my own.
 4. **Camera and Headset**
   I hacked apart a cheap drone headset with camera to install a camera onto the device. It was from 2 years ago and now I’m not sure what I bought. But it isn’t hard to find a similar camera. One thing to note is that I don’t expect this phase to last long. I would like to get a phone mounted on the car and have another phone talking to it as the controller. So if you want to recreate this part you will need to see what is in the market that can have a camera and a little screen to mount in front of your phone.
 
