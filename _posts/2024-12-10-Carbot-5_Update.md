@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carbot Progress: From Idea to Prototype"
+title: "Carbot 5: Carbot system is ready to train"
 date: 2024-12-10
 categories: robotics carbot ai
 ---
