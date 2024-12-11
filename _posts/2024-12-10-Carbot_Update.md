@@ -46,13 +46,12 @@ Once you put it together it looks like this.
 
 One really unexpected feature that materialized from this experimentation is that I can use the car power supply to power the Arduino BLE thus I didn’t need a separate power supply for the Arduino
 
-## Arduino Code
 ![Arduino up close](/assets/images/carbot-2024/arduino-close1.png)
+
 ![Arduino up close](/assets/images/carbot-2024/arduino-close2.png)
 
-The Arduino code listens for Bluetooth commands to control the car's steering and throttle. By isolating expensive components (like the phone) from high-power batteries, the system remains safe and cost-effective. The Arduino also enforces a governed speed to prevent the car from exceeding safe limits.
-
-I’m using the WLtoys 144010 RC Car, which can reach speeds of 40 MPH. While the car has this capability, I’ve configured the Arduino to limit the top speed until the system is more reliable.
+## Arduino Code
+The [Arduino code](https://github.com/Carbot-Dev/carbot) listens for Bluetooth commands to control the car's steering and throttle. By isolating expensive components (like the phone) from high-power batteries, the system remains safe and cost-effective. The Arduino also enforces a governed speed to prevent the car from exceeding safe limits.
 
 I’m using an [Arduino UNO](https://store-usa.arduino.cc/products/arduino-uno-wifi-rev2) as the controller. This $50 bit of electronics will live onboard the car and interface with the servo and the motor controller. The code for this can be found here. It is a very simple program that really just looks for a blue tooth connection and then allows whatever is connected to it to specify the servo setting that steer the car or the setting that tells it how fast to go forward or backward.  This keeps any more expensive electronics, like the phone, from having to be connected to the powerful batteries used to drive the motor. In the case of a surge the worst that can happen is it will fry the Arduino, which is easily replaced.
 
