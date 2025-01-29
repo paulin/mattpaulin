@@ -50,60 +50,60 @@ model = tf.keras.Sequential([
 ```python
 tf.keras.layers.Conv2D(32, (3, 3), activation='relu', input_shape=(224, 224, 3))
 ```
-•	Purpose: Detects low-level features such as edges, textures, and patterns.
-•	Why we use it: Convolution helps extract important spatial features while reducing the number of parameters compared to fully connected layers.
-•	Activation: ReLU to introduce non-linearity and avoid vanishing gradients.
+* Purpose: Detects low-level features such as edges, textures, and patterns.
+* Why we use it: Convolution helps extract important spatial features while reducing the number of parameters compared to fully connected layers.
+* Activation: ReLU to introduce non-linearity and avoid vanishing gradients.
 
 #### 2. MaxPooling2D Layer
 ```python
 tf.keras.layers.MaxPooling2D((2, 2))
 ```
-•	Purpose: Reduces the spatial dimensions by selecting the max value from each 2x2 region.
-•	Why we use it: Helps reduce computation while retaining important features, improves generalization, and reduces overfitting.
+* Purpose: Reduces the spatial dimensions by selecting the max value from each 2x2 region.
+* Why we use it: Helps reduce computation while retaining important features, improves generalization, and reduces overfitting.
 
 #### 3. Second Conv2D Layer (64 filters)
 ```python
 tf.keras.layers.Conv2D(64, (3, 3), activation='relu')
 ```
-•	Purpose: Extracts more complex features from the previous layer.
-•	Why we use it: Builds upon previously detected patterns to identify higher-level shapes.
+* Purpose: Extracts more complex features from the previous layer.
+* Why we use it: Builds upon previously detected patterns to identify higher-level shapes.
 
 #### 4. Second MaxPooling2D Layer
 ```python
 tf.keras.layers.MaxPooling2D((2, 2))
 ```
-•	Purpose: Further reduces spatial dimensions while maintaining the most significant features.
+* Purpose: Further reduces spatial dimensions while maintaining the most significant features.
 
 #### 5. Flatten Layer
 ```python
 tf.keras.layers.Flatten()
 ```
-•	Purpose: Converts 2D feature maps into a 1D array.
-•	Why we use it: Prepares the feature maps for processing by the dense (fully connected) layers.
+* Purpose: Converts 2D feature maps into a 1D array.
+* Why we use it: Prepares the feature maps for processing by the dense (fully connected) layers.
 
 #### 6. First Dense Layer (128 neurons)
 ```python
 tf.keras.layers.Dense(128, activation='relu', kernel_regularizer=tf.keras.regularizers.l2(0.01))
 ```
-•	Purpose: Learns high-level combinations of features for accurate predictions.
-•	Why we use it: Fully connected layers analyze extracted features in greater depth.
-•	Regularization: L2 regularization to prevent overfitting.
+* Purpose: Learns high-level combinations of features for accurate predictions.
+* Why we use it: Fully connected layers analyze extracted features in greater depth.
+* Regularization: L2 regularization to prevent overfitting.
 
 #### 7. Dropout Layer
 ```python
 tf.keras.layers.Dropout(0.3)
 ```
-•	Purpose: Prevents overfitting by randomly disabling 30% of neurons during training.
+* Purpose: Prevents overfitting by randomly disabling 30% of neurons during training.
 
 #### 8. Second Dense Layer (64 neurons)
 ```python
 tf.keras.layers.Dense(64, activation='relu', kernel_regularizer=tf.keras.regularizers.l2(0.01))
 ```
-•	Purpose: Further refines the learned patterns for better performance.
+* Purpose: Further refines the learned patterns for better performance.
 
 #### 9. Output Layer (2 neurons)
 ```python
 tf.keras.layers.Dense(2, activation='sigmoid')
 ```
-•	Purpose: Outputs servo positions (X, Y) in the normalized range [0,1].
-•	Why we use it: The sigmoid activation ensures outputs stay within the expected range.
+* Purpose: Outputs servo positions (X, Y) in the normalized range [0,1].
+* Why we use it: The sigmoid activation ensures outputs stay within the expected range.
