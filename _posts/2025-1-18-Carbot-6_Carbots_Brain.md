@@ -94,6 +94,8 @@ tf.keras.layers.Dense(128, activation='relu', kernel_regularizer=tf.keras.regula
 tf.keras.layers.Dropout(0.3)
 ```
 * Purpose: Prevents overfitting by randomly disabling 30% of neurons during training.
+* 0.1 - 0.3 (10% to 30%) is common.
+* Higher values (e.g., 0.5) can help, but too much can slow learning.
 
 #### 8. Second Dense Layer (64 neurons)
 ```python
@@ -107,3 +109,41 @@ tf.keras.layers.Dense(2, activation='sigmoid')
 ```
 * Purpose: Outputs servo positions (X, Y) in the normalized range [0,1].
 * Why we use it: The sigmoid activation ensures outputs stay within the expected range.
+
+## Training
+
+
+### Optimizing
+These the the potential optimizers you can use, I choose Adam
+
+* SGD (Stochastic Gradient Descent):	Uses a fixed learning rate and updates all parameters at the same rate.
+* Adam (Adaptive Moment Estimation):	Adapts learning rates for different parameters using momentum and past gradients.
+* RMSprop:	Similar to Adam but without momentum correction.
+
+```python
+optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
+```
+
+### Compiling
+I do this step to define how the model will learn.
+
+```python
+model.compile(optimizer=optimizer, loss='mse', metrics=['mae'])
+```
+
+Note: I'm using both the MSE loss function and Mean Absolute Error for evaluation
+*	Loss function: 'mse' (Mean Squared Error): MSE is more sensitive to large errors, which helps the model correct them faster.
+*	Evaluation metric: 'mae' (Mean Absolute Error): MAE gives a more interpretable average error in the same units as the target variable.    
+
+### Training the model
+```python
+model.fit(images_np, servo_positions_np, epochs=50, batch_size=32, validation_split=0.2)
+```
+What is this doing?
+* Trains the model on the dataset (images_np and servo_positions_np).
+* Runs for 50 epochs (full passes over the dataset) to prevents underfitting, balances accuracy and training time.
+* Uses mini-batches of size 32 (updates weights after every 32 samples) because smaller batches generalize better but train slower.
+* Reserves 20% of the data (validation_split=0.2) for validation to helps detect overfitting during training.          
+
+## Issues and how to improves
+* In my training data the first three data points are all [0.0, 0.0], meaning the servo was likely at a stationary position and this could bias the training.                   
