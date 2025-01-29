@@ -10,10 +10,24 @@ I have been working on debuggin how Carbot can see and how to get the servo outp
 In this post, we will break down the layers of our convolutional neural network (CNN) used to predict servo positions from images. Below is the model architecture I am using:
 
 
-## How the brain works
+
+## Layers Used
+Here are the various layers used and why.
+
+| Layer                | Function                                      | Why It's Used                            |
+|----------------------|----------------------------------------------|-----------------------------------------|
+| **Conv2D (32 filters)** | Extracts low-level features (edges/textures) | Detects basic patterns in the image     |
+| **MaxPooling2D**     | Reduces spatial dimensions                   | Prevents overfitting, speeds up training |
+| **Conv2D (64 filters)** | Extracts complex features                   | Detects advanced patterns               |
+| **MaxPooling2D**     | Further reduces dimensions                   | Simplifies computation                  |
+| **Flatten**          | Converts 2D to 1D                            | Prepares for dense layers               |
+| **Dense (128 units)** | High-level feature learning                  | Combines extracted features             |
+| **Dropout (30%)**    | Prevents overfitting                         | Ensures generalization                  |
+| **Dense (64 units)** | Additional processing                        | Refines features further                |
+| **Dense (2 outputs)** | Outputs servo positions `(X, Y)`             | Constrains outputs to `[0,1]` range     |
 
 
-
+## The python code
 
 ```python
 import tensorflow as tf
@@ -93,17 +107,3 @@ tf.keras.layers.Dense(2, activation='sigmoid')
 ```
 •	Purpose: Outputs servo positions (X, Y) in the normalized range [0,1].
 •	Why we use it: The sigmoid activation ensures outputs stay within the expected range.
-
-### Summary
-
-| Layer                | Function                                      | Why It's Used                            |
-|----------------------|----------------------------------------------|-----------------------------------------|
-| **Conv2D (32 filters)** | Extracts low-level features (edges/textures) | Detects basic patterns in the image     |
-| **MaxPooling2D**     | Reduces spatial dimensions                   | Prevents overfitting, speeds up training |
-| **Conv2D (64 filters)** | Extracts complex features                   | Detects advanced patterns               |
-| **MaxPooling2D**     | Further reduces dimensions                   | Simplifies computation                  |
-| **Flatten**          | Converts 2D to 1D                            | Prepares for dense layers               |
-| **Dense (128 units)** | High-level feature learning                  | Combines extracted features             |
-| **Dropout (30%)**    | Prevents overfitting                         | Ensures generalization                  |
-| **Dense (64 units)** | Additional processing                        | Refines features further                |
-| **Dense (2 outputs)** | Outputs servo positions `(X, Y)`             | Constrains outputs to `[0,1]` range     |
