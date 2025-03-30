@@ -3,7 +3,7 @@ layout: post
 title: "Automate and Elevate"
 date: 2025-03-17
 ---
-![Bots support us](/assets/images/automate-and-elevate/ladder_bots.png)
+![Bots support us](/assets/images/automate-and-elevate/ladder_bots.webp)
 
 # Automate and Elevate
 
