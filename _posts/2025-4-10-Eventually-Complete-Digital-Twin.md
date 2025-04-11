@@ -4,7 +4,7 @@ title: "Eventually Complete Digital Twin"
 date: 2025-04-10
 categories: real-estate data digital-twin
 ---
-![Digital Twin](/assets/images/digital_twin/digital_twin.webp)
+![Digital Twin](/assets/images/digital_twin/digital_twin.png)
 
 **Eventually Complete Digital Twin** is a term I’ve been using with colleagues, and I realized I never fully explained what I meant. So I wanted to take a minute to break it down and explore the idea more clearly.
 
