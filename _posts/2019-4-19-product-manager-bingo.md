@@ -35,6 +35,7 @@ It’s not an easy job. You need to be flexible, focused, and constantly helping
 
 The good news? The more you practice these skills, the stronger they’ll get. By staying conscious of what you’re doing each day, you’ll start to notice patterns in your work.
 
-To make the journey a little lighter, I created some ![Product Manager Bingo Cards](/assets/downloads/product_manager_bingo.pdf) a fun way to spot those moments as they happen.
+To make the journey a little lighter, I created some [Download the Product Manager Bingo Card (PDF)](/assets/downloads/product_manager_bingo.pdf)
+a fun way to spot those moments as they happen.
 
 Enjoy!
