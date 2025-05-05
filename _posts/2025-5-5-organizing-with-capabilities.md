@@ -5,7 +5,7 @@ layout: post
 categories: product management
 ---
 
-![Capability Mapping](/assets/images/capabitlity_mapping.png)
+![Capability Mapping](/assets/images/capability_mapping.png)
 
 At its core, a product manager is responsible for **managing the to-do list everyone else is working from**. You’re constantly prioritizing, splitting tasks between teams, tracking progress, and helping people think about what’s hard versus easy. Somewhere in the middle of all this work is the idea of **epics**—bigger containers that help you organize related to-dos into groups.
 
