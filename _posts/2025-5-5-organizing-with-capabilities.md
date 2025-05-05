@@ -2,7 +2,7 @@
 title: "Why Product Managers Should Organize Epics by Capabilities"
 date: 2025-05-05
 layout: post
-categories: ideation
+categories: product management
 ---
 
 ![Capability Mapping](/assets/images/capabitlity_mapping.png)
