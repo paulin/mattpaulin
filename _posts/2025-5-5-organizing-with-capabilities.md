@@ -1,5 +1,5 @@
 ---
-title: "Why Product Managers Should Organize Epics by Capabilities"
+title: "Organizing Epics by Capabilities"
 date: 2025-05-05
 layout: post
 categories: product management
