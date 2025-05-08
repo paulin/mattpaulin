@@ -2,7 +2,7 @@
 title: "Organizing Epics by Capabilities"
 date: 2025-05-05
 layout: post
-categories: product management
+categories: product-management
 ---
 
 ![Capability Mapping](/assets/images/epic_pirate_map.png)

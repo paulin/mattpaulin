@@ -1,6 +1,6 @@
 ---
 layout: category
-category: product management
+category: product-management
 title: Product Management
 permalink: /categories/product_management/
 ---
