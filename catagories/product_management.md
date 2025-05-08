@@ -5,6 +5,8 @@ title: Product Management
 permalink: /categories/product_management/
 ---
 <h1>{{ page.title }}</h1>
+<p>Total posts in site: {{ site.posts | size }}</p>
+
 
 <ul>
   {% for post in site.posts %}
