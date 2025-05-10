@@ -5,6 +5,7 @@ date: 2025-05-10
 author: "Your Name"
 categories: software product-management readiness-levels
 ---
+![Capability Readiness Levels](/assets/images/Capability_Readiness_Levels.png)
 
 You can’t have a meaningful conversation about software development without eventually asking: **How good do you want the software to be?**
 
