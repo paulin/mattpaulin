@@ -1,7 +1,7 @@
 ---
 layout: category
 category: product-management
-title: Product Management
+title: Product Playbook
 permalink: /categories/product_management/
 ---
 <h1>{{ page.title }}</h1>

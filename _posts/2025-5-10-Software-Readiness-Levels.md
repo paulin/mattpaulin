@@ -2,8 +2,8 @@
 layout: post
 title: "Understanding Readiness Levels in Software Development"
 date: 2025-05-10
-author: "Your Name"
-categories: software product-management readiness-levels
+author: "Matt Paulin"
+categories: [software, product-management, readiness-levels]
 ---
 ![Capability Readiness Levels](/assets/images/Capability_Readiness_Levels.png)
 
