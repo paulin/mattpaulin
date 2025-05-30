@@ -5,13 +5,11 @@ date: 2025-05-29
 categories: [ideas, inventions, fun]
 ---
 
-## Idea Sparks: Inventions for the absurd and the despriately needed
+## Idea Sparks: Absurb Inventions from my mind
 
-This post is for creative thinkers, builders, makers, weekend tinkerers, UX designers, and people who lie awake at night thinking, *"Why doesn’t that already exist?"* It's for the futurest that like to try and solve the endless puzzle that surrounds us.
+I generate these all the time and I find I have to write these out of your head or I tend to overthink them.
 
-For me I generate these all the time. Taking a page from Neil Gaiman you have to "write these out of your head" if not I have learned that I get stuck overthinking them. The good ideas always get in the way of the great ones.
-
-So here is a ship in a bottle, a timecapsule, a packet to send your way. Maybe you're a product manager, an engineer, or just someone who wants to solve weird little annoyances with clever solutions. Read through. Steal an idea. Improve one. Share it. Build something from it. Or just cite it as prior art to undercut a patent troll of the future.
+Maybe you're a product manager, an engineer, or just someone who wants to solve weird little annoyances with clever solutions. Read through. Steal an idea. Improve one. Share it. Build something from it. Or just cite it as prior art to undercut a patent troll of the future.
 
 This will be the first of many batches that I dropping off on the internet and maybe they will grab your attention and perhaps be the catalyst that sparks something bigger.
 
