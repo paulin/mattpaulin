@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Why Isn’t This a Thing Yet?"
+title: "Idea Sparks 1"
 date: 2025-05-29
 categories: [ideas, inventions, fun]
 ---
 
-## Idea Sparks: Absurb Inventions from my mind
+## Idea Sparks: Inventions from my mind
 
 I generate these all the time and I find I have to write these out of your head or I tend to overthink them.
 
