@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Idea Sparks 1"
-date: 2025-05-29
+date: 2023-11-28
 categories: [ideas, inventions, fun]
 ---
 
@@ -68,28 +68,3 @@ This will be the first of many batches that I dropping off on the internet and m
 **The Spark:** Assisted pull-ups are inconsistent and clunky.  
 **The Pitch:** A smart exercise platform that subtracts a fixed weight (e.g., 20 lbs) in real-time. Stand on it, and it offers resistance support only when you're over the limit. Perfect for developing strength while tracking progress.  
 **Why It Matters:** Builds consistency and measurable improvement for bodyweight training. Could extend to rehab or physical therapy.
-
----
-
-## So… What’s the Point?
-
-This isn’t a product roadmap. It’s a sandbox.
-
-These "idea seeds" are here to:
-- Make you laugh  
-- Start a conversation at lunch
-- Make you want to build something  
-
-Whether you're an engineer, a designer, a founder, or just a curious human who gets irrationally mad at 3 AM chirping smoke alarms — this is for you.
-
----
-
-## What You Can Do:
-- **Steal an idea.** Seriously, please build one and let me know how it turns out.
-- **Improve one.** Tell me how it could be better.
-- **Add your own.** Got a weirdly brilliant idea? Drop it in the comments or message me.
-- **Collaborate.** Some of these could be real projects. Want to co-build?
-
-This isn’t a pitch deck. It’s a conversation starter.
-
-Thanks for reading. Let's invent weird, useful, joyful things.

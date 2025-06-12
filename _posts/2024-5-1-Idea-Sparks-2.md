@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Idea Sparks 2"
-date: 2025-6-10
+date: 2024-5-1
 categories: [ideas, inventions, fun]
 ---
 
@@ -78,13 +78,3 @@ This is another batch of idea sparks I give to you. I hope they find a way to am
 **The Spark:** Trees grow. Sometimes too much.  
 **The Pitch:** A controlled-growth tourniquet you wrap around a young tree. It gently constrains expansion in certain directions (e.g. near a fence, foundation, or wires).  
 **Why It Matters:** Precision urban landscaping. Manage growth, don’t just trim it after the fact.
-
----
-
-## What You Can Do:
-- **Steal an idea.** Seriously, please build one and let me know how it turns out.
-- **Improve one.** Tell me how it could be better.
-
-This isn’t a pitch deck. It’s a conversation starter.
-
-Thanks for reading. Go and invent weird, useful, joyful things.
