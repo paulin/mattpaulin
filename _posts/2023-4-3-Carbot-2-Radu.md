@@ -2,7 +2,7 @@
 layout: post
 title:  "Carbot 2: Learning how to make things learn"
 date:   2023-04-03
-categories: Carbot
+categories: robotics carbot ai
 ---
 
 ### How to make machines learn

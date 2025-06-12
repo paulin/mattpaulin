@@ -2,7 +2,7 @@
 layout: post
 title:  "Carbot 3: Android Arduino"
 date:   2023-04-22
-categories: Carbot
+categories: robotics carbot ai
 ---
 
 # Success! I have created an Android app that controls the car

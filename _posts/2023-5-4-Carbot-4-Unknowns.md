@@ -2,7 +2,7 @@
 layout: post
 title:  "Carbot 4: Known Unknowns"
 date:   2023-05-5
-categories: Carbot
+categories: robotics carbot ai
 ---
 
 # Goal! To get ready for Summer

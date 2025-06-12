@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Idea Cluster 2"
+title: "Idea Sparks 2"
 date: 2025-6-10
 categories: [ideas, inventions, fun]
 ---
 
-## Idea Sparks
+## Idea Sparks: Inventions from my mind
 
 This is another batch of idea sparks I give to you. I hope they find a way to amuse you or inspire you.  
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Carbot 1: Getting the body together"
 date:   2023-02-23
-categories: Carbot
+categories: robotics carbot ai
 ---
 
 ### Backstory
