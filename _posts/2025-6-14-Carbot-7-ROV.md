@@ -26,5 +26,12 @@ I am running it on Google Cloud Platform.  In it is an html file that you can op
 ### New Carbot 2 Project for Android
 I started this ([repository](https://github.com/Carbot-Dev/carbot-android-2)) as the next Carbot Android codebase.  I wanted to just leave the old one in a state of working condition if I needed it as a reference.  Yeah, I know, Git can do this for me but for some reason this just felt like such a big change in direction I wanted to leave what I had working alone.  
 
+### I started using Cursor
+This took a little while to get setup and understand.  For the Node Signaling server it was fairly easy since everything is pretty standardized.  For the Android project it was a little harder.  I first had to get the Android project running through Android Studio, then I just setup Cursor in the same folder.  I have to switch between these IDEs as I develop since Cursor isn't really built to push the build to the phone.  It does work though and I have been able to give the AI prompts to speed up the development.   I think this "Vibe" coding has been one of the biggest changes for Carbot.  I can make a lot more progress faster and not get stuck so quickly.  
+
+### Chat GPT is still my coding buddy
+I feel like I still go to chat.openai.com more than any other AI.  I have found that I do a lot of planning with it and understanding.  Although it had me go down a path with a Janus server for several weeks until I talked to the other AIs and the told me about Signaling. The Janus server was way too heavy and I got stuck doing builds with make and customizing the server.  It was a bit of a waste of time although it uses the same ([ICE protocol](https://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment)) that was later used in the signaling server.  
+
 
 ## What is next?
+I'm pretty happy with the simplicity of the ROV setup.  I essentially log into GCP, start my signaling server, use a web browser to pull up the html console, then I connect the phone.  I'm able to see a live stream from the phone and use a mouse or "wasd" keys to control the car.  The obvious next step is to print a new car body so that I can put the phone on the car and let the car drive around independently.  I think my son will enjoy this part.  He can essentially drive it around remotely.
