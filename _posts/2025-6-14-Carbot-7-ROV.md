@@ -35,3 +35,9 @@ I feel like I still go to chat.openai.com more than any other AI.  I have found 
 
 ## What is next?
 I'm pretty happy with the simplicity of the ROV setup.  I essentially log into GCP, start my signaling server, use a web browser to pull up the html console, then I connect the phone.  I'm able to see a live stream from the phone and use a mouse or "wasd" keys to control the car.  The obvious next step is to print a new car body so that I can put the phone on the car and let the car drive around independently.  I think my son will enjoy this part.  He can essentially drive it around remotely.
+
+I'm also thinking that I want to try to use OpenCV to enhance the images for the CNN.  In previous versions I feel like the learning shows that it has gone well but when we turn on the autopilot it just doesn't seem to react very quickly.  Maybe if I show it where the edge of the sidewalk is then it might handle that better?  I'm not sure.
+
+I think overlaying extra information on top of the stream will be helpful as well.  For instance, now that it has an onboard phone I have GPS and many other capabilities.  So I could overlay the compass information.  I'm not sure of the CNN will pick up on that and learn to turn at the right location but maybe it will.
+
+In general I think I'm pretty close to having a solid development platform for more experimentation of what it takes to build an autonomous vehicle.  In the least the ROV style will be more fun for my son to use.  
