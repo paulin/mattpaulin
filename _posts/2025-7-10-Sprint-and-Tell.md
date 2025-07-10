@@ -4,6 +4,7 @@ title: "Sprint and Tell"
 date: 2025-07-10
 author: "Matt Paulin"
 categories: [software, product-management]
+---
 # Sprint and Tell: A Simpler Way to Focus Sprints on Outcomes
 
 At Kaiizen, we started a small tradition that quietly changed how we work. Every Friday, we’d share something—anything—we’d built, explored, or learned. It wasn’t a big production. Just a “show and tell” to give visibility into what product and engineering were up to.
