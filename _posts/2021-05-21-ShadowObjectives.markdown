@@ -2,7 +2,8 @@
 layout: post
 title:  "Shadow Objectives"
 date:   2021-05-21
-categories: OKR
+author: "Matt Paulin"
+categories: [software, product-management]
 ---
 # Shadow Objectives
 Everyone has objectives, even if they don’t tell you them. I have noticed that if you look at the data you can get a better understanding of what a person’s objectives are. This holds true for entire groups. For example, a company that is investing heavily in R&D will be looking to release a new product. If you couple that with how many patents they have submitted, you can tell that they are looking to secure a legal foothold. By tracking data about a company you can uncover what the true objectives are.
