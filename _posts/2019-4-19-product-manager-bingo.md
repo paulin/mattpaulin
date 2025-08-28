@@ -2,7 +2,8 @@
 layout: post
 title: "Product Management Bingo Card"
 date: 2019-04-22
-categories: Product Management
+author: "Matt Paulin"
+categories: [software, product-management]
 ---
 ![Digital Twin](/assets/images/product_manager_bingo.png)
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "T-Shaped Poster Exercise"
 date:   2021-04-19
-categories:
+author: "Matt Paulin"
+categories: [software, product-management]
 ---
 NOTE: Credit goes to [Kevin Klinemeier](https://www.linkedin.com/in/agilekevin/) for coming up with the original exercise.
 

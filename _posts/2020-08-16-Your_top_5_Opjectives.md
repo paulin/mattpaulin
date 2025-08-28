@@ -3,6 +3,7 @@ layout: post
 title:  "Your top 5 Objectives"
 categories: Governance User Stories
 date: 2020-08-16
+
 ---
 # Your top 5 Objectives
 In this article I want to show how you could build your own platform using Objectives and Key Results.

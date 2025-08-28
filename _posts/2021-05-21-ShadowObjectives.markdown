@@ -2,26 +2,72 @@
 layout: post
 title:  "Shadow Objectives"
 date:   2021-05-21
-categories: OKR
+author: "Matt Paulin"
+categories: [software, product-management]
 ---
+
 # Shadow Objectives
-Everyone has objectives, even if they don’t tell you them. I have noticed that if you look at the data you can get a better understanding of what a person’s objectives are. This holds true for entire groups. For example, a company that is investing heavily in R&D will be looking to release a new product. If you couple that with how many patents they have submitted, you can tell that they are looking to secure a legal foothold. By tracking data about a company you can uncover what the true objectives are.
 
-This holds true for governments as well. If you watch the data you can figure out what the objectives are even if they are not stating them.
-This is what I’m calling “Shadow Objectives” and in this article I wanted to propose how you can detect and verify that a different objective is being made.
+Everyone has objectives—even if they don’t tell you what they are.
 
-## What are Objectives and Key Results?
-Objectives and Key Results are simple in theory. Your company regularly states what it’s objectives are and how it is measuring the success of these objectives. This forces a focus across the rest of the company on those specific metrics. Typically the various departments and individuals align to one or two of the metrics and then create their own objectives that help to reach those metrics. It is a very metric driven way to measure that you are accomplishing what you want to achieve at your company.
-However, sometimes you find at your company that an objective was stated, but it doesn’t seem to be the objective that is being done. Instead you see that departments find it easier to distract, grow, and use disinformation to simply make the other departments look worse so that they can look better. These objectives are what I’m calling shadow objectives. The unspoken, real objectives that an entity; department, company, or individual, is really working towards.
+I've noticed that if you look closely at the data, you can gain a much better understanding of what someone’s true objectives are. This applies not just to individuals, but to entire groups and organizations.
 
-## How would you detect shadow objectives?
-To start with, I think money is the key to understanding where departments are growing more than they need to be. Accounting data is key to doing a full analysis of a series of departments to figure out which are growing rapidly yet not fulfilling the objectives of the larger organization.
-Next you really do need actual objectives from the top of the organization and then for the various departments that compose the organization to state their objectives. Which departments are actually achieving objectives within a reasonable tolerance? Generally that means that 80% of the objectives are reached. If they never are succeeding or they are always at 100% then it is reasonable to ask “why?” and start to uncover the real story.
-Given these datasets; a couple rounds of OKRs and the financial data, I believe that the shadow objectives of an organization can be ferreted out.
-What if OKR’s are not stated?
-This is the case that no one in the company is stating objectives and instead just reporting on key results. Generally they call them KPI, key performance indicators, and they are really just numbers that make it look like they are winning. I would start by ignoring the KPI, if they cannot show what their intentions are BEFORE they do the work then it is simply useless. The analysis can be done without their opinion.
-Instead I think it is important to look at where the company went between two timeframes. Did they acquire more companies? Did they take on more debt? Did they have excessive spending in a direction that has nothing to do with their core business?  These are all fine indicators of what is really going on at a company.
-It is my theory that by looking at the financial statements of a company a machine learning program can propose what the company was trying to achieve by looking at what they actually achieved.
+For example, a company investing heavily in R&D is likely preparing to release a new product. If they’re also submitting a high number of patents, it’s a clear signal they’re trying to secure a legal foothold. By tracking data like this, you can begin to uncover what a company’s *true* objectives are—those that go beyond their public statements.
 
+This same concept holds true for governments. Watch the data, and you’ll often uncover unstated goals.
 
-And this is what I’m calling “Shadow Objectives”
+This is what I’m calling **“Shadow Objectives.”** In this article, I’ll explain what they are, how to detect them, and how you can verify when different objectives are actually driving behavior behind the scenes.
+
+---
+
+## What Are Objectives and Key Results?
+
+Objectives and Key Results (OKRs) are simple in theory. Your company defines its main goals (objectives) and how success will be measured (key results).
+
+This system forces focus. It ensures that departments and individuals align their work with specific, measurable outcomes. Typically, teams adopt one or two company-level objectives and set their own aligned goals to help achieve them.
+
+It’s a very metrics-driven approach to ensuring a company is actually doing what it says it wants to do.
+
+However, sometimes you’ll notice something strange: the stated objective doesn’t seem to match what’s really happening.
+
+Departments may instead choose to distract, grow in unrelated areas, or manipulate perceptions—making other teams look worse so they appear better by comparison. These hidden motivations are what I call **shadow objectives**: the unspoken but very real goals a person, department, or organization is actually pursuing.
+
+---
+
+## How Would You Detect Shadow Objectives?
+
+Start with the money.
+
+Financial data is key. Look at which departments are growing disproportionately without clearly contributing to the company’s stated goals. Accounting data can help identify the areas where expansion doesn't align with stated objectives.
+
+Next, compare the OKRs at different levels of the organization. Are departments consistently hitting or missing their goals?
+
+A healthy range is about 80% achievement. If a team is always at 100%, or consistently failing, that’s a red flag. It raises the question: *What are they really working toward?*
+
+With just a few cycles of OKRs and some financial reports, I believe it’s possible to uncover the shadow objectives at play.
+
+---
+
+## What If OKRs Aren’t Stated?
+
+In some companies, no one explicitly states their objectives. Instead, they report only on results—often under the label of KPIs (Key Performance Indicators).
+
+But KPIs alone are misleading if they aren’t tied to an upfront objective. Numbers without context can be used to paint any picture.
+
+In these cases, I recommend ignoring the KPIs altogether. If a team can’t explain what they intended to achieve *before* doing the work, then the metrics are just noise.
+
+Instead, look at what changed over time:
+
+- Did the company acquire more businesses?
+- Did they take on additional debt?
+- Was there excessive spending in areas unrelated to their core mission?
+
+These are all strong indicators of what’s *actually* going on.
+
+---
+
+## Let the Data Tell the Story
+
+It’s my theory that, by analyzing a company’s financial statements, a machine learning model could predict what the company *was really trying to do*—not based on what they said, but on what they actually achieved.
+
+**And this is what I’m calling “Shadow Objectives.”**

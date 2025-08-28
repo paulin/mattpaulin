@@ -2,7 +2,8 @@
 layout: post
 title:  "Project Sunscreen"
 date:   2023-02-09
-categories: Climate Change
+author: Matt Paulin
+categories: [ideas, inventions, fun, Climate Change]
 ---
 ![1](/assets/images/projectsunscreen/space_umbrella.png){:width="80%" :style="display:block; margin-left:auto; margin-right:auto"}
 
