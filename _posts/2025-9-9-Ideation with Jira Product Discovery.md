@@ -19,6 +19,7 @@ To capture this, we pulled transcripts from our initial sales calls and put them
 
 ## How JPD Works in Practice
 ![An example of the effort impact matrix](/assets/images/ideation/effort_impact_matrix.png)  
+![Bots support us](/assets/images/automate-and-elevate/ladder_bots.webp)
 
 At first glance, JPD looks like a big spreadsheet of ideas. Each row is an idea, and columns are the different dimensions you care about: name, description, product, customer, and so on.
 
