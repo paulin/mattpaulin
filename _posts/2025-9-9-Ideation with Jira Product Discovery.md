@@ -18,8 +18,8 @@ What we discovered is that many companies were only using Renowalk for a slice o
 To capture this, we pulled transcripts from our initial sales calls and put them into JPD. Sometimes we automate this step by running the transcripts through an LLM to identify themes and features. Other times, we go through the notes manually to make sure nothing gets missed. This dual approach has already helped us spot patterns: when multiple customers share the same pain point, it rises to the top of our roadmap.
 
 ## How JPD Works in Practice
-![An example of the effort impact matrix](/assets/images/ideation/effort_impact_matrix.png)  
-![Bots support us](/assets/images/automate-and-elevate/ladder_bots.webp)
+
+![Example Matrix](/assets/images/ideation/effort_impact_matrix.png)  
 
 At first glance, JPD looks like a big spreadsheet of ideas. Each row is an idea, and columns are the different dimensions you care about: name, description, product, customer, and so on.
 
@@ -44,7 +44,7 @@ For example, a lot of our product comes down to how you scan a home. In older so
 
 ## Why This Matters
 
-At a previous company, CBRE, ideas usually came from the top down. A VP or senior leader would pitch an idea, find a way to get it funded, and push it through. Our development team was constantly being pulled in different directions, often for political reasons rather than customer needs.
+At a previous companyies ideas usually came from the top down. A VP or senior leader would pitch an idea, find a way to get it funded, and push it through. Our development team was constantly being pulled in different directions, often for political reasons rather than customer needs.
 
 JPD doesn’t magically solve politics, but it makes things more transparent. Everyone can see the pool of ideas, how they’re being scored, and what customers are actually asking for. That alone keeps the conversation grounded.
 
@@ -58,6 +58,6 @@ The key lesson is that **it’s the process that matters more than the software.
 
 ## Conclusion
 
-Every organization needs a system to collect and evaluate ideas together. At Kaiizen, JPD is helping us do that at scale, but the real win is the culture shift: ideas aren’t buried in someone’s inbox, lost in hallway conversations, or dictated by politics. They’re visible, comparable, and discussed openly.
+Every organization needs a system to collect and evaluate ideas together. At Kaiizen, JPD is helping us do that at scale, but the real win is the culture shift: ideas aren’t buried in someone’s inbox, lost in conversations, or dictated by politics. They’re visible, comparable, and discussed openly.
 
 That’s how you build products that resonate with customers — and a team that feels like it’s solving the right problems together.
