@@ -27,3 +27,18 @@ body {
 .wrapper {
   margin: 0 auto;
 }
+
+/* Make the main profile image circular */
+.page-content img[src*="matt.png"] {
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 20px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+/* Add a subtle hover effect */
+.page-content img[src*="matt.png"]:hover {
+  transform: scale(1.05);
+}
