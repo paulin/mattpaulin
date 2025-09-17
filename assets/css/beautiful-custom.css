@@ -1,0 +1,89 @@
+/* Custom styles for Beautiful Jekyll theme */
+
+/* Portfolio timeline styling */
+.portfolio-timeline {
+  margin: 2rem 0;
+}
+
+.portfolio-item {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-left: 4px solid #007acc;
+  background-color: #f8f9fa;
+  border-radius: 0 8px 8px 0;
+  transition: all 0.3s ease;
+}
+
+.portfolio-item:hover {
+  background-color: #e9ecef;
+  transform: translateX(5px);
+}
+
+.portfolio-item h3 {
+  margin: 0 0 0.5rem 0;
+  color: #333;
+}
+
+.portfolio-item h3 a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.portfolio-item h3 a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.portfolio-meta {
+  margin: 0;
+  color: #666;
+  font-style: italic;
+}
+
+/* Post preview styling for category pages */
+.post-preview {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #28a745;
+}
+
+.post-preview h3 {
+  margin: 0 0 0.5rem 0;
+}
+
+.post-preview h3 a {
+  color: #333;
+  text-decoration: none;
+}
+
+.post-preview h3 a:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+.post-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0 0 1rem 0;
+}
+
+.post-preview p {
+  margin: 0;
+  color: #555;
+  line-height: 1.6;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .portfolio-item,
+  .post-preview {
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .portfolio-item:hover {
+    transform: none;
+  }
+}

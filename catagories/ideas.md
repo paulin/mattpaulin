@@ -1,19 +1,24 @@
 ---
-layout: category
-category: ideas
+layout: page
 title: Ideas
 permalink: /categories/ideas/
 ---
-<h1>{{ page.title }}</h1>
-<p>Total posts in site: {{ site.posts | size }}</p>
 
+# Ideas
 
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains page.category %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+A collection of creative ideas, inventions, and fun concepts I've been exploring.
+
+## Posts
+
+{% for post in site.posts %}
+  {% if post.categories contains 'ideas' %}
+**{{ post.title }}** - {{ post.date | date: "%B %d, %Y" }}
+
+{% if post.excerpt %}{{ post.excerpt | strip_html | truncatewords: 30 }}{% endif %}
+
+[Read more →]({{ post.url }})
+
+---
+
+  {% endif %}
+{% endfor %}

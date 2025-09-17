@@ -21,15 +21,13 @@
 title: Matt Paulin
 email: mattpaulin.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Matt Paulin, I have created companies, developed software, and launched products for 20 years.
-avatar: /assets/images/cartoonmatt.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  paulin
 
 # Build settings
-theme: beautiful-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -60,25 +58,3 @@ github: [metadata]
 # Navigation
 header_pages:
   - about.markdown
-
-# Beautiful Jekyll navigation
-navbar-links:
-  Work: "/portfolio/"
-  Carbot: "/categories/carbot/"
-  Ideas: "/categories/ideas/"
-  "Product Playbook": "/categories/product_management/"
-
-# Beautiful Jekyll settings
-show-avatar: true
-show-social-icons: true
-show-aboutme: true
-
-# Social media links
-social-links:
-  github: paulin
-  linkedin: mattpaulin
-  email: mattpaulin.com@gmail.com
-
-# Custom CSS
-css:
-  - /assets/css/beautiful-custom.css

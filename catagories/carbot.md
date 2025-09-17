@@ -1,19 +1,24 @@
 ---
-layout: category
-category: carbot
+layout: page
 title: Carbot
 permalink: /categories/carbot/
 ---
-<h1>{{ page.title }}</h1>
-<p>Total posts in site: {{ site.posts | size }}</p>
 
+# Carbot
 
-<ul>
-  {% for post in site.posts %}
-    {% if post.categories contains page.category %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+My robotics and AI projects, including the development of Carbot - an autonomous RC car project.
+
+## Posts
+
+{% for post in site.posts %}
+  {% if post.categories contains 'carbot' %}
+**{{ post.title }}** - {{ post.date | date: "%B %d, %Y" }}
+
+{% if post.excerpt %}{{ post.excerpt | strip_html | truncatewords: 30 }}{% endif %}
+
+[Read more →]({{ post.url }})
+
+---
+
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,44 @@
+/* Custom styles to fix visual continuity issues */
+
+/* Remove the 1-pixel border below the header */
+.site-header {
+  border-bottom: none !important;
+}
+
+/* Remove the 1-pixel border above the footer */
+.site-footer {
+  border-top: none !important;
+}
+
+/* Ensure the body background covers the full viewport */
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Make sure the main content area doesn't have any gaps */
+.page-content {
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure wrapper doesn't add unwanted spacing */
+.wrapper {
+  margin: 0 auto;
+}
+
+/* Make the main profile image circular */
+.page-content img[src*="matt.png"] {
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 20px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+/* Add a subtle hover effect */
+.page-content img[src*="matt.png"]:hover {
+  transform: scale(1.05);
+}

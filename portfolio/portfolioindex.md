@@ -1,9 +1,43 @@
 ---
 layout: page
+title: Work
 permalink: /portfolio/
 ---
-<link rel="stylesheet" href="/assets/css/timeline.css">
 
-# Timeline of select products from my portfolio
+# Work
 
-{% include timeline.html %}
+A timeline of select products from my portfolio, showcasing my experience in building impactful software and businesses.
+
+## Portfolio Projects
+
+<div class="portfolio-timeline">
+  <div class="portfolio-item">
+    <h3><a href="/portfolio/projects/signetic.html">Signetic (2020-2022)</a></h3>
+    <p class="portfolio-meta">Saving lives in Seattle by vaccinating 350k people</p>
+  </div>
+  
+  <div class="portfolio-item">
+    <h3><a href="/portfolio/projects/hub.html">Hub by CBRE (2018-2020)</a></h3>
+    <p class="portfolio-meta">Making smaller listings more valuable for brokers</p>
+  </div>
+  
+  <div class="portfolio-item">
+    <h3><a href="/portfolio/projects/hwy61.html">HWY61 (2017-2018)</a></h3>
+    <p class="portfolio-meta">Providing the sounds of Americana across the United States</p>
+  </div>
+  
+  <div class="portfolio-item">
+    <h3><a href="/portfolio/projects/roomfull.html">Roomfull (2017-2018)</a></h3>
+    <p class="portfolio-meta">A website to make traveling musicians lives easier</p>
+  </div>
+  
+  <div class="portfolio-item">
+    <h3><a href="/portfolio/projects/collegesnapps.html">CollegeSnapps (2011-2013)</a></h3>
+    <p class="portfolio-meta">Helping minorities to get to and through college</p>
+  </div>
+  
+  <div class="portfolio-item">
+    <h3><a href="/portfolio/projects/quadstreaker.html">QuadStreaker (2011-2012)</a></h3>
+    <p class="portfolio-meta">An iOS and Android application that gets you to travel</p>
+  </div>
+</div>
