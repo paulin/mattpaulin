@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  paulin
 
 # Build settings
-theme: beautiful-jekyll-theme
+theme: minimal-mistakes
 plugins:
   - jekyll-feed
 
@@ -61,24 +61,31 @@ github: [metadata]
 header_pages:
   - about.markdown
 
-# Beautiful Jekyll navigation
-navbar-links:
-  Work: "/portfolio/"
-  Carbot: "/categories/carbot/"
-  Ideas: "/categories/ideas/"
-  "Product Playbook": "/categories/product_management/"
+# Minimal Mistakes theme settings
+author:
+  name: "Matt Paulin"
+  avatar: "/assets/images/cartoonmatt.png"
+  bio: "I'm Matt Paulin, I have created companies, developed software, and launched products for 20 years."
+  location: "Seattle, WA"
+  email: "matt@ministryofproduct.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/paulin"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/mattpaulin"
 
-# Beautiful Jekyll settings
-show-avatar: true
-show-social-icons: true
-show-aboutme: true
-show-footer: false
-
-# Social media links
-social-links:
-  github: paulin
-  linkedin: mattpaulin
-  email: matt@ministryofproduct.com
+# Site navigation
+main:
+  - title: "Work"
+    url: "/portfolio/"
+  - title: "Carbot"
+    url: "/categories/carbot/"
+  - title: "Ideas"
+    url: "/categories/ideas/"
+  - title: "Product Playbook"
+    url: "/categories/product_management/"
 
 # Custom CSS
 css:
