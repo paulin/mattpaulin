@@ -4,8 +4,6 @@ title: Product Playbook
 permalink: /categories/product_management/
 ---
 
-# Product Playbook
-
 My thoughts and experiences on product management, OKRs, and building successful products.
 
 ## Posts

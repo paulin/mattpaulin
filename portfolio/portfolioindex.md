@@ -4,8 +4,6 @@ title: Work
 permalink: /portfolio/
 ---
 
-# Work
-
 A timeline of select products from my portfolio, showcasing my experience in building impactful software and businesses.
 
 ## Portfolio Projects

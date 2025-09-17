@@ -1,0 +1,32 @@
+<!-- Custom footer override to remove "Powered by Beautiful Jekyll" -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-links" style="margin-bottom: 20px; display: flex; justify-content: center; align-items: center; gap: 20px;">
+      <!-- Email link -->
+      <a href="mailto:{{ site.social-links.email }}" title="Email" style="display: inline-block;">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      <!-- GitHub link -->
+      <a href="https://github.com/{{ site.social-links.github }}" title="GitHub" style="display: inline-block;">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      <!-- LinkedIn link -->
+      <a href="https://linkedin.com/in/{{ site.social-links.linkedin }}" title="LinkedIn" style="display: inline-block;">
+        <span class="fa-stack fa-lg" aria-hidden="true">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </div>
+    <p class="copyright text-muted text-center">
+      Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}
+    </p>
+    <!-- Removed the "Powered by Beautiful Jekyll" text -->
+  </div>
+</footer>

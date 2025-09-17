@@ -4,8 +4,6 @@ title: Carbot
 permalink: /categories/carbot/
 ---
 
-# Carbot
-
 My robotics and AI projects, including the development of Carbot - an autonomous RC car project.
 
 ## Posts

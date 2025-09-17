@@ -4,8 +4,6 @@ title: Ideas
 permalink: /categories/ideas/
 ---
 
-# Ideas
-
 A collection of creative ideas, inventions, and fun concepts I've been exploring.
 
 ## Posts

@@ -75,6 +75,48 @@
   line-height: 1.6;
 }
 
+/* Hide the "Powered by Beautiful Jekyll" footer text - ULTRA AGGRESSIVE approach */
+.theme-by,
+p.theme-by,
+.theme-by.text-muted,
+p.theme-by.text-muted,
+*[class*="theme-by"],
+footer p.theme-by,
+footer .theme-by,
+footer p.theme-by.text-muted {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  overflow: hidden !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+/* Hide the entire footer as nuclear option */
+footer {
+  display: none !important;
+}
+
+/* JavaScript fallback - hide any element containing "Powered by" text */
+script {
+  display: none;
+}
+
+/* Add JavaScript to hide footer after page load */
+body::after {
+  content: "";
+  display: block;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  background: white;
+  z-index: 9999;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
   .portfolio-item,
