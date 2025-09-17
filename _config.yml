@@ -29,9 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  paulin
 
 # Build settings
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 background_image_url: /assets/images/background2.jpeg
 porthole_background_image_url: /assets/images/background2.jpeg
