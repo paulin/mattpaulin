@@ -5,12 +5,63 @@
 layout: page
 ---
 
-I’m Matt Paulin, I have created companies, developed software, and launched products for 20 years. My background originally was in Electrical Engineering at Kansas State. Currently I’m looking for groups that are building software product or any group that is working with OKRs. I am very interested in climate fixes, improving education, and autonomous vehicles.
+# Matt Paulin
+**I’m Matt Paulin — a technologist and entrepreneur who builds products, writes software, and digs into data.**  
 
-I love to build impactful products and businesses and am happy to share what I have learned. I also love building communities and helping people grow their own businesses. If there is a resource you are looking for, please reach out to me. I'm always happy to help.
+For the past 20 years, I’ve founded companies, launched products, and delivered software that people actually use. I believe all great technology comes down to one thing: **communication.** Whether it’s a product interface, a system that connects people, or code that lets us talk to machines, I build tools that help people work, learn, and achieve more together.  
+
+---
+
+## What I Do  
+I wear three hats that work together:  
+
+- **Entrepreneur** – I create companies and communities that bring ideas to life.  
+- **Data Scientist** – I use data and AI to uncover insights and build smarter products.  
+- **Product Builder** – I deliver software from concept to launch, always focused on the end user.  
+
+What excites me most is seeing people use what I’ve built — because that’s when ideas become impact.  
+
+---
+
+## How I Work  
+I approach product development like climbing a mountain: you don’t always have the map, so you explore, adapt, and keep moving upward. Along the way, you learn who your users are, why they matter, and how to deliver real value.  
+
+- I believe in shipping fast and showing progress every week.  
+- I trust teams and empower them with clarity instead of bloated requirements.  
+- I build communities and teams on honesty, compassion, and consistency.  
+
+OKRs have been part of my toolkit at every company I’ve led — not as busywork, but as guardrails for strategy, focus, and accountability.  
+
+---
+
+## What I’m Exploring Now  
+We’re living in a new era of product development, powered by AI. With complexity abstracted away, the big question is no longer *how* to build, but *what should we build?*  
+
+I’m exploring:  
+
+- **AI & Data Science** – shaping products that adapt and think alongside us.  
+- **Autonomy & Learning** – experimenting with reinforcement learning and autonomous systems.  
+- **Games & Play** – using games as tools for education, creativity, and lifelong learning.  
+
+At the heart of it all is one goal: creating products that give people **epiphanies** — new ways to learn, communicate, and grow.  
+
+---
+
+## Collaborations & Community  
+I love working with people who bring design sense, boldness, and the ability to project ideas unapologetically. I balance that with my strengths: catalyzing teams, building systems into existence, and organizing ideas into communities.  
+
+If you’re building software products, working with OKRs, or exploring the frontiers of AI, I’d love to connect.  
+
+---
+
+## Closing CTA  
+**Let’s build the future of product development together.**  
+
+[LinkedIn](https://www.linkedin.com/in/mattpaulin) · [Email](mailto:your@email.com) · [Portfolio](/portfolio)
+[Online Calendar](https://calendly.com/mattpaulin)
 
 You can learn more about me on [LinkedIn](https://www.linkedin.com/in/mattpaulin/){:target="_blank"}{:rel="noopener noreferrer"} here or reach out to me and I'm happy to take some time to talk with you.
 
-[Let's meet online](https://calendly.com/mattpaulin)
+
 
 <!--<p/>{:.porthole style="height:200px;"}-->
