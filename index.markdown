@@ -24,7 +24,7 @@ What excites me most is seeing people use what I’ve built — because that’s
 ---
 
 ## How I Work  
-I approach product development like climbing a mountain: you don’t always have the map, so you explore, adapt, and keep moving upward. Along the way, you learn who your users are, why they matter, and how to deliver real value.  
+I approach product development like climbing a mountain: where you don't have a map. As a team we explore, adapt, and keep moving upward. Along the way, you learn who your users are, why they matter, and how to deliver real value.  
 
 - I believe in shipping fast and showing progress every week.  
 - I trust teams and empower them with clarity instead of bloated requirements.  
@@ -54,13 +54,9 @@ If you’re building software products, working with OKRs, or exploring the fron
 
 ---
 
-## Closing CTA  
-**Let’s build the future of product development together.**  
+## Reach out to me here
+[LinkedIn](https://www.linkedin.com/in/mattpaulin)
 
-[LinkedIn](https://www.linkedin.com/in/mattpaulin) · [Email](mailto:your@email.com) · [Portfolio](/portfolio)
-[Online Calendar](https://calendly.com/mattpaulin)
-
-You can learn more about me on [LinkedIn](https://www.linkedin.com/in/mattpaulin/){:target="_blank"}{:rel="noopener noreferrer"} here or reach out to me and I'm happy to take some time to talk with you.
 
 
 
