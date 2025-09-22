@@ -10,7 +10,7 @@ My thoughts and experiences on product management, OKRs, and building successful
 
 {% for post in site.posts %}
   {% if post.categories contains 'product-management' %}
-**{{ post.title }}** - {{ post.date | date: "%B %d, %Y" }}
+**{{ post.title }}**
 
 {% if post.excerpt %}{{ post.excerpt | strip_html | truncatewords: 30 }}{% endif %}
 
