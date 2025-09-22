@@ -10,7 +10,7 @@ A collection of creative ideas, inventions, and fun concepts I've been exploring
 
 {% for post in site.posts %}
   {% if post.categories contains 'ideas' %}
-**{{ post.title }}** - {{ post.date | date: "%B %d, %Y" }}
+**{{ post.title }}**
 
 {% if post.excerpt %}{{ post.excerpt | strip_html | truncatewords: 30 }}{% endif %}
 
