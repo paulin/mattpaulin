@@ -5,7 +5,6 @@
 layout: page
 ---
 
-# Matt Paulin
 **I’m Matt Paulin — a technologist and entrepreneur who builds products, writes software, and digs into data.**  
 
 For the past 20 years, I’ve founded companies, launched products, and delivered software that people actually use. I believe all great technology comes down to one thing: **communication.** Whether it’s a product interface, a system that connects people, or code that lets us talk to machines, I build tools that help people work, learn, and achieve more together.  
