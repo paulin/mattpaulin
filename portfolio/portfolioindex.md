@@ -4,9 +4,9 @@ title: Portfolio Projects
 permalink: /portfolio/
 ---
 
-I have been fortunate to work in many industries building products and working with many types of demographics. The following are a sample of those experiences to give you some context as to what I have built in the past. 
+I have been fortunate to work in many industries building products and working with many types of demographics. The following are a sample of those experiences to give you some context as to what I have built in the past.
 
-## Portfolio Projects
+---
 
 <div class="portfolio-timeline">
   <div class="portfolio-item">
