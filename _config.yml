@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Matt Paulin
-email: matt@ministryofproduct.com
+email: mattpaulin.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Matt Paulin, I have created companies, developed software, and launched products for 20 years.
 avatar: /assets/images/cartoonmatt.png
@@ -80,7 +80,7 @@ show-date: false
 social-links:
   github: paulin
   linkedin: mattpaulin
-  email: matt@ministryofproduct.com
+  email: mattpaulin.com@gmail.com
 
 # Custom CSS
 css:
