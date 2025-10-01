@@ -67,6 +67,7 @@ navbar-links:
   Work: "/portfolio/"
   Carbot: "/categories/carbot/"
   Ideas: "/categories/ideas/"
+  "Data Science": "/categories/data/"
   "Product Playbook": "/categories/product_management/"
 
 # Beautiful Jekyll settings
