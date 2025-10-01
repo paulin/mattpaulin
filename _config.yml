@@ -64,7 +64,7 @@ header_pages:
 
 # Beautiful Jekyll navigation
 navbar-links:
-  Work: "/portfolio/"
+  Portfolio: "/portfolio/"
   Carbot: "/categories/carbot/"
   Ideas: "/categories/ideas/"
   "Data Science": "/categories/data/"
