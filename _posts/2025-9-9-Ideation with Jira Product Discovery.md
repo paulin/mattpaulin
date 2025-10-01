@@ -3,7 +3,7 @@ layout: post
 title: "Ideation with Jira Product Discovery"
 date: 2025-09-08
 author: "Matt Paulin"
-categories: [software, product-management, ideas]
+categories: [software, product-management]
 ---
 
 

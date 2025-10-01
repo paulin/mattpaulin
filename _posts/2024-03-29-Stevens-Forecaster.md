@@ -2,7 +2,7 @@
 layout: post
 title: "Stevens Pass Drive Forecasting"
 date: 2024-03-29
-categories: analysis
+categories: data
 ---
 
 ![The Drive to Stevens Pass](/assets/images/drive_time_charts/drive_map.png)
@@ -92,4 +92,4 @@ When the dataset gets larger and more complex, capturing intricate time series p
 # Conclusion
 Overall I think this project was a lot of fun for just creating a dataset and seeing what I could do with it. It is clearly not rich enough to be useful beyond my on intution. Basically leave around 6:30 am on a weekend if you want to make sure you have a parking spot.
 
-I do think there is a world of personalized forecasting that hasn't been thought out yet. For instance, if you have a specific commute, when is the best time to leave?  We all develop these mental models but it would be nice to use some of the Google Maps historical drive times to help us optimize. 
+I do think there is a world of personalized forecasting that hasn't been thought out yet. For instance, if you have a specific commute, when is the best time to leave?  We all develop these mental models but it would be nice to use some of the Google Maps historical drive times to help us optimize.

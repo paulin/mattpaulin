@@ -2,7 +2,7 @@
 layout: post
 title:  "EDA Basics"
 date:   2023-07-23
-categories: Data
+categories: data
 ---
 
 Exploratory Data Analysis (EDA) is a crucial step in understanding the data you are working with before applying any models or drawing conclusions. It involves summarizing the main characteristics of a dataset, visualizing patterns, relationships, anomalies, etc. Below are the general steps to perform EDA, often with the help of programming languages like Python or R.
