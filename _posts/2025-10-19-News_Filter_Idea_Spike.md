@@ -2,8 +2,8 @@
 layout: post
 title: "News Filter Idea Spike"
 date: 2025-10-19
-author: Matt Paulin
-tags: [idea-spike, idea]
+author: "Matt Paulin"
+categories: [coworking, community, ideas]
 ---
 
 <iframe width="560" height="315" src="https://youtu.be/Jj_Hfx9Jc8s" title="News Filter Idea Spike on YouTube" frameborder="0" allowfullscreen></iframe>
