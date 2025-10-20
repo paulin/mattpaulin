@@ -57,14 +57,6 @@ Still, it was a huge step forward in understanding how to train **Carbot** inter
 - **Timeouts are your friend:**  
   At one point, the system went rogue and wouldn’t stop typing `D`s. I had to track down the process and kill it while it was spamming forward commands. Add a timeout or safety check to avoid infinite loops.
 
----
-
-### Transcript Summary
-
-**From the recording (Oct 19, 2025):**  
-Matt explains the purpose of the DAgger experiment — using a Unity driving simulator to collect training data for a CNN-based autopilot. He describes manually driving, collecting 500 samples, and how pressing **H** adds corrective frames when the car goes off-road.  
-
-While early results were promising, the model often overfit to specific driving sequences, sometimes freezing or running off-road. Matt concludes that further iteration and model refinement will be needed before this can power the real-world Carbot.
 
 ---
 
