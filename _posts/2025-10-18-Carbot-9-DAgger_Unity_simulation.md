@@ -1,29 +1,72 @@
 ---
 layout: post
-title: "Carbot 8: ROV Console"
-date: 2025-05-14
+title: "Interactive Imitation Learning (DAgger for Carbot)"
+date: 2025-10-19
 author: "Matt Paulin"
 categories: robotics carbot
 ---
 
-Carbot continues to grow.  Now I have a full ROV mode available. It's rather amusing because it really is an Android phone on top of a remote control car.  The phone talks to an Aduino via BLE to control the servo and the motors.  However I now have a console to monitor the device system and can control it to drive around a house or a yard.  The point was to use the cell network to allow this to run anywhere.  Below are the details.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KSR3HaJ6_vI" title="DAgger Technique for Carbot" frameborder="0" allowfullscreen></iframe>
 
-# The two modes of Carbot
-This time I wanted to make sure I could either run it in ROV mode or in teathered mode.  Teathered mode is what I had built up to this point. In this case I carry the phone attached to the viewer and then the Android app is connecting to the car via bluetooth.  This has been good but it has also been limiting.  So I came up with ROV Mode.  In this case the phone is on the car and I can run it from a desktop.
+---
 
+### October 2025: “Interactive Imitation Learning”
 
+Previously, I had built **Carbot** to collect data while in ROV mode — capturing images, then processing them through a CNN in an attempt at behavioral cloning.  
 
-This is what it looks like on the car.
-![Carbot ROV Mode](/assets/images/Carbot8/carbot_phone.png)  
+It didn’t work well at all. Most of the time, the car would just drift forward without reacting to anything. I realized I needed a safer, more controlled environment, so I switched to a **virtual model** instead. After some research, I found a Unity simulator that lets you drive a simple car using keyboard commands — **WASD** controls, just like a game.  
 
-This is what the Android app looks like
-![Teathered View](/assets/images/Carbot8/teatheredview.jpg)  
+This approach turned out to be a great way to isolate how learning happens and iterate on CNN behavior before trying it in the real world.
 
-This is what the desktop console currently looks like
-![Desktop Console](/assets/images/Carbot8/desktopconsole.png)  
+---
 
-## Bonus: I played with OpenCV
-I started down a path to try and improve the abilities of the CNN to learn by first preprocessing the image with OpenCV.  OpenCV is a fantastic set of libraries that let you manipulate the image.  In my case, I just tried some false colors and edge detection.  It was somewhat helpful but I think I will come back to this side adventure. I think the real problem is that I am just training it wrong.
+### My First Attempt
 
-# What is next?
-I think the autopilot is terrible. This is probably the biggest issue.  I typically gather about 5 minutes of training time and then run the model.  It doesn't work very well and for behavior cloning I feel like I am just missing the fundamentals.  So I'm going to go and work on just the learning part using a Unity simulator.  
+In this experiment, I captured about **500 frames** and control pairs — steering and throttle commands — while driving manually in the simulator. Once enough data was collected, I trained a model and set it to run autonomously.
+
+When the car inevitably went off track, I introduced a recovery mechanism: pressing **H** while manually correcting its behavior. Each of those “fixes” (the recovery frames and control inputs) would then be **added back** into the dataset and retrained into the model — an ongoing feedback loop that improved over time.
+
+This approach is called **DAgger**, short for **Dataset Aggregation** — a well-known algorithm in imitation learning where an agent learns not just from demonstrations, but also from its own mistakes as they’re corrected by an expert.
+
+As I later described it to the AI, what I was doing was:
+
+> “Interactive imitation learning (a.k.a. DAgger-style training) with live fine-tunes + hot-reload.  
+> You keep the sim running, correct the car when it messes up, and those corrections get folded into the model that’s driving…without restarting.”
+
+It’s a powerful concept: the AI learns *while* it’s being corrected.
+
+---
+
+### What I Learned
+
+This worked surprisingly well — enough to get usable data and consistent runs. But it was also clear that behavioral cloning alone has limits.  
+
+If the model was trained too narrowly on a single driving style, it would simply repeat that — sometimes moving forward successfully, but often just veering off the road or freezing. It lacked generalization.
+
+Still, it was a huge step forward in understanding how to train **Carbot** interactively.
+
+---
+
+### Gotchas!
+
+- **Keyboard control permissions:**  
+  Cursor needs access to your keyboard commands. If you see the error  
+  `"This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients."`  
+  Go to **System → Privacy & Security → Accessibility**, and grant permission.
+
+- **Timeouts are your friend:**  
+  At one point, the system went rogue and wouldn’t stop typing `D`s. I had to track down the process and kill it while it was spamming forward commands. Add a timeout or safety check to avoid infinite loops.
+
+---
+
+### Transcript Summary
+
+**From the recording (Oct 19, 2025):**  
+Matt explains the purpose of the DAgger experiment — using a Unity driving simulator to collect training data for a CNN-based autopilot. He describes manually driving, collecting 500 samples, and how pressing **H** adds corrective frames when the car goes off-road.  
+
+While early results were promising, the model often overfit to specific driving sequences, sometimes freezing or running off-road. Matt concludes that further iteration and model refinement will be needed before this can power the real-world Carbot.
+
+---
+
+**Next Steps:**  
+Continue experimenting with interactive imitation learning loops — possibly layering in reinforcement learning or simulated sensor noise to improve generalization before deploying to real hardware.
