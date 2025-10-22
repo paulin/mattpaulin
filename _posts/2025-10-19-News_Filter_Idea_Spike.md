@@ -6,7 +6,7 @@ author: "Matt Paulin"
 categories: [coworking, community, ideas]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Jj_Hfx9Jc8s" title="News Filter Idea Spike on YouTube" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jj_Hfx9Jc8s" title="News Filter Idea Spike on YouTube" frameborder="0" allowfullscreen></iframe>
 
 ---
 
