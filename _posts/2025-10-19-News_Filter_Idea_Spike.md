@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News Filter Idea Spike"
+title: "Idea Spike 1: News Filter Idea Spike"
 date: 2025-10-19
 author: "Matt Paulin"
 categories: [coworking, community, ideas]

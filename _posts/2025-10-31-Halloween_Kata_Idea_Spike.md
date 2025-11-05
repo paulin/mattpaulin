@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halloween Kata Idea Spike"
+title: "Idea Spike 3: Halloween Kata Idea Spike"
 date: 2025-10-31
 author: "Matt Paulin"
 categories: [ideas, idea-spike]

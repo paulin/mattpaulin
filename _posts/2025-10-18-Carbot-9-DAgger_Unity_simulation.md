@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "Interactive Imitation Learning (DAgger for Carbot)"
+title: "Carbot 9: Interactive Imitation Learning (DAgger for Carbot)"
 date: 2025-10-19
 author: "Matt Paulin"
 categories: robotics carbot
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KSR3HaJ6_vI" title="DAgger Technique for Carbot" frameborder="0" allowfullscreen></iframe>
-
----
 
 ### October 2025: “Interactive Imitation Learning”
 
@@ -18,6 +15,10 @@ It didn’t work well at all. Most of the time, the car would just drift forward
 
 This approach turned out to be a great way to isolate how learning happens and iterate on CNN behavior before trying it in the real world.
 
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KSR3HaJ6_vI" title="DAgger Technique for Carbot" frameborder="0" allowfullscreen></iframe>
 ---
 
 ### My First Attempt

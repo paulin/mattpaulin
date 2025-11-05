@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Debate Simulator Idea Spike"
+title: "Idea Spike 2: Debate Simulator Idea Spike"
 date: 2025-10-26
 author: "Matt Paulin"
 categories: [ideas, idea-spike]
