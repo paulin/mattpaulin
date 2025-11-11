@@ -1,18 +1,53 @@
 ---
 layout: post
-title: "Idea Spike 4: Saling with Reinforcement Learning"
-date: 2025-10-31
+title: "Idea Spike 5: Reinforcement Learning Docking Simulator"
+date: 2025-11-11
 author: "Matt Paulin"
 categories: [ideas, idea-spike]
 ---
 
-# Marina Docking RL Simulator
+# Record RL Docking Simulator
+
+This is my fifth idea spike — a quick prototype to explore an idea all the way to a working MVP. The question I keep asking myself with these spikes is: *How quickly can I bring an idea to life using modern AI tools?* Lately, the answer has been *very quickly* — fast enough that it feels like I can build almost anything I can imagine.
+
+This project started from a real sailing experience. I wanted to simulate maneuvering a sailboat out of a marina on a windy day — a tricky problem where the physics of wind, dock lines, and tight spaces make for a rich challenge. So I built a simulator with a marina editor that lets me place boats, docks, cleats, and lines. Each setup represents a different scenario, such as varying wind directions and dock configurations.
+
+The goal: train a reinforcement learning (RL) agent to figure out how to safely undock the boat on its own.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2h6KT1efMEA" title="Bluetooth Sniffer" frameborder="0" allowfullscreen></iframe>
+
+---
+
+### The Simulation
+
+In the simulator, you can load predefined scenarios, tweak parameters, and then select a learning algorithm — like Q-Learning, Deep Q-Network (DQN), or Cross-Entropy. Once training begins, the boat starts moving — backing out, moving forward, reacting to simulated wind. Watching it in real time is interesting but slow, so I added a speed control to fast-forward through training runs.
+
+Here’s the setup:
+- **Environment:** A 2D marina with docks, lines, and wind.
+- **Agent:** The boat.
+- **Goal:** Back out of the slip and reach a target point (the green circle) without collisions.
+
+Each training session runs multiple episodes, and over time, the algorithm learns which actions lead to success — taking off dock lines, steering against the wind, and timing the throttle correctly.
+
+---
+
+### Early Observations
+
+Reinforcement learning is well-studied, but applying it to something as chaotic and continuous as docking a sailboat brings new challenges. The simulation includes random wind gusts and the physics of line tension, which makes the environment partially observable and non-linear — exactly the kind of messy reality RL is good for.
+
+My idea is to eventually let the system train overnight: drop in any sailboat, set up the dock and wind parameters, and let it figure out the best undocking procedure through trial and error. The longer it trains, the better it should get.
+
+This first version was a lot of fun to build — from creating the marina editor to integrating multiple learning algorithms. There’s still plenty to refine in the AI’s fine-tuning, but the concept feels promising. I plan to come back to it later to explore more advanced techniques like model-based RL and policy gradients.
+
+---
+
+# Marina Docking RL Simulator (Technical Appendix)
 
 A reinforcement learning environment for training autonomous agents to navigate a sailboat out of a narrow marina slip under realistic physics including wind, prop-walk, and dock line dynamics.
 
 ---
 
-### Reference Defintions
+### Reference Definitions
 # Reinforcement Learning Cheat Sheet
 
 ## Core Vocabulary
