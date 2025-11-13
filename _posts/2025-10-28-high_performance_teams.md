@@ -30,22 +30,23 @@ playbooks stopped working.
 ## When Old Methods Broke Down
 
 Before we landed on what worked, we tried many "standard" approaches ---
-the ones that look good on paper but collapse at high speed.
+the ones that look good on paper but collapse at high speed.  For example, detailed user
+stories could become outdated in a day. Another problem was sizing tickets, sometimes they could be solved while we were in the meeting.
 
 In vibe programming, things move incredibly fast. A single feature can
 go from idea to working code in a day. People build from instinct, vibe
 off each other's work, and adjust constantly. But that speed breaks
 traditional product management models.
 
--   Tickets went stale almost instantly.\
--   Anything older than three days was already inaccurate.\
--   Specs lagged behind living code.\
+-   Tickets went stale almost instantly.
+-   Anything older than three days was already inaccurate.
+-   Specs lagged behind living code.
 -   Process debt grew faster than the product.
 
 The system moved faster than any written process could follow. Meetings,
 tickets, and specs created **drag, not clarity**.
 
-That's when I realized:\
+That's when I realized:
 **We didn't need more process. We needed tighter rhythm.**
 
 ------------------------------------------------------------------------
@@ -56,8 +57,8 @@ Strangely enough: **talking to each other in a structured way**.
 
 Daily standup became the heartbeat of the team. Each person shared:
 
--   what they did\
--   what they're doing\
+-   what they did
+-   what they're doing
 -   what they're blocked by
 
 Ten minutes, tops.
@@ -67,9 +68,9 @@ drifted off topic, we parked it for later.
 
 This simple ritual accomplished a lot:
 
--   Everyone got to warm up and use their voice.\
--   Nobody wanted to be the person with "no progress" every day.\
--   We validated tickets in real time.\
+-   Everyone got to warm up and use their voice.
+-   Nobody wanted to be the person with "no progress" every day.
+-   We validated tickets in real time.
 -   Work that wasn't tracked got called out.
 
 It was accountability without micromanagement.
@@ -88,8 +89,8 @@ After standup, we'd go through the list together.
 
 The doc became:
 
--   a rolling journal of decisions\
--   a live space for corrections and details\
+-   a rolling journal of decisions
+-   a live space for corrections and details
 -   a shared memory of how ideas evolved
 
 People often scrolled back days later to recall what we had decided.
@@ -103,7 +104,7 @@ difference.
 
 The rule was simple:
 
-**Everyone attends standup.\
+**Everyone attends standup.
 Parking lot is optional.**
 
 But almost everyone stayed anyway.
@@ -119,9 +120,9 @@ We added a Monday/Friday cadence.
 
 ### Monday
 
--   Outline weekly focus and upcoming initiatives\
--   Preview sales, onboarding, deadlines\
--   Review metrics in Metabase\
+-   Outline weekly focus and upcoming initiatives
+-   Preview sales, onboarding, deadlines
+-   Review metrics in Metabase
 -   Align the team with "why" their work mattered
 
 ### Friday
@@ -139,13 +140,13 @@ autonomy.
 
 ## Balancing Speed and Structure
 
-Our biggest enemy wasn't chaos.\
+Our biggest enemy wasn't chaos.
 It was **process debt**.
 
 When work moves fast:
 
--   Tickets rot\
--   Specs become fiction\
+-   Tickets rot
+-   Specs become fiction
 -   Documentation ages like milk
 
 So instead of trying to keep everything updated, we focused on keeping
@@ -158,7 +159,7 @@ enough scaffolding for creativity to thrive.
 
 ## Building Trust in the Chaos
 
-Speed wasn't the hard part.\
+Speed wasn't the hard part.
 **Trust was.**
 
 In distributed teams, with code changing overnight, command-and-control
@@ -167,9 +168,9 @@ nobody's watching.
 
 Trust came from:
 
--   Shared rhythm\
--   Transparent notes\
--   Visible metrics\
+-   Shared rhythm
+-   Transparent notes
+-   Visible metrics
 -   Collective decision-making
 
 Everyone saw the same information. Everyone had a voice.
@@ -183,5 +184,5 @@ weren't asked for because they believed in the mission.
 Those spontaneous contributions were the magic --- the moments that made
 the product feel alive.
 
-**High performance isn't perfect alignment.\
+**High performance isn't perfect alignment.
 It's fast trust and shared momentum.**
