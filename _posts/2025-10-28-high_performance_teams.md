@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Product Management "
+title: "High-Performance Teams in a Vibe Programming World"
 date: 2025-10-28
 author: "Matt Paulin"
 categories: [product-management]
 ---
 
-# How to Run High-Performance Teams in a Vibe Programming World
 
 **Moving at the speed of trust**
 
@@ -25,14 +24,6 @@ The solution wasn't more process or better tools. It was better
 What follows is what we learned about keeping a high-performance,
 distributed team focused, motivated, and creatively alive when the old
 playbooks stopped working.
-
-------------------------------------------------------------------------
-
-## High Performance Teams in Fast-Moving Environments
-
-This challenge amplifies in remote teams, especially when someone is
-working in a very different timezone --- like someone on the 3rd shift
-who has already completed their work before the rest of the team meets.
 
 ------------------------------------------------------------------------
 
