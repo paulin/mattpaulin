@@ -14,7 +14,7 @@ This project started from a real sailing experience. I wanted to simulate maneuv
 
 The goal: train a reinforcement learning (RL) agent to figure out how to safely undock the boat on its own.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2h6KT1efMEA" title="Bluetooth Sniffer" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2h6KT1efMEA" title="RL Docking Simulator" frameborder="0" allowfullscreen></iframe>
 
 ---
 
