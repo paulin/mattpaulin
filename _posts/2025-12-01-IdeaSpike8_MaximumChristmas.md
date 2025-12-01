@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Spike 8: Maximum Christmas"
+title: "Idea Spike 8: Maximum Christmas"
 date: 2025-12-01
 author: "Matt Paulin"
 categories: [ideas, idea-spike]
 ---
 
-# Spike 8: Maximum Christmas
+# Idea Spike 8: Maximum Christmas
 
 
 For this week’s spike, I went in a different direction. Instead of taking a random idea and turning it into a product as quickly as possible, I decided to do something thematic for Christmas. I had a domain sitting unused for years—**[Maximum Christmas](https://maximumchristmas.com)**—originally bought just because the name made me laugh. I told myself: either build something with it this season or get rid of it.
