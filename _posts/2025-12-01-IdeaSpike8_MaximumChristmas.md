@@ -6,9 +6,10 @@ author: "Matt Paulin"
 categories: [ideas, idea-spike]
 ---
 
-# Spike 8: MaxXmas
+# Spike 8: Maximum Christmas
 
-For this week’s spike, I went in a different direction. Instead of taking a random idea and turning it into a product as quickly as possible, I decided to do something thematic for Christmas. I had a domain sitting unused for years—**MaximumChristmas.com**—originally bought just because the name made me laugh. I told myself: either build something with it this season or get rid of it.
+
+For this week’s spike, I went in a different direction. Instead of taking a random idea and turning it into a product as quickly as possible, I decided to do something thematic for Christmas. I had a domain sitting unused for years—**[Maximum Christmas](https://maximumchristmas.com)**—originally bought just because the name made me laugh. I told myself: either build something with it this season or get rid of it.
 
 That decision kicked off what turned out to be the **most complex spike I’ve done so far**, and by far the one with the most real engineering work behind it.
 
