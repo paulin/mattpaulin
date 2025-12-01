@@ -179,7 +179,4 @@ Maximum Christmas started as a joke domain and grew into a game, a holiday satir
 
 This spike wasn't about speed—it was about building something real, functional, resilient, and fun. It let me explore product development, game mechanics, AI-assisted engineering, affiliate monetization, CDN optimization, admin tooling, and cost-conscious cloud deployment—all wrapped in a silly Christmas theme.
 
-On December 25, I’ll reveal the final results:  
-**Which real products were correctly identified, and which fake ones fooled the world.**
-
-That feels like the right kind of Maximum Christmas energy.
+On December 25, I will reveal the list of real products and the list of fake products. Every vote will be counted so we can see which might be made into products for next year.  
