@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Idea Spike 7: Idea Factory"
-date: 2025-21-15
+date: 2025-11-15
 author: "Matt Paulin"
 categories: [ideas, idea-spike]
 ---
