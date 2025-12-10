@@ -6,8 +6,6 @@ author: "Matt Paulin"
 categories: [ideas, idea-spike]
 ---
 
-# Idea Spike 9: Quirks
-
 Quirks was a game that some friends and I dreamed up over a decade ago. It started with a simple observation: everyone has those weird little behaviors—those personality “tics” that make us who we are. Some people take endless notes. Some brag. Some fidget. Some narrate. Some quote random movie lines. These quirks are the strange spices of our personalities.
 
 So one day we wondered: *What if we turned that into a game?*
