@@ -63,6 +63,7 @@ I’ll add you to the testing list.
 
 
 <div class="quirks-rules" markdown="1">
+<span class="quirks-badge">RULES</span>
 
 ## Quirks – Official Game Rules
 
