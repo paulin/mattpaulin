@@ -15,84 +15,6 @@ And Quirks was born—a lightweight social layer you sprinkle on top of everyday
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kJ2zh5TKYXo" title="BMS" frameborder="0" allowfullscreen></iframe>
 ---
 
-## How Quirks Works (The Rules)
-
-Quirks is a **social deduction party game** where each player is secretly assigned a behavior they must incorporate into normal conversation. Other players try to figure out what quirk each person is performing. It’s simple, funny, and scales to any group.
-
-### Objective
-Earn the most points by correctly guessing other players’ quirks.
-
----
-
-## Setup
-
-1. Open the app and create a game.  
-2. Each player enters their name.  
-3. You need at least **three players**.  
-4. The phone is passed from person to person as quirks are assigned.
-
-When it’s your turn, the app gives you a secret Quirk—just for you.
-
-In the video demo, the quirks looked like this:
-
-- **“You have invented everything.”**  
-- **“You find everything extremely fascinating.”**  
-- **“Try to rhyme your sentence every now and then.”**
-
-Each player gets theirs privately. No one else knows what you were assigned.
-
----
-
-## Gameplay Loop
-
-### 1. Receive a Quirk
-When the phone is passed to you, you tap “Yes” and the app reveals your quirk.
-
-From that moment on, you must incorporate it into regular conversation. For example:  
-If your quirk is *“You have invented everything,”* you’d casually slip in:  
-- “Oh yeah, I invented that.”  
-- “I actually invented this coffee shop.”  
-
-The humor is in blending the behavior into real life—not simply performing a skit.
-
----
-
-### 2. Observe & Guess
-Everyone watches everyone else for odd patterns, strange phrasings, or exaggerated reactions.
-
-A player can make a guess at any time:
-
-> “I think Matt is doing something with… inventing?”
-
----
-
-### 3. Resolve the Guess
-The guessed player answers honestly.
-
-**If correct:**  
-- The guesser earns **1 point**.  
-- The quirked player receives a *new* quirk from the deck.
-
-**If incorrect:**  
-- No points change hands.  
-- The player keeps acting out their quirk.
-
-In the transcript example, Adam guessed correctly and instantly got a point.
-
----
-
-### 4. End of Game
-The game ends when:
-- Time runs out,  
-- A set number of rounds have been played, or  
-- The Quirk deck runs out.
-
-The app shows the winner—in the demo, Adam won.
-
-If players tie, they receive a “showdown quirk” to act out simultaneously, and the group votes on the winner.
-
----
-
 # Resurrecting a Ghost
 
 In the early days, the original Quirks app took us months to design. We created diagrams, fiddled with flows, and slowly stitched the idea into a little iPhone app. It ended up becoming surprisingly popular in England—right up until I made the fateful decision to charge $1 for it. That instantly killed the user base. Poof. Gone.
@@ -136,3 +58,53 @@ If you have an Android phone, I could use your help.
 I need testers so I can get Quirks through Google’s approval process and into the store.  
 If you want to help revive this strange, delightful metagame from my past, reach out—  
 I’ll add you to the testing list.
+
+
+
+<div style="background:#f7f7f7; border:1px solid #ccc; padding:20px; margin-top:40px;">
+
+## **Quirks – Official Game Rules**
+
+### **Overview**
+Quirks is a social deduction party game. Each player secretly receives a “quirk”—a behavior they must subtly incorporate into normal conversation. Other players try to guess each other’s quirks.
+
+### **Objective**
+Accumulate the most correctly guessed quirks by the end of the game.
+
+### **Setup**
+- Each player enters their name into the app.  
+- The system automatically assigns hidden quirks one at a time.  
+- Minimum of three players.
+
+### **Gameplay Loop**
+
+#### **1. Receive a Quirk**
+The active player receives a secret quirk and must incorporate it into normal conversation.
+
+#### **2. Observe and Guess**
+Players watch for unusual behavior. A player may guess another’s quirk at any time.
+
+#### **3. Resolving a Guess**
+- **Correct guess:**  
+  - Guesser earns 1 point.  
+  - Quirked player discards the quirk and receives a new one.  
+- **Incorrect guess:**  
+  - No points change.  
+  - The player keeps their quirk.
+
+#### **4. Ending the Game**
+The game ends when:  
+- A set time expires,  
+- A set number of rounds is completed, or  
+- The quirk deck is exhausted.
+
+### **Winning**
+Highest score wins.  
+If tied, the app assigns a showdown quirk; the group votes on the winner.
+
+### **Variants**
+- **Hard Mode:** Can't repeat quirk behavior more than once every 30 seconds.  
+- **Silent Round:** No verbal guessing—only observation.  
+- **Chaos Mode:** Players may receive two quirks at once.
+
+</div>
