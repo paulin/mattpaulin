@@ -6,6 +6,34 @@ author: "Matt Paulin"
 categories: [ideas, idea-spike]
 ---
 
+<style>
+.quirks-rules{
+  background:#f8fafc;
+  border:1px solid #e2e8f0;
+  border-left:6px solid #fb923c; /* orange accent */
+  padding:22px 24px;
+  margin-top:48px;
+  border-radius:12px;
+  box-shadow:0 8px 24px rgba(0,0,0,.06);
+}
+
+.quirks-rules h2, .quirks-rules h3, .quirks-rules h4{
+  margin-top:14px;
+}
+
+.quirks-badge{
+  display:inline-block;
+  font-size:.75rem;
+  letter-spacing:.08em;
+  font-weight:700;
+  padding:4px 10px;
+  border-radius:999px;
+  background:#111827;
+  color:#fff;
+  margin-bottom:10px;
+}
+</style>
+
 Quirks was a game that some friends and I dreamed up over a decade ago. It started with a simple observation: everyone has those weird little behaviors—those personality “tics” that make us who we are. Some people take endless notes. Some brag. Some fidget. Some narrate. Some quote random movie lines. These quirks are the strange spices of our personalities.
 
 So one day we wondered: *What if we turned that into a game?*

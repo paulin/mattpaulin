@@ -86,3 +86,4 @@ social-links:
 # Custom CSS
 css:
   - /assets/css/beautiful-custom.css
+  - /assets/css/custom.css
