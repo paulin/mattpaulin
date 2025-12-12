@@ -61,30 +61,31 @@ I’ll add you to the testing list.
 
 
 
-<div style="background:#f7f7f7; border:1px solid #ccc; padding:20px; margin-top:40px;">
 
-## **Quirks – Official Game Rules**
+<div class="quirks-rules" markdown="1">
 
-### **Overview**
+## Quirks – Official Game Rules
+
+### Overview
 Quirks is a social deduction party game. Each player secretly receives a “quirk”—a behavior they must subtly incorporate into normal conversation. Other players try to guess each other’s quirks.
 
-### **Objective**
+### Objective
 Accumulate the most correctly guessed quirks by the end of the game.
 
-### **Setup**
+### Setup
 - Each player enters their name into the app.  
 - The system automatically assigns hidden quirks one at a time.  
 - Minimum of three players.
 
-### **Gameplay Loop**
+### Gameplay Loop
 
-#### **1. Receive a Quirk**
+#### 1. Receive a Quirk
 The active player receives a secret quirk and must incorporate it into normal conversation.
 
-#### **2. Observe and Guess**
+#### 2. Observe and Guess
 Players watch for unusual behavior. A player may guess another’s quirk at any time.
 
-#### **3. Resolving a Guess**
+#### 3. Resolving a Guess
 - **Correct guess:**  
   - Guesser earns 1 point.  
   - Quirked player discards the quirk and receives a new one.  
@@ -92,17 +93,17 @@ Players watch for unusual behavior. A player may guess another’s quirk at any 
   - No points change.  
   - The player keeps their quirk.
 
-#### **4. Ending the Game**
+#### 4. Ending the Game
 The game ends when:  
 - A set time expires,  
 - A set number of rounds is completed, or  
 - The quirk deck is exhausted.
 
-### **Winning**
+### Winning
 Highest score wins.  
 If tied, the app assigns a showdown quirk; the group votes on the winner.
 
-### **Variants**
+### Variants
 - **Hard Mode:** Can't repeat quirk behavior more than once every 30 seconds.  
 - **Silent Round:** No verbal guessing—only observation.  
 - **Chaos Mode:** Players may receive two quirks at once.
