@@ -130,6 +130,5 @@ The game ends when:
 
 ### Winning
 Highest score wins.  
-If tied, the app assigns a showdown quirk; the group votes on the winner.
 
 </div>
