@@ -10,7 +10,7 @@ categories: [ideas, idea-spike]
 .quirks-rules{
   background:#f8fafc;
   border:1px solid #e2e8f0;
-  border-left:6px solid #fb923c; /* orange accent */
+  border-left:6px solid #3E0456; /* purple accent */
   padding:22px 24px;
   margin-top:48px;
   border-radius:12px;
@@ -131,10 +131,5 @@ The game ends when:
 ### Winning
 Highest score wins.  
 If tied, the app assigns a showdown quirk; the group votes on the winner.
-
-### Variants
-- **Hard Mode:** Can't repeat quirk behavior more than once every 30 seconds.  
-- **Silent Round:** No verbal guessing—only observation.  
-- **Chaos Mode:** Players may receive two quirks at once.
 
 </div>
