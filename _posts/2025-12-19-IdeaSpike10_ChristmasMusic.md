@@ -1,4 +1,10 @@
-# Spike 10: I Generated Christmas Music
+---
+layout: post
+title: "Idea Spike 10: Generated Christmas Music"
+date: 2025-12-19
+author: "Matt Paulin"
+categories: [ideas, idea-spike]
+---
 
 For this last and final spike of 2026, things got a little strange.
 
