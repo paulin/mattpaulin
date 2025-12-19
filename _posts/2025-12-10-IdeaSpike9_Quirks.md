@@ -40,7 +40,7 @@ So one day we wondered: *What if we turned that into a game?*
 
 And Quirks was born—a lightweight social layer you sprinkle on top of everyday life. It wasn’t something you played sitting around a table. It was something you played *while* you were living your life: at a bar, at a coffee shop, at a movie, walking around, whatever. A metagame that makes normal activities more memorable.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kJ2zh5TKYXo" title="BMS" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kJ2zh5TKYXo" title="Quirks" frameborder="0" allowfullscreen></iframe>
 ---
 
 # Resurrecting a Ghost
