@@ -25,7 +25,7 @@ I didn’t make a software product. I made a song. Even that feels generous—I 
 
 
 
-This spike grew out of Spike 8, where I built (MaximumChristmas.com)[https://maximumchristmas.com]. At one point, I thought it would be fun to have background music on the site, in the same way old MySpace pages would start playing a song as soon as you loaded them. I quickly decided that was more annoying than charming and dropped the idea.
+This spike grew out of Spike 8, where I built **[Maximum Christmas](https://maximumchristmas.com)**. At one point, I thought it would be fun to have background music on the site, in the same way old MySpace pages would start playing a song as soon as you loaded them. I quickly decided that was more annoying than charming and dropped the idea.
 
 But the act of creating something purely expressive still fit my definition of a spike: taking an idea and turning it into something you can show other people. So instead of shipping software, I shipped a song.
 
