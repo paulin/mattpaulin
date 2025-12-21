@@ -87,22 +87,6 @@ Points are intentional.
 
 ---
 
-## Release Levels
-
-Release Levels describe **product maturity**, not effort.
-
-They answer the question:
-
-> How mature is this product?
-
-BSSS answers a different question:
-
-> Who contributed to getting us here?
-
-Each Big Slice is explicitly tied to one Release Level.  
-Completing that Release Level closes the slice.
-
----
 
 ## Recommended Ownership Allocation
 
