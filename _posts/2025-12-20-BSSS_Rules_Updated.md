@@ -1,7 +1,16 @@
+---
+layout: post
+title: "Big Slice / Small Slice (BSSS): Updated Rules and Recommended Allocation"
+date: 2025-12-21
+author: "Matt Paulin"
+categories: [product-management, startups, ownership, equity, frameworks]
+tags: [BSSS, ownership, release-levels, pre-equity, contribution-accounting]
+---
+
 # Big Slice / Small Slice Rules (BSSS)
 
 ## Background
-![Bots support us](/assets/images/BSSS_with_levels.png)
+![BSSS Companion Guide](/assets/images/BSSS_with_levels.png)
 
 The Big Slice / Small Slice (BSSS) Rules provide a simple, transparent way to track ownership and contribution accounting for a pre-filing company or early-stage project. Before legal equity exists, this model tracks who contributed what, tied to major milestones and proportional work.
 

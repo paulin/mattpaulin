@@ -8,13 +8,8 @@ tags: [BSSS, ownership, release-levels, pre-equity, contribution-accounting]
 ---
 
 # Big Slice / Small Slice (BSSS)
-## An Updated, Recommended Ownership Allocation Model
+![BSSS Companion Guide](/assets/images/BSSS_with_levels.png)
 
-This document is a working draft intended to explain the **Big Slice / Small Slice (BSSS)** system, its historical roots, and its modern, recommended implementation for pre-equity projects.
-
-It is designed to be edited, extended, and referenced as a canonical explanation.
-
----
 
 ## Background and Lineage
 

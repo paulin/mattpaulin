@@ -2,7 +2,8 @@
 layout: post
 title:  "10 Levels of incremental product development"
 date:   2018-02-18
-categories:
+author: "Matt Paulin"
+categories: [software, product-management]
 ---
 # 10 Levels of incremental product development
 
