@@ -11,38 +11,18 @@ tags: [BSSS, ownership, release-levels, pre-equity, contribution-accounting]
 ![BSSS Companion Guide](/assets/images/BSSS_with_levels.png)
 
 
-## Background and Lineage
+## The General Idea
+
+When working with friends on projects I always run into the problem that everyone has hidden expectations about ownership and what it means to be successful. Many of us don't even know that we have these expectations. They are based on how we were raised and what we value. Thus they are very personal, hidden, and can easily destroy a friendship if you become successful.  On the flipside of this is the overthinking that happens from creating shares too early. It cost a real money, momentum, and energy to create shares and a vesting schedule. Suddenly that playful idea feels like work and it kills the joy of creation with adulting.
+
+Therefore I invented these rules as insurance against the misscomunications that form when we all are excited to build something and don't want to think about how much of nothing each of us will own... Until it isn't worth nothing.
 
 The Big Slice / Small Slice idea originated as a **design pattern** for allocating ownership dynamically and transparently in early ventures. It was first described as a way to prevent resentment, hidden dilution, and retroactive negotiation when teams were contributing unevenly under high uncertainty.
 
-The core insight was simple:
-
-- Treat ownership as a fixed whole
-- Budget ownership by phase
-- Allocate ownership based on contribution
-
-What has changed over time is not the principle, but the **precision**.
-
-This document represents an evolved, opinionated version of that original pattern.
-
 ---
+## Vocabulary
 
-## The Core Idea
-
-A project begins as **100% ownership**.
-
-That ownership is not assigned to people upfront. Instead, it is earned over time as the project progresses through meaningful milestones.
-
-Ownership is divided into:
-- **Big Slices** — milestone-level allocations
-- **Small Slices** — individual shares earned within a milestone
-
-Progress earns ownership.  
-Time alone does not.
-
----
-
-## Big Slices
+### Big Slices
 
 A **Big Slice** represents a major milestone in the life of a project.
 
@@ -61,7 +41,7 @@ Ownership percentages may not.
 
 ---
 
-## Small Slices
+### Small Slices
 
 Contributors earn **Small Slices** inside a Big Slice.
 
@@ -73,17 +53,32 @@ A Small Slice represents a contributor’s proportional share of that Big Slice,
 
 When a Big Slice closes, ownership earned inside it is locked.
 
+
 ---
 
-## Why Points, Not Hours
+## The Rules
 
-Points are a flexible accounting unit that allow:
-- Different types of work to coexist
-- Non-time-based contributions to be recognized
-- Tradeoffs to be explicit rather than implicit
+### Rule 1: Treat ownership as a fixed whole:
+A project begins as **100% ownership**. Think of a pie. Now budget out what milestones the project is going to go through.  Set a percentage to each milestone and lock that down with your group.
 
-Hours were a proxy.  
-Points are intentional.
+### Rule 2: Track effort from each contributor in each phases
+The philosophy is that progress earns ownership, time alone does not.
+
+You can track hours, you can use dubloons, you can track happy points, it doesn't really matter. I prefer to use a point system because then effort like sales or connections can be trued up against hours. Sales, networking, and engineering work very differently and the contributions are not equivalent.
+
+I think the easiest way to do this is to setup a regular meeting where everyone involved shows up and says how many points they contributed to this project. Then the group agrees or debates it, and records the decision in a journal. This turns one giant akward discussion into lots of little akward discussions.
+
+### Rule 3: At the end of each Big Slice (milestone) tally up the small slices.
+
+Ownership is divided into:
+- **Big Slices** — milestone-level allocations
+- **Small Slices** — individual shares earned within a milestone
+
+So at the end of each milestone tally up how many points each contributor made and then proportinaly split up the big slice they just worked through.  Then move onto the next phase.
+
+That ownership is not assigned to people upfront. Instead, it is earned over time as the project progresses through meaningful milestones.
+
+
 
 ---
 
@@ -109,21 +104,19 @@ It is an opinionated default that reflects where risk and value tend to concentr
 | RL10 | Stable | 12% |
 | **Total** | | **100%** |
 
----
 
-## Allocation Philosophy
+
+### Regarding this Allocation Philosophy
 
 - Early stages matter, but are highly speculative
 - Mid-stage execution carries the highest product risk
 - Late stages reward durability, scale, and operational excellence
 
-Ideas are necessary.  
-Execution is decisive.  
-Longevity is earned.
-
 ---
 
-## What This Is (and Is Not)
+## To Conclude
+
+### What This Is (and Is Not)
 
 This system **is**:
 - A contribution accounting model
@@ -135,30 +128,13 @@ This system **is not**:
 - A cap table
 - A shareholder agreement
 
-It is a bridge between ambiguity and formality.
+It is a bridge between ambiguity and formality. Assuming success then you can transition to something more formal like a captable and preferred shares. But until then it can just be a spreadsheet.
+
 
 ---
 
-## Why This Exists
 
-Most early-stage conflict comes from ambiguity, not bad intent.
-
-BSSS makes three things explicit:
-- What matters (Big Slices)
-- Who contributed (Small Slices)
-- When ownership is earned (Release Levels)
-
-If you never need this system, great.
-
-If you do need it, it will already be there.
-
----
-
-## Working Notes
-
-- Slice percentages are declared once
-- Point budgets may evolve
-- Ownership earned is never retroactively adjusted
-- Transition to formal equity should reference this ledger, not replace it
+## Bonus
+I did build this into my system on (The Idea Is)
 
 ---
