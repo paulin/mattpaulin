@@ -130,11 +130,10 @@ This system **is not**:
 
 It is a bridge between ambiguity and formality. Assuming success then you can transition to something more formal like a captable and preferred shares. But until then it can just be a spreadsheet.
 
-
 ---
 
-
 ## Bonus
-I did build this into my system on (The Idea Is)
+I did build this into my system on [The Idea Is](https://theideais.com) in case you want to use it when you get to the implementation level.
+
 
 ---
