@@ -7,12 +7,12 @@ This file organizes all the text content from the homepage for easy updates acro
 ## Core Bio / Introduction
 
 **Full Version:**
-I'm Matt Paulin — a technologist and entrepreneur who builds products, writes software, and digs into data.
+I'm Matt Paulin — a product leader, technologist, and entrepreneur who builds systems, ships software, and explores how emerging technology turns into real product capability.
 
-For the past 20 years, I've founded companies, launched products, and delivered software that people actually use. I believe all great technology comes down to one thing: **communication.** Whether it's a product interface, a system that connects people, or code that lets us talk to machines, I build tools that help people work, learn, and achieve more together.
+For the past 20 years, I've founded companies, launched products, and delivered software that people actually use. I believe all great technology comes down to one thing: **communication.** Whether it's a product interface, a system that connects people, or software that lets humans and machines work together, I focus on building tools that help people learn, decide, and move forward together.
 
 **Short Version:**
-I'm Matt Paulin, I have created companies, developed software, and launched products for 20 years.
+I'm Matt Paulin — a product leader and technologist with 20 years of experience building and shipping software products.
 
 ---
 
@@ -21,8 +21,10 @@ I'm Matt Paulin, I have created companies, developed software, and launched prod
 I wear three hats that work together:
 
 - **Entrepreneur** – I create companies and communities that bring ideas to life.
-- **Data Scientist** – I use data and AI to uncover insights and build smarter products.
-- **Product Builder** – I deliver software from concept to launch, always focused on the end user.
+- **AI-Driven Product Leader** – I explore how machine learning, data, and autonomy translate into real product capabilities, tradeoffs, and decisions.
+- **Product Builder** – I deliver software from concept to launch, always focused on the end user and real-world constraints.
+
+I use hands-on projects and experiments to stay close to emerging capabilities and sharpen product judgment.
 
 What excites me most is seeing people use what I've built — because that's when ideas become impact.
 
@@ -30,11 +32,11 @@ What excites me most is seeing people use what I've built — because that's whe
 
 ## How I Work
 
-I approach product development like climbing a mountain: where you don't have a map. As a team we explore, adapt, and keep moving upward. Along the way, you learn who your users are, why they matter, and how to deliver real value.
+I approach product development like climbing a mountain where you don't have a map. As a team, we explore, adapt, and learn as we go — using evidence and judgment to decide the next step.
 
-- I believe in shipping fast and showing progress every week.
+- I believe in shipping early and learning fast.
 - I trust teams and empower them with clarity instead of bloated requirements.
-- I build communities and teams on honesty, compassion, and consistency.
+- I focus on systems, incentives, and decision-making, not just features.
 
 OKRs have been part of my toolkit at every company I've led — not as busywork, but as guardrails for strategy, focus, and accountability.
 
@@ -42,13 +44,13 @@ OKRs have been part of my toolkit at every company I've led — not as busywork,
 
 ## What I'm Exploring Now
 
-We're living in a new era of product development, powered by AI. With complexity abstracted away, the big question is no longer *how* to build, but *what should we build?*
+We're living in a new era of product development, powered by AI. As complexity is abstracted away, the most important question is no longer *how* to build, but *what should we build, and why?*
 
 I'm exploring:
 
-- **AI & Data Science** – shaping products that adapt and think alongside us.
-- **Autonomy & Learning** – experimenting with reinforcement learning and autonomous systems.
-- **Games & Play** – using games as tools for education, creativity, and lifelong learning.
+- **AI-Driven Products** – experimenting with how machine learning and data systems meaningfully change product capability.
+- **Autonomy & Learning** – hands-on exploration of reinforcement learning and autonomous systems.
+- **Games & Play** – using games as tools for education, creativity, and learning through experience.
 
 At the heart of it all is one goal: creating products that give people **epiphanies** — new ways to learn, communicate, and grow.
 
@@ -56,9 +58,9 @@ At the heart of it all is one goal: creating products that give people **epiphan
 
 ## Collaborations & Community
 
-I love working with people who bring design sense, boldness, and the ability to project ideas unapologetically. I balance that with my strengths: catalyzing teams, building systems into existence, and organizing ideas into communities.
+I love working with people who bring design sense, boldness, and intellectual honesty. I balance that with my strengths: catalyzing teams, building systems into existence, and organizing ideas into communities.
 
-If you're building software products, working with OKRs, or exploring the frontiers of AI, I'd love to connect.
+If you're building software products, leading teams, or exploring how AI is reshaping product work, I'd love to connect.
 
 ---
 
@@ -68,16 +70,16 @@ If you're building software products, working with OKRs, or exploring the fronti
 *Character limit: 280 (or 4,000 for premium)*
 
 **Bio (160 chars):**
-Technologist & entrepreneur. Building products, writing software, digging into data for 20 years. AI, data science, product development.
+Product leader & technologist. Building AI-driven products, shipping software, and exploring systems for 20 years.
 
 **Short Bio (80 chars):**
-Technologist & entrepreneur. Building products & software for 20 years. AI, data science, product dev.
+Product leader exploring AI-driven products and systems.
 
 **Tweet Ideas:**
-- Building products that give people epiphanies — new ways to learn, communicate, and grow.
-- Product development is like climbing a mountain without a map. You explore, adapt, and keep moving upward.
-- The big question is no longer *how* to build, but *what should we build?* AI changes everything.
-- I believe all great technology comes down to one thing: communication.
+- AI changes *how* we build — product judgment decides *what* we build.
+- Side projects are how I stay close to emerging capabilities and sharpen product intuition.
+- Product development is exploration under uncertainty, not execution against a perfect plan.
+- Building products that give people epiphanies.
 
 ---
 
@@ -85,19 +87,19 @@ Technologist & entrepreneur. Building products & software for 20 years. AI, data
 *Focus: Technical, code, projects*
 
 **Bio:**
-Technologist and entrepreneur building products, writing software, and working with data for 20 years. Exploring AI, data science, and autonomous systems. Open to collaborations on interesting projects.
+Product-focused technologist building AI-driven systems, software products, and exploratory prototypes. Exploring autonomy, learning systems, and practical ML.
 
 **Profile Description:**
-- Building products from concept to launch
-- Working with AI, data science, and reinforcement learning
+- Building AI-driven product experiments
+- Exploring autonomy and learning systems
+- Shipping software and learning fast
 - Creating tools that help people work, learn, and achieve more together
-- Exploring games as tools for education and creativity
 
 **README Ideas:**
 - 20 years of building products and software
-- Currently exploring: AI & Data Science, Autonomy & Learning, Games & Play
+- Currently exploring: AI-driven products, autonomy, learning systems
 - Interested in: Product development, OKRs, AI frontiers
-- Always shipping fast and showing progress
+- Always shipping, reflecting, iterating
 
 ---
 
@@ -105,35 +107,30 @@ Technologist and entrepreneur building products, writing software, and working w
 *Focus: Professional, career, networking*
 
 **Headline:**
-Technologist & Entrepreneur | Product Builder | Data Scientist | 20 Years Building Products & Software
+Director-Level Product Leader | AI-Driven Products | Systems & Learning | 20 Years Building Software
 
 **About Section:**
-I'm Matt Paulin — a technologist and entrepreneur who builds products, writes software, and digs into data.
+I'm Matt Paulin — a product leader and technologist focused on turning emerging technology into real product capability.
 
-For the past 20 years, I've founded companies, launched products, and delivered software that people actually use. I believe all great technology comes down to one thing: **communication.** Whether it's a product interface, a system that connects people, or code that lets us talk to machines, I build tools that help people work, learn, and achieve more together.
+For the past 20 years, I've founded companies, launched products, and delivered software that people actually use. I use hands-on experimentation to stay close to AI, data, and autonomy — not as hype, but as tools that shape product decisions.
 
 **What I Do:**
 I wear three hats that work together:
 - **Entrepreneur** – Creating companies and communities that bring ideas to life
-- **Data Scientist** – Using data and AI to uncover insights and build smarter products
-- **Product Builder** – Delivering software from concept to launch, always focused on the end user
+- **AI-Driven Product Leader** – Exploring how ML and data change what products can do
+- **Product Builder** – Delivering software from concept to launch
 
 **How I Work:**
-I approach product development like climbing a mountain without a map. As a team we explore, adapt, and keep moving upward. Along the way, you learn who your users are, why they matter, and how to deliver real value.
+I approach product development like climbing a mountain without a map. As a team, we explore, adapt, and learn as we go.
 
-- I believe in shipping fast and showing progress every week
-- I trust teams and empower them with clarity instead of bloated requirements
-- I build communities and teams on honesty, compassion, and consistency
-
-OKRs have been part of my toolkit at every company I've led — not as busywork, but as guardrails for strategy, focus, and accountability.
+- Shipping early and learning fast
+- Trusting teams and providing clarity
+- Using OKRs as guardrails for focus and accountability
 
 **Current Focus:**
-We're living in a new era of product development, powered by AI. With complexity abstracted away, the big question is no longer *how* to build, but *what should we build?*
-
-I'm exploring:
-- **AI & Data Science** – shaping products that adapt and think alongside us
-- **Autonomy & Learning** – experimenting with reinforcement learning and autonomous systems
-- **Games & Play** – using games as tools for education, creativity, and lifelong learning
+- AI-Driven Products
+- Autonomy & Learning
+- Games & Play
 
 **Let's Connect:**
 If you're building software products, working with OKRs, or exploring the frontiers of AI, I'd love to connect.
@@ -143,25 +140,23 @@ If you're building software products, working with OKRs, or exploring the fronti
 ## Reusable Text Snippets
 
 **Tagline Options:**
-- Building products that give people epiphanies
+- Building AI-driven products with judgment
 - Technology is communication
 - From concept to launch, always focused on the end user
 - Exploring what we should build in the AI era
 
 **Key Phrases:**
 - 20 years of building products and software
-- Founded companies, launched products, delivered software
-- All great technology comes down to communication
-- Ideas become impact when people use what you've built
-- Shipping fast and showing progress every week
-- OKRs as guardrails for strategy, focus, and accountability
-- Creating products that give people epiphanies
+- Product judgment over hype
+- Learning through experimentation
+- Systems, tradeoffs, and capability
+- Shipping early, reflecting often
 
 **Skills/Expertise:**
-- Product Development
+- Product Leadership
 - Software Engineering
-- Data Science
 - AI & Machine Learning
+- Data Science
 - Entrepreneurship
 - OKRs (Objectives and Key Results)
 - Team Building
@@ -174,14 +169,13 @@ If you're building software products, working with OKRs, or exploring the fronti
 - Email: mattpaulin.com@gmail.com
 - GitHub: paulin
 - LinkedIn: mattpaulin
-- Website: [Your website URL]
+- Website: https://mattpaulin.com
 
 ---
 
 ## Notes
 
-- Update this file when you want to refresh your channel content
-- Keep channel-specific versions aligned with platform character limits
-- Maintain consistent messaging across all channels while adapting tone
-- Review and update quarterly or when major changes occur
-
+- This file is the source of truth for homepage and channel bios
+- Side projects are intentionally framed as **product experiments**
+- Language emphasizes judgment, systems, and learning over hype
+- Review and update quarterly or when role focus changes
