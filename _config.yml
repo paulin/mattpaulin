@@ -65,9 +65,8 @@ header_pages:
 # Beautiful Jekyll navigation
 navbar-links:
   Portfolio: "/portfolio/"
-  Carbot: "/categories/carbot/"
+  "AI-Driven Products": "/ai-driven-products/"
   Ideas: "/categories/ideas/"
-  "Data Science": "/categories/data/"
   "Product Playbook": "/categories/product_management/"
 
 # Beautiful Jekyll settings
