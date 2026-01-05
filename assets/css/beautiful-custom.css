@@ -1,56 +1,19 @@
 /* Custom styles for Beautiful Jekyll theme */
 
-/* Fix avatar clipping issue - target the avatar container directly */
-.avatar-container {
-  padding-top: 60px !important;
-  margin-top: 40px !important;
-  margin-bottom: 20px !important;
-  position: relative !important;
-  z-index: 10 !important;
+/* Hide avatar completely */
+.avatar-container,
+.avatar-img-border,
+.avatar-img,
+img[src*="cartoonmatt.png"],
+img[src*="avatar"] {
+  display: none !important;
+  visibility: hidden !important;
 }
 
-.avatar-img-border {
-  margin-top: 20px !important;
-  margin-bottom: 10px !important;
-}
-
-.avatar-img {
-  margin-top: 10px !important;
-  margin-bottom: 10px !important;
-}
-
-/* Ensure the main navbar doesn't interfere with avatar */
-.navbar {
-  position: relative !important;
-  z-index: 5 !important;
-}
-
-/* Make sure the nav element provides enough space */
+/* Reset padding since avatar is hidden */
 nav {
-  padding-top: 60px !important;
+  padding-top: 20px !important;
   padding-bottom: 20px !important;
-}
-
-/* Ensure the avatar has enough space from the top of the viewport */
-body {
-  padding-top: 0 !important;
-}
-
-/* Responsive avatar sizing */
-@media (min-width: 768px) {
-  .avatar-img {
-    width: 160px !important;
-    height: 160px !important;
-  }
-  
-  .avatar-container {
-    padding-top: 70px !important;
-    margin-top: 50px !important;
-  }
-  
-  nav {
-    padding-top: 70px !important;
-  }
 }
 
 /* Portfolio timeline styling */
