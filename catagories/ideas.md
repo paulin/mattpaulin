@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Ideas
+title: Product Experiments
 permalink: /categories/ideas/
 ---
 
-A collection of creative ideas, inventions, and fun concepts I've been exploring.
+Product experiments and exploratory prototypes.
+
+This section contains short, self-directed experiments where I test product hypotheses, explore technical feasibility, and extract learnings. These are not production case studies — they are deliberate probes used to sharpen judgment around what to build, what to ignore, and why.
+
+---
 
 ## Posts
 
