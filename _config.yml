@@ -72,7 +72,7 @@ navbar-links:
 # Beautiful Jekyll settings
 show-avatar: false
 show-social-icons: true
-show-aboutme: true
+show-aboutme: false
 show-footer: false
 show-date: false
 
