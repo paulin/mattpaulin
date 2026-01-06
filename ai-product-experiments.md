@@ -19,8 +19,11 @@ Data collection, training pipelines, and control-system experimentation for an a
 
 ### Recent Posts
 
+{% assign carbot_count = 0 %}
 {% for post in site.posts %}
   {% if post.categories contains 'carbot' %}
+    {% assign carbot_count = carbot_count | plus: 1 %}
+    {% if carbot_count <= 3 %}
 <div class="post-preview">
   <div class="post-content">
     {% if post.title == 'Carbot 7: ROV' %}
@@ -37,6 +40,7 @@ Data collection, training pipelines, and control-system experimentation for an a
     </div>
   </div>
 </div>
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -50,8 +54,11 @@ Small analyses and modeling experiments focused on data quality, inference, and 
 
 ### Recent Posts
 
+{% assign data_count = 0 %}
 {% for post in site.posts %}
   {% if post.categories contains 'data' %}
+    {% assign data_count = data_count | plus: 1 %}
+    {% if data_count <= 3 %}
 <div class="post-preview">
   <div class="post-content">
     {% if post.title == 'Stevens Pass Drive Forecasting' %}
@@ -72,6 +79,7 @@ Small analyses and modeling experiments focused on data quality, inference, and 
     </div>
   </div>
 </div>
+    {% endif %}
   {% endif %}
 {% endfor %}
 
@@ -85,8 +93,11 @@ Rapid product experiments using AI-assisted development to test hypotheses and e
 
 ### Recent Posts
 
+{% assign ideas_count = 0 %}
 {% for post in site.posts %}
   {% if post.categories contains 'ideas' %}
+    {% assign ideas_count = ideas_count | plus: 1 %}
+    {% if ideas_count <= 3 %}
 <div class="post-preview">
   <div class="post-content">
     {% if post.title == 'Leading with Ideas' %}
@@ -103,6 +114,7 @@ Rapid product experiments using AI-assisted development to test hypotheses and e
     </div>
   </div>
 </div>
+    {% endif %}
   {% endif %}
 {% endfor %}
 
