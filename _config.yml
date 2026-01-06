@@ -65,8 +65,7 @@ header_pages:
 # Beautiful Jekyll navigation
 navbar-links:
   Portfolio: "/portfolio/"
-  "AI-Driven Products": "/ai-driven-products/"
-  "Product Experiments": "/categories/ideas/"
+  "AI Product Experiments": "/ai-product-experiments/"
   "Product Playbook": "/categories/product_management/"
 
 # Beautiful Jekyll settings
