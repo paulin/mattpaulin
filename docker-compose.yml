@@ -1,9 +1,11 @@
-version: "3.7"
 services:
   jekyll:
     image: jekyll/jekyll:latest
-    command: jekyll serve --watch --force_polling --verbose --livereload
+    command: bash -c "bundle install && bundle exec jekyll serve --watch --force_polling --host 0.0.0.0 --port 4000 --livereload"
     ports:
-      - 4000:4000
+      - "4001:4000"
     volumes:
-      - /Users/paulin/Documents/GitHub/mattpaulin:/srv/jekyll
+      - .:/srv/jekyll
+    working_dir: /srv/jekyll
+    environment:
+      - JEKYLL_ENV=development
