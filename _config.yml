@@ -34,6 +34,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+# Excerpt settings
+# Use "---" as separator to mark where excerpts end in posts
+# Everything before "---" will be used as the excerpt in post previews
+excerpt_separator: "---"
+
 background_image_url: /assets/images/background2.jpeg
 porthole_background_image_url: /assets/images/background2.jpeg
 # Exclude from processing.
