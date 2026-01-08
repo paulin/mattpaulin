@@ -28,19 +28,25 @@ body {
   margin: 0 auto;
 }
 
-/* Make the main profile image circular */
-.page-content img[src*="matt.png"] {
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto 20px auto;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
-}
-
-/* Add a subtle hover effect */
-.page-content img[src*="matt.png"]:hover {
-  transform: scale(1.05);
+/* Hide avatar - this file loads last so it can override everything */
+.avatar-container,
+.avatar-img-border,
+.avatar-img,
+.avatar-container a,
+.avatar-img-border a,
+img[src*="cartoonmatt.png"],
+img[src="/assets/images/cartoonmatt.png"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  position: absolute !important;
+  left: -9999px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
 }
 
 .quirks-rules{

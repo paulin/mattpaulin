@@ -3,7 +3,7 @@ layout: post
 title: "Sprint and Tell"
 date: 2025-07-10
 author: "Matt Paulin"
-categories: [software, product-management, ideas]
+categories: [software, product-management]
 ---
 # Sprint and Tell: A Simpler Way to Focus Sprints on Outcomes
 

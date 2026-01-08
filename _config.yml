@@ -22,7 +22,7 @@ title: Matt Paulin
 email: mattpaulin.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Matt Paulin, I have created companies, developed software, and launched products for 20 years.
-avatar: /assets/images/cartoonmatt.png
+# avatar: /assets/images/cartoonmatt.png
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,6 +33,11 @@ remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+# Excerpt settings
+# Use "---" as separator to mark where excerpts end in posts
+# Everything before "---" will be used as the excerpt in post previews
+excerpt_separator: "---"
 
 background_image_url: /assets/images/background2.jpeg
 porthole_background_image_url: /assets/images/background2.jpeg
@@ -65,15 +70,13 @@ header_pages:
 # Beautiful Jekyll navigation
 navbar-links:
   Portfolio: "/portfolio/"
-  Carbot: "/categories/carbot/"
-  Ideas: "/categories/ideas/"
-  "Data Science": "/categories/data/"
+  "AI Product Experiments": "/ai-product-experiments/"
   "Product Playbook": "/categories/product_management/"
 
 # Beautiful Jekyll settings
-show-avatar: true
+show-avatar: false
 show-social-icons: true
-show-aboutme: true
+show-aboutme: false
 show-footer: false
 show-date: false
 
@@ -83,7 +86,7 @@ social-links:
   linkedin: mattpaulin
   email: mattpaulin.com@gmail.com
 
-# Custom CSS
+# Custom CSS (load order matters - custom.css loads last to override theme)
 css:
   - /assets/css/beautiful-custom.css
   - /assets/css/custom.css
