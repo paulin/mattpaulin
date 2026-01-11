@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Designing an AI Product Ecosystem Under Real Operational Constraints
 
 ## Situation: An AI Product That Couldn’t Live in Isolation

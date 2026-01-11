@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carbot 7: ROV"
-date: 2025-05-14
+date: 2025-06-14
 author: "Matt Paulin"
 categories: robotics carbot
 ---

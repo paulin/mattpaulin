@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Leading Focus and Tradeoffs Inside a Global Services Organization
 ## Executive Case Study: Leapfrog Technology
 

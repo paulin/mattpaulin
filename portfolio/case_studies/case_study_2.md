@@ -1,3 +1,6 @@
+---
+layout: page
+---
 # Building and Scaling a Public Health Platform Under Extreme Time Pressure
 ## Executive Case Study: Signetic
 
