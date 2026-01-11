@@ -69,7 +69,7 @@ header_pages:
 
 # Beautiful Jekyll navigation
 navbar-links:
-  Portfolio: "/portfolio/"
+  "Career Case Studies": "/career-case-studies/"
   "AI Product Experiments": "/ai-product-experiments/"
   "Product Playbook": "/categories/product_management/"
 

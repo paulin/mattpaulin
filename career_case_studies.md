@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Career Case Studies
-permalink: /exec-case-studies/
+permalink: /career-case-studies/
 ---
 
 In-depth case studies exploring product leadership, strategic decision-making, and organizational challenges in real-world contexts.
