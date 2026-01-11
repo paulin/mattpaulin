@@ -30,7 +30,7 @@ The real problem was:
 
 > **How do we create a platform that public health agencies can trust to operate reliably at scale, under uncertainty, while serving diverse and underserved populations?**
 
-Failure modes were concrete:
+Quality and clarity were the focus:
 - Missed or duplicate appointments wasted scarce doses
 - Confusing UX excluded elderly and non-technical users
 - Reporting errors eroded confidence with state and federal agencies

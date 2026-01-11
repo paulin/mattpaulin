@@ -57,7 +57,6 @@ Instead of one large product, the system was intentionally split into:
 - **Kai** — capture data at the moment of human action  
 - **Zen** — help customers understand and use results  
 - **Fusion** — connect AI output to internal operations and revenue  
-- **Schema & validation** — enforce correctness across all systems  
 
 This prevented cognitive overload and allowed each product to be optimized for its user.
 
@@ -83,18 +82,6 @@ Instead of letting AI output drift:
 - “Fix File” processes enforced consistency
 
 This made downstream systems possible without constant rework.
-
----
-
-### 4. Draw hard system boundaries early
-
-Clear ownership was defined:
-- Kai captures
-- Zen explains
-- Fusion operates
-- Schema governs
-
-This avoided internal confusion, slowed feature sprawl, and made scaling realistic.
 
 ---
 
