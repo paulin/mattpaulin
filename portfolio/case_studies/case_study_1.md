@@ -1,5 +1,7 @@
 ---
 layout: page
+title: "Executive Case Study: Kaiizen"
+permalink: /portfolio/case_studies/kaiizen/
 ---
 # Designing an AI Product Ecosystem Under Real Operational Constraints
 
@@ -120,9 +122,3 @@ This work reflects how I approach product leadership:
 - I treat data integrity as a product decision
 - I’m willing to say no early to avoid chaos later
 - I prioritize clarity over speed when scale is inevitable
-
----
-
-## Supporting Detail
-
-Detailed technical breakdowns, schemas, and system diagrams are available in the reference portfolio.

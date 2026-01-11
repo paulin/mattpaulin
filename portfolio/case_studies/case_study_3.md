@@ -1,8 +1,10 @@
 ---
 layout: page
+title: "Executive Case Study: Leapfrog Technology"
+permalink: /portfolio/case_studies/leapfrog/
 ---
 # Leading Focus and Tradeoffs Inside a Global Services Organization
-## Executive Case Study: Leapfrog Technology
+
 
 ## Situation: Growth, Breadth, and the Limits of “Doing Everything”
 
@@ -122,9 +124,3 @@ This case reflects my leadership philosophy:
 - I value honesty over comfort when conditions change
 - I respect both people and economic realities
 - I believe clarity is a form of care for organizations
-
----
-
-## Supporting Detail
-
-Additional internal strategy notes, operating models, and retrospectives are documented in my leadership journals and reference portfolio.

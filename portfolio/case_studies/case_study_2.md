@@ -1,8 +1,9 @@
 ---
 layout: page
+title: "Executive Case Study: Signetic"
+permalink: /portfolio/case_studies/signetic/
 ---
 # Building and Scaling a Public Health Platform Under Extreme Time Pressure
-## Executive Case Study: Signetic
 
 ## Situation: Public Health Software in a Crisis Environment
 
@@ -117,9 +118,3 @@ This case reflects how I approach product leadership:
 - I design products around human constraints, not ideal users
 - I adapt strategy honestly as markets shift
 - I value accountability over optics, especially in crisis situations
-
----
-
-## Supporting Detail
-
-Additional screenshots, operational details, and implementation notes are available in the Signetic project archive and reference portfolio.
