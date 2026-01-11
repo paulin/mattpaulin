@@ -7,11 +7,25 @@ redirect_from:
   - /categories/ideas/
 ---
 
-Hands-on experiments exploring how AI, data, and autonomy translate into real product capability. These projects are exploratory by design—used to test assumptions, understand limits, and sharpen product judgment.
+I use experiments to learn, explore, and teach. I have included a set of topics I am very interested in; Vibe Coding, Data Science, and self driving vehicles.
 
 ---
 
-## Carbot — Autonomous RC Car
+
+# Vibe Coding Experiments
+
+Rapid product experiments using AI-assisted development to test hypotheses and explore technical feasibility.
+
+[View all Vibe Coding posts →](/categories/ideas/)
+
+### Recent Posts
+
+{% include post-preview-list.html category='ideas' limit=3 %}
+
+{% include post-preview-styles.html %}
+
+# Carbot — Autonomous RC Car
+![Carbot Blueprint](/assets/images/carbot/carbot_blueprint.jpg)
 
 Data collection, training pipelines, and control-system experimentation for an autonomous RC car.
 
@@ -23,7 +37,7 @@ Data collection, training pipelines, and control-system experimentation for an a
 
 ---
 
-## Data Science Learnings
+# Data Science Learnings
 
 Small analyses and modeling experiments focused on data quality, inference, and practical decision support.
 
@@ -34,15 +48,3 @@ Small analyses and modeling experiments focused on data quality, inference, and 
 {% include post-preview-list.html category='data' limit=3 %}
 
 ---
-
-## Vibe Coding Experiments
-
-Rapid product experiments using AI-assisted development to test hypotheses and explore technical feasibility.
-
-[View all Vibe Coding posts →](/categories/ideas/)
-
-### Recent Posts
-
-{% include post-preview-list.html category='ideas' limit=3 %}
-
-{% include post-preview-styles.html %}

@@ -9,6 +9,7 @@ Exploratory, hands-on projects and write-ups where I prototype product capabilit
 ---
 
 ## Carbot (Autonomous Systems)
+![BSSS Companion Guide](/assets/images/carbot/carbot_blueprint.jpg)
 
 Data collection, training pipelines, and control-system experimentation for an autonomous RC car.
 
@@ -131,7 +132,7 @@ Small analyses and modeling experiments focused on data quality, inference, and 
   .post-content {
     flex-direction: column;
   }
-  
+
   .post-thumbnail {
     width: 100%;
     height: 200px;
