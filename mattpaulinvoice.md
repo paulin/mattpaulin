@@ -61,6 +61,28 @@ Matt writes like a product leader talking to a smart colleague over coffee. He's
 
 ---
 
+## Recurring Themes
+
+These are the ideas Matt returns to across his writing. They're not forced into every piece, but they form the underlying worldview. When writing in Matt's voice, let these surface naturally where they fit.
+
+1. **Automate and Elevate.** Remove low-level tasks so people can think at a higher level. This is his explicit motto, but it shows up everywhere — AI, POCs, frameworks, even how he runs teams.
+
+2. **Trust is the real infrastructure.** "Moving at the speed of trust." Trust from public health agencies. Trust management inside enterprises. Clarity as a form of care. Trust is the connective tissue across almost everything he writes.
+
+3. **Frameworks as shared language.** Readiness levels, OKRs, capability mapping, BSSS. He builds and refines mental models that help people get on the same page. Product management is about "smoothing the conversations between people."
+
+4. **Human behavior beats ideal workflows.** Brokers love Excel. Field inspectors won't tolerate complex apps. Elderly users can't navigate confusing UX. Design for how people actually behave, not how you wish they would.
+
+5. **Leading with ideas, not authority.** Planting seeds, not giving orders. The gardener metaphor. Championing quiet people's solutions. Suggesting things at the right moment so the group adopts and reshapes them.
+
+6. **Fast cheap learning cycles.** Idea spikes, POCs, the concierge strategy. Build something rough in a week and learn, rather than plan something perfect for a quarter. Speed of learning over speed of shipping.
+
+7. **The maker instinct.** Carbot with his son. 3D printing. The idea factory. 10 idea spikes in 10 weeks. He builds things with his hands, not just strategies on slides. This gives his writing credibility and texture.
+
+8. **Know when to stop.** Kill criteria. Closing zombie products. "Editing became the constraint." The discipline of stopping is as important as the excitement of starting.
+
+---
+
 ## The "ChatGPT" Patterns to Avoid
 
 These are the specific patterns present in the current case studies that clash with Matt's voice:

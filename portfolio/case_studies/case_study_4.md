@@ -1,123 +1,57 @@
 ---
 layout: page
-title: "Executive Case Study: CBRE Build"
+title: "CBRE Build: Product Leadership Inside a Fortune 500"
 permalink: /portfolio/case_studies/cbre-build/
 ---
 
-# Leading Product Strategy Inside a Fortune 500 Enterprise
+# CBRE Build: Product Leadership Inside a Fortune 500
 
-## Situation: Innovation Inside a Highly Regulated, High-Stakes Enterprise
+CBRE is one of the largest commercial real estate companies in the world. Within CBRE Build, the mandate was to explore digital products that could create competitive advantage — modernize data, analytics, and decision-making tools. But there was a catch: **don't break anything.**
 
-CBRE is a Fortune 500 commercial real estate firm operating at global scale, with deeply entrenched processes, regulatory constraints, and powerful incumbents in adjacent markets (e.g., CoStar).
-
-Within CBRE Build, the mandate was to:
-- Explore digital products that could create competitive advantage
-- Modernize data, analytics, and decision-making tools
-- Do so **without** jeopardizing core brokerage relationships, revenue streams, or legal constraints
-
-Innovation was encouraged — but only if it could survive enterprise reality.
+That's the enterprise paradox. Innovation is encouraged, but only if it can survive contact with legal constraints, political capital, deeply entrenched processes, and powerful incumbents like CoStar. You can't just move fast and break things when "things" includes billion-dollar brokerage relationships.
 
 ---
 
-## The Real Problem (Not the Obvious One)
+## Excel Was the Real Competitor
 
-The obvious problem appeared to be:
+The question I kept hearing was "How do we build modern digital products inside CBRE?" But that wasn't really the problem. The problem was: **how do you create leverage through software when the humans using it prefer Excel, the data is fragmented, and some of the best product ideas would put you in legal conflict with your own partners?**
 
-> “How do we build modern digital products inside CBRE?”
+I spent a lot of time in the field talking to brokers. What I learned was that Excel persisted not because people were stubborn, but because it gave them speed and personal control. A centralized tool felt like surveillance, not support. Any product we built had to respect that instinct, not fight it.
 
-The real problem was:
-
-> **How do we create leverage through software while navigating legal risk, political capital, and deeply ingrained human behavior — without breaking trust internally or externally?**
-
-In practice:
-- Many teams preferred Excel because it felt safer and controllable
-- Data standardization conflicted with local autonomy
-- Some product ideas overlapped with partners CBRE could not legally compete with
-- Launching too early risked embarrassment and loss of future opportunity
+This is a pattern I see everywhere: **the tool isn't the problem — the behavior is.** If you design for ideal workflows instead of actual human behavior, you'll build something that demos beautifully and collects dust in production. At CBRE, some of the best product decisions I made were deciding *not* to force adoption. That's a hard thing to advocate for when you're hired to drive adoption, but pushing a tool on people who don't trust it just burns political capital you'll need later.
 
 ---
 
-## Constraints That Defined the Environment
+## Stopping Work Is a Product Decision
 
-Product leadership at CBRE was shaped by non-negotiable constraints:
+One of the things I'm most clear-eyed about from CBRE is the importance of knowing when to stop.
 
-- **Legal & competitive boundaries:** Products could not compete with CoStar or violate non-competes
-- **Human behavior:** Brokers optimized for speed and personal control, not centralized tools
-- **Enterprise risk tolerance:** A failed public launch could permanently damage credibility
-- **Data fragmentation:** Multiple sources of truth, inconsistent schemas, manual processes
-- **Organizational complexity:** Global teams, matrixed ownership, unclear product authority
+We formally closed out initiatives like *Site IQ* when the conditions that justified them changed. This was intentional. Zombie products — things that nobody kills but nobody champions — are some of the most expensive things in an enterprise. They drain trust, budget, and attention. **Closing them cleanly is a product decision, not a failure.**
 
-This was not a greenfield startup environment.
+I also pushed for product governance as a first-class concern. Business cases with explicit assumptions. Clear approval and closure processes. The goal was to make the cost of *not deciding* visible, because in large organizations, indecision is the default and it's incredibly expensive.
+
+This connects to how I think about learning cycles even inside big companies. Every initiative should have a hypothesis and a checkpoint. If the hypothesis is wrong, the fastest and cheapest thing you can do is stop — learn what you learned and move on. The alternative is a slow drain that teaches you nothing.
 
 ---
 
-## Key Leadership and Product Decisions
+## Leading with Ideas, Not Authority
 
-### 1. Treat product governance as a first-class product problem
+Inside a matrixed Fortune 500, nobody gives you clean authority. You lead by building credibility and shared understanding — or you don't lead at all.
 
-Rather than focusing only on features, leadership emphasized:
-- Business cases with explicit assumptions
-- Clear approval and closure processes
-- Explicit decisions to **stop** initiatives when conditions changed
+For customer-facing products, I treated launch dates as adjustable, not sacred. We delayed marketing spend until product confidence was earned. Internal stakeholders were aligned before we risked external exposure.
 
-The formal close-out of initiatives like *Site IQ* was intentional — avoiding zombie products that drain trust and resources.
+This drove some people crazy. In startup culture, speed is the religion. But inside an enterprise, a failed first impression doesn't just kill a product — it can permanently damage credibility for the entire innovation team. The cost of waiting was almost always lower than the cost of getting it wrong publicly.
 
----
+We also invested heavily in **shared language across teams**. Product reviews emphasized clarity over volume. OKRs and weekly roundups focused on blockers and dependencies. We built a stakeholder triage process to adjudicate competing feedback, because in a matrixed organization, everyone has opinions and nobody has clear authority.
 
-### 2. Prioritize behavioral adoption over technical correctness
-
-Repeated insight from the field:
-> “The tool isn’t the problem — the process is.”
-
-Product work focused on:
-- Understanding why Excel persisted as the system of record
-- Introducing standardization without threatening autonomy
-- Framing tools as support, not surveillance
-
-In several cases, the right decision was to **not** force adoption.
+The frameworks we built for communication — the shared vocabulary, the triage process, the review cadence — were arguably more valuable than any individual product we shipped. They were the trust infrastructure that everything else ran on.
 
 ---
 
-### 3. Set realistic launch criteria and resist premature exposure
+## What I Learned
 
-For customer-facing products:
-- Launch dates were treated as adjustable, not sacred
-- Marketing spend was delayed until product confidence was earned
-- Internal stakeholders were aligned before external exposure
+Some initiatives slowed or stopped — by design. Fewer but more deliberate product bets. Earlier recognition of misaligned initiatives. Reduced political friction around product decisions. Stronger credibility for the product team over time.
 
-The cost of waiting was often lower than the cost of a failed first impression.
+The biggest thing I took away from CBRE is that **enterprise product leadership is fundamentally about trust management.** You're not optimizing for shipping speed. You're optimizing for the long game — building enough credibility that when you do push for something bold, people believe you've earned the right to try it.
 
----
-
-### 4. Create shared language and visibility across teams
-
-To reduce fragmentation:
-- Product reviews emphasized clarity over volume
-- OKRs and weekly roundups focused on blockers and dependencies
-- Stakeholder triage processes adjudicated competing feedback
-
-The goal was not speed — it was **organizational coherence**.
-
----
-
-## Outcomes & Signals
-
-- Fewer but more deliberate product bets
-- Earlier recognition of misaligned initiatives
-- Improved cross-team understanding of priorities and constraints
-- Reduced political friction around product decisions
-- Stronger credibility for product leadership over time
-
-Some initiatives slowed or stopped — by design.
-
----
-
-## What This Case Says About How I Lead
-
-This case reflects my approach to enterprise product leadership:
-
-- I respect legal, political, and human constraints rather than fighting them
-- I believe stopping work is as important as starting it
-- I optimize for long-term trust over short-term momentum
-- I treat governance and communication as product responsibilities
-- I’m comfortable leading without perfect authority
+I'm comfortable leading without perfect authority. I lead with ideas, build shared frameworks, and earn trust through transparency. Most of the time, that's all you get — and it's enough.

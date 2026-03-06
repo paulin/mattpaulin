@@ -1,120 +1,63 @@
 ---
 layout: page
-title: "Executive Case Study: Signetic"
+title: "Signetic: Vaccinations at Scale During a Pandemic"
 permalink: /portfolio/case_studies/signetic/
 ---
-# Building and Scaling a Public Health Platform Under Extreme Time Pressure
 
-## Situation: Public Health Software in a Crisis Environment
+# Signetic: Vaccinations at Scale During a Pandemic
 
-Signetic was a startup focused on vaccination management software, spun out of Leapfrog Technology.  
-Originally built to support flu vaccination programs, the platform was rapidly repurposed during COVID-19 and became the system used by the City of Seattle and surrounding regions to operate large-scale mass vaccination events, including Lumen Field.
+Signetic started as flu vaccination software. Then COVID hit, and suddenly we were the system running mass vaccination events for the City of Seattle — including Lumen Field.
 
-The operating environment was defined by:
-- A global public health emergency
-- Government and public health stakeholders with near-zero tolerance for failure
-- Rapidly evolving policy and reporting requirements
-- Intense public visibility and trust risk
+I want to be clear about the stakes: if our software failed, people didn't get vaccinated. Missed appointments meant wasted doses. Confusing UX meant elderly and non-technical users couldn't book. Reporting errors meant public health agencies lost confidence in us. This wasn't a typical startup where a bug means someone's dashboard looks wrong for an afternoon.
 
-This was not a typical startup context — **product decisions directly affected public safety, equity, and public trust**.
+**Trust was the product.** Not the software, not the features — trust. Public health agencies needed to believe we wouldn't fail them during the worst crisis of their careers.
 
 ---
 
-## The Real Problem (Not the Obvious One)
+## The Speed Was Relentless
 
-The obvious problem appeared to be:
+We shipped capabilities in days and weeks, not quarters. Policy changed constantly — eligibility rules, reporting requirements, equity mandates — and each change rippled through the product. Traffic spiked unpredictably whenever a new eligibility group opened up or supply arrived.
 
-> “How do we build software to schedule and manage vaccinations?”
+The question that actually mattered wasn't "How do we build vaccination scheduling software?" It was **how do we build something that public health agencies can trust to work reliably, at scale, under uncertainty, while serving people who are scared and confused?**
 
-The real problem was:
-
-> **How do we create a platform that public health agencies can trust to operate reliably at scale, under uncertainty, while serving diverse and underserved populations?**
-
-Quality and clarity were the focus:
-- Missed or duplicate appointments wasted scarce doses
-- Confusing UX excluded elderly and non-technical users
-- Reporting errors eroded confidence with state and federal agencies
+That trust question drove every product decision we made.
 
 ---
 
-## Constraints That Defined the Work
+## We Sold a Service, Not Just Software
 
-Signetic operated under unusually severe constraints:
+One of the most important positioning decisions was framing Signetic as a **managed vaccination platform**, not a self-serve SaaS tool. We paired the software with operational support — real humans coordinating with public health partners during live events.
 
-- **Time pressure:** Capabilities were delivered in days and weeks, not quarters
-- **Scale volatility:** Traffic spiked unpredictably based on supply and eligibility changes
-- **Stakeholder complexity:** Cities, counties, pharmacies, and public health districts
-- **Equity requirements:** Access for elderly, homebound, and underserved communities
-- **Business uncertainty:** Pandemic-driven demand followed by rapid market contraction
+This mattered because municipalities didn't want to learn a new tool in the middle of a crisis. They wanted accountability. They wanted to call someone. That framing reduced adoption friction in ways that better features never could have.
 
-Every roadmap decision was shaped by these realities.
+This is something I come back to often: **design for how people actually behave under pressure, not how they behave in a demo.** A county health official managing a 10,000-person vaccination event doesn't want a self-serve knowledge base. They want a phone number.
 
 ---
 
-## Key Leadership and Product Decisions
+## Knowing What Not to Build
 
-### 1. Position Signetic as a managed vaccination solution, not just software
+I pushed hard to keep us focused on operational reliability. We chose stability over experimentation. Simple, repeatable workflows over customization. Proven flows over speculative features.
 
-Rather than selling a self-serve SaaS tool, Signetic was intentionally positioned as a **managed vaccination platform**:
-- Software paired with operational support
-- Clear accountability during live vaccination events
-- Hands-on coordination with public health partners
+When you're serving tens of thousands of people per day at a live vaccination site, the cost of a feature that doesn't quite work isn't "we'll fix it next sprint." It's national news.
 
-This framing reduced adoption friction and increased trust with municipalities.
+We also designed explicitly for access and equity. That meant accounting for low technical literacy, device and bandwidth constraints, and language needs. The goal wasn't elegant design — it was **broad and fair access**. Some of our most important UX decisions were about what to remove, not what to add.
 
----
-
-### 2. Prioritize operational reliability over feature expansion
-
-Product decisions consistently favored:
-- Stability over experimentation
-- Simple, repeatable workflows over customization
-- Proven operational flows over speculative features
-
-This reduced risk during live events serving tens of thousands of people per day.
+That discipline — knowing when to stop adding — was one of the hardest parts of the job. The temptation in a crisis is to say yes to everything. But every new feature is a new failure mode, and we couldn't afford failure modes. **The restraint was the strategy.**
 
 ---
 
-### 3. Design explicitly for real-world access and equity
+## When the Pandemic Ended
 
-UX and product choices accounted for:
-- Low technical literacy
-- Device and bandwidth constraints
-- Language and accessibility needs
+This is the part that doesn't fit neatly into a success story. As vaccination demand declined, we had to confront the fact that our addressable market was shrinking. We tested pharmacy models and subscription approaches. Some worked, some didn't.
 
-The goal was not elegance, but **broad and fair access**.
+We made those calls quickly and transparently. We didn't let hopeful thinking override what the data was telling us. Not every expansion effort succeeded, but facing reality early mattered more than getting every bet right.
 
 ---
 
-### 4. Continuously reassess the market as conditions changed
+## What I Took Away
 
-As vaccination demand declined:
-- Addressable market assumptions were revisited
-- Pharmacy and subscription-based models were tested
-- Leadership confronted the limits of pandemic-era growth expectations
+The platform supported roughly **415,000 COVID vaccinations**. We earned sustained trust from public health agencies during the peak of the crisis. We proved we could scale under extreme load.
 
-Not every expansion effort succeeded, but decisions were revisited quickly and transparently.
+But the deeper lesson for me was about the limits of software. Software alone isn't enough without aligned incentives, organizational readiness, and real adoption. You can build the most reliable system in the world, and it still needs humans who trust it enough to use it.
 
----
-
-## Outcomes & Signals
-
-- Platform supported **~415,000 COVID vaccinations**
-- Enabled successful operation of large-scale public vaccination sites
-- Earned sustained trust from public health agencies during peak crisis
-- Demonstrated the ability to scale rapidly under extreme load
-- Surfaced structural challenges in sustaining demand post-pandemic
-
-Just as importantly, the experience clarified where **software alone is insufficient without aligned incentives, readiness, and adoption**.
-
----
-
-## What This Case Says About How I Lead
-
-This case reflects how I approach product leadership:
-
-- I remain calm and decisive in high-stakes environments
-- I prioritize trust and reliability when consequences are real
-- I design products around human constraints, not ideal users
-- I adapt strategy honestly as markets shift
-- I value accountability over optics, especially in crisis situations
+I stayed calm in that environment. I made hard calls when the stakes were real. And I learned that the best product decisions in a crisis are almost always about what you choose *not* to build — **automating the critical path, and elevating the humans who have to make life-or-death decisions on top of it.**
