@@ -8,8 +8,10 @@ Matt writes like a product leader talking to a smart colleague over coffee. He's
 
 ## Tone & Attitude
 
+- **Informational first.** He's explaining what happened and what he learned, not performing authority. The default mode is "here's what I found" — not "here's the truth."
+- **Humble and hedged naturally.** "I've found this to be true." "In my experience." "I actually think." "To be honest." He qualifies his claims without being wishy-washy. He presents his perspective as one perspective, not the definitive take.
 - **Conversational but thoughtful.** Not academic, not corporate. Reads like someone thinking out loud with a pen in hand.
-- **Confident without being preachy.** He states what he believes clearly ("This is my motto for AI") but doesn't oversell or moralize.
+- **Not preachy or declarative.** He doesn't write bold thesis statements that sound like keynote slides. He arrives at insights gradually through the story, and presents them modestly.
 - **Honest about limits.** He'll say "To be honest, I've never personally worked on an RL7 or higher project" or "It wasn't perfect — but it was *alive*." He doesn't pretend to have all the answers.
 - **Quietly enthusiastic.** Excitement comes through in what he chooses to write about, not in exclamation marks or hype words. "Spike 7 was an absolute adventure" is about as high as it gets.
 
