@@ -1,111 +1,45 @@
 ---
 layout: page
-title: "Executive Case Study: Kaiizen"
+title: "Kaiizen: Building an AI Product Ecosystem That Actually Works"
 permalink: /portfolio/case_studies/kaiizen/
 ---
-# Designing an AI Product Ecosystem Under Real Operational Constraints
 
-## Situation: An AI Product That Couldn’t Live in Isolation
+Kaiizen was working in real estate renovation, and the pitch was straightforward: use AI to make renovation data better. But the actual problem turned out to be much harder than that.
 
-Kaiizen was operating in a real estate and renovation environment where:
-- Data was collected in the field by non-technical users
-- Decisions downstream involved capital, contractors, and timing risk
-- Existing enterprise tools were slow, fragmented, and resisted by users
+We had field inspectors walking through houses with phones, taking photos, writing notes. That data had to flow into systems that contractors, investors, and property managers all relied on to make capital decisions. And somewhere in the middle, AI was supposed to make sense of it all.
 
-AI was already on the table — but **AI alone was not the product**.  
-The real challenge was building something that could survive contact with human behavior, operational reality, and enterprise systems.
+The question I kept coming back to wasn't really about AI — it was about trust. How do you get humans, AI, and enterprise systems to all trust each other's data? Because without that, AI output just got ignored. Operations reverted to spreadsheets. And every new property we onboarded amplified the inconsistency instead of reducing it.
 
 ---
 
-## The Real Problem (Not the Obvious One)
+## Splitting the System by Intent
 
-The obvious problem looked like:
+Early on I pushed for something that felt counterintuitive — instead of building one big product, we split it into three. The reason was that different people have different intents, and in my experience, forcing them into the same tool creates friction that kills adoption.
 
-> “How do we capture better renovation data using AI?”
+**Kai** was for capture. It lived at the moment of human action — the inspector in the house, phone in hand. Everything about Kai had to be fast and simple, because field users wouldn't tolerate anything else. We went SMS-first, which felt limiting at the time, but it meant adoption was nearly frictionless. You didn't need to download an app or remember a login. You just texted.
 
-The real problem was:
+I think this is one of those cases where designing for how people actually behave — rather than how you'd like them to — made all the difference. An inspector standing in a gutted kitchen doesn't want to navigate a dashboard.
 
-> **How do we enforce consistency, trust, and usability across a fragmented system where humans, AI, and operations all touch the same data?**
+**Zen** was for the customer. It helped property owners and investors understand what the AI found — the renovation scope, the strategy, the costs. If customers couldn't understand the output, it didn't matter how good the AI was.
 
-Without solving that:
-- AI output would be ignored
-- Operations would revert to spreadsheets
-- Scale would amplify inconsistency, not value
+**Fusion** was the operations backbone. It connected everything to the internal world — CRM, suppliers, finance. This is where data had to be structured, validated, and consistent enough for downstream teams to actually use it.
 
----
-
-## Constraints That Shaped Every Decision
-
-This ecosystem was built under explicit constraints:
-
-- **User behavior:** Field users would not tolerate complex apps or training
-- **Data quality:** AI output had to be structured enough for downstream systems
-- **Enterprise reality:** CRM, suppliers, and finance systems already existed
-- **Team reality:** Small team, high ambiguity, no luxury of rebuilding everything
-- **Trust:** Customers needed to believe the output, not just receive it
-
-These constraints ruled out a single “all-in-one” product.
+Each product was optimized for a different person with a different intent. That separation ended up being the thing that let the whole ecosystem work — it removed the complexity from each user that wasn't their job to deal with.
 
 ---
 
-## Key Product Decisions
+## Treating Data Like a Product
 
-### 1. Split the system by human intent, not technology
+One of the decisions I'm glad we made early was treating our data schema as a product, not plumbing.
 
-Instead of one large product, the system was intentionally split into:
+We introduced strict, versioned schemas. When AI output didn't conform, validation failures surfaced immediately. We built "Fix File" processes to catch and correct inconsistencies before they flowed downstream.
 
-- **Kai** — capture data at the moment of human action  
-- **Zen** — help customers understand and use results  
-- **Fusion** — connect AI output to internal operations and revenue  
-
-This prevented cognitive overload and allowed each product to be optimized for its user.
+It sounds boring, and it is. But it's the reason we could onboard new properties without constant rework. It's the reason enterprise partners could plug into our system without re-architecture. I've found that these kinds of shared frameworks — even when they're just data schemas — tend to be more valuable over time than any individual feature decision. They become the common language that lets everyone else do their work.
 
 ---
 
-### 2. Go mobile-first and SMS-first, even when it felt limiting
+## What Changed
 
-Field adoption mattered more than feature completeness.
+Walkthrough-to-report time dropped from days to about an hour. Data consistency improved at the point of capture, which meant everything downstream got cleaner too. Internal teams gained traceability across properties and suppliers. And the team shared a common mental model of how the whole system fit together, which I think mattered as much as any metric.
 
-- SMS reduced friction to near-zero
-- Mobile-first design aligned with real inspection workflows
-- Constraints forced clarity in prompts, flows, and outputs
-
-This decision traded theoretical power for real adoption.
-
----
-
-### 3. Treat data models and schemas as products, not plumbing
-
-Instead of letting AI output drift:
-- A strict, versioned schema was introduced
-- Validation failures were surfaced and corrected
-- “Fix File” processes enforced consistency
-
-This made downstream systems possible without constant rework.
-
----
-
-## Outcomes & Signals
-
-- Walkthrough-to-report time reduced from days to ~1 hour
-- Data consistency improved at the point of capture
-- Customers gained clarity on renovation scope and strategy
-- Internal teams gained traceability across properties and suppliers
-- The ecosystem supported enterprise partnerships without re-architecture
-
-Just as importantly:
-- Teams shared a common mental model
-- AI output became operationally trustworthy
-- Complexity decreased as scale increased
-
----
-
-## What This Case Says About How I Lead
-
-This work reflects how I approach product leadership:
-
-- I design systems, not features
-- I optimize for human behavior, not ideal workflows
-- I treat data integrity as a product decision
-- I’m willing to say no early to avoid chaos later
-- I prioritize clarity over speed when scale is inevitable
+Looking back, the main thing I took away from Kaiizen is that AI alone was never the product. The product was a system that could survive contact with human behavior, operational chaos, and enterprise reality — with AI as one piece of that. The AI handled the heavy lifting. The product design tried to make everyone's job a little easier and a little more focused.
