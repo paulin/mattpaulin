@@ -19,6 +19,63 @@ I'm on a mission to help unlock that parctice in everyone else.
 
 I'm Matt and I love to create products. I have spent my whole life doing this.
 
+## The syllabus
+
+## Week 1: Passion
+
+The goal of week 1 is simple: You will build something and you will speak about why the next week.
+
+### Topics
+- Isolating a core Idea
+- Who is your audience?
+- Why do you care?
+
+### Homework
+Work in teams over the week to take an idea and vibe code it into existence. If you already have one, then improve on it and help the others.
+
+## Week 2: The tools
+
+Week 2 is about streamlining your toolset.  You can build and deploy and maintain a system for less than $10 per month
+
+### Topics
+- Databases
+- GitHub
+- Claude and Cursor
+
+### Homework
+Build your app again, but this time do it in a way that is easier to get into a flow with.
+
+## Week 3: The market
+
+Week 3 is about understanding your market. What is already out there?
+
+### Topics
+- Building your front page website
+- Explaining your concept
+
+### Homework
+Build a website to showcase what you are thinking about.
+
+## Week 4: The flows
+
+Week 4: is about providing a better onboarding experience into your existing app.  We will look at a couple apps and talk about the bottleneck and misscommunication that can come from a badly thought out application.
+
+
+## Week 5: The deployment
+
+Week 5: Is to help understand why deployment of an application is so vital in how you expect your users to consume it. How do you introduce them to your idea, how will it spread?
+
+
+## Week 6: Product market fit
+
+## Week 7: Market Growth
+
+Week 7 is about When you find the market and the way to approach it, what do you do?  
+
+## Week 8: Tying it all back together
+
+Week 8: Is a look back at what was accomplished in a short period of time and talking about how to make it even faster. How do we get through all of these steps to test even more ideas.
+
 
 ---
 A lot of people can now get an app off the ground with AI.
@@ -320,42 +377,3 @@ Each week, the instructor reviews a handful of student apps and gives direct, pr
 This is often where taste gets transmitted.
 
 Students do not just need information. They need to see how someone with stronger judgment looks at a product and decides what matters.
-
-## Why this class could work
-
-The market for this kind of class exists because there is now a wide population of people who can build rough software faster than they can evaluate it.
-
-That creates a new need.
-
-People do not only need code generation. They need:
-
-- design review
-- product feedback
-- debugging help
-- structural cleanup
-- launch guidance
-- confidence and accountability
-
-A good course can provide part of that in a structured way.
-
-## The deeper promise
-
-The deeper promise of the class is not just that students will improve one app.
-
-It is that they will gain a repeatable process for taking future apps further.
-
-That matters because the real opportunity in this new era is not building one perfect product. It is becoming the kind of person who can repeatedly take an idea from rough concept to useful reality.
-
-That is a far more valuable skill.
-
-## Closing thought
-
-The explosion of AI-assisted app creation has made software more accessible. That is exciting.
-
-But accessibility creates a second problem: now more people can start than can finish.
-
-That is where this class belongs.
-
-It teaches the part after the magic.
-
-It teaches the discipline, taste, and judgment that help a builder turn an app into something people actually want to use.
