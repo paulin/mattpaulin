@@ -3,6 +3,7 @@ layout: post
 title: "Life‑Phase Economics: Scaling Moneyless Systems with AI"
 date: 2026-02-08
 categories: [wip]
+
 ---
 
 ## The Real Constraint Isn’t Technology — It’s Humans
