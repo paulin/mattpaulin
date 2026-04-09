@@ -5,171 +5,219 @@ date: 2026-4-2
 author: "Matt Paulin"
 #categories: [software, product-management, readiness-levels]
 ---
-# How I manage multiple products in tandum
-I am my own innovation hub. With the changes in the last 6 months I have been developing non-stop to build web apps, games, Android apps, iOS apps and every step of the way I have had to ask myself "What is best use of my time today?".  
 
-The way I look at the world is there are progressive steps in engineering and product thinking that have to be incremented in tandum. One cannot exist without the other, especially at the early development of a product. Engineering answers the question "Why doesn't this work?" and product answers the question "Why would anyone use this?". They are synergistic questions and I enjoy wearing both hats. Just not all the time.
+# How I manage multiple products in tandem
 
-To generalize it, product thinking is about empathizing with the user and engineering thinking is about solving problems. They have a lot in common because to build a product you are essentially guessing at how to solve other peoples problems. Product people are almost like character actors, trying to get into the role of a person they have never been before. They simply talk to enough people in that role to understand the pains and needs so they can anticipate what works and doesn't work. Engineers on the other hand are trying to build features as fast as possible to give the product person a way to test if they are right.
+I am my own innovation hub.
 
+Over the last 6 months I have been building non-stop—web apps, games, Android apps, iOS apps. The question I keep coming back to is simple:
 
-If you are familar with my blog you will see there are two different product paths defined on it.  One for engineering, and one for product. To keep track of my products I simply made engineering the X axis and product the Y axis. This formed a map.
+**What is the best use of my time today?**
+
+Not in theory. In practice.
+
+When you have multiple products in motion, this becomes the whole game.
+
+---
+
+## Product vs Engineering
+
+The way I look at it, there are two forces that have to move together:
+
+- **Product thinking** → Why would anyone use this?
+- **Engineering thinking** → Why doesn’t this work?
+
+They are tightly coupled, especially early on. You can’t really separate them without creating problems.
+
+Product is about understanding people.  
+Engineering is about solving problems.
+
+But both are guesses.
+
+- Product guesses what people want  
+- Engineering guesses how to build it  
+
+You move forward by testing both at the same time.
+
+---
+
+## The Product Maturity Map
+
+If you’ve read other posts here, you’ve seen that I think in two tracks:
+
+- A **product track** (Idea → Vision → Prototype → MVP → …)  
+- An **engineering track** (Planning → Facilitate → Deploy → …)
+
+To manage this, I put them on a map:
+
+- **X-axis (right)** → Product usefulness (does anyone care?)
+- **Y-axis (up)** → Engineering maturity (is this well built?)
 
 <Insert Picture>
 
-# how to use this.
-Start with your product in the lower left corner. That is where there is an idea just an idea. Now think about your first steps. You may want to write a product spec to explain what this is even for. You may want to define the technology, you may want to do both at the same time. I typically use chat.openai.com to reason my way through this first phase. This is so early in the product that everything is being decided at once. Who is the intial market? What will the brand look like? What is the business model? Where will it be launched? What is the name?
+This creates a simple mental model:
 
-After having enough sufficient conversations you are ready to begin your first steps. Then you pick a direction, do you want to go to the right and work on the product or up and work on the engineering.
+- Move **right** → increase usefulness  
+- Move **up** → improve reliability, scalability, and structure  
 
-
-# The engineering paths
-I have had to rethink this several times as I have used this process simply because engineering has changed so much in the last 6 months. With the advent of agentic coding much of the tedium that engineers used to do is now done by Claude or some other tool. This became an extestential crisis for engineers when everyone asked "Do we need them anymore?".  Short answer, is YES! Now they have moved up stream and manage these bots as the bots generate 10x more code.
-
-# More Code, More Problems
-
-
-
-It use to be that clickable prototypes weree the best way to build a softare product. But with the advent of agentic coding then we can create, recreate, and explore ideas in a hour long session.
-
-Zeigheist and the tedium medium
-
-
-I'm a software sculpture.
-
-# Readiness Levels: A Product-Centric Update
-![Release Levels Companion Guide](/assets/images/ProductReleaseLevels.jpg)
-Readiness Levels are a shorthand for describing how mature a product is and what level of commitment it represents.
-
-Earlier versions of this framework were influenced by engineering perspectives and were useful for discussing quality, robustness, and completeness. Over time, it became clear that the same structure could be more effective if reframed around **product reality** rather than technical execution.
-
-This article updates the Readiness Levels to focus on **product readiness** while keeping the existing level names intact.
+The goal is not to max out one axis.  
+The goal is to move **through the map in balance**.
 
 ---
 
-## What Readiness Levels Measure
+## How to use this
 
-In this version of the framework, Readiness Levels measure:
+Start in the bottom-left.
 
-- How real the product is in the world  
-- How much commitment has been made  
-- How reversible decisions still are  
-- How much risk and expectation exist  
+At that point, everything is undefined:
+- Who is this for?
+- What problem does it solve?
+- What does it look like?
+- How will it make money?
 
-They do **not** measure polish, perfection, or technical quality in isolation.
+I usually work through this phase with conversations, sketches, and rough prototypes. Speed matters more than correctness here.
 
-At each level, something observable becomes true that was not true before.
+Once you have something to work with, you start making moves.
 
----
+At any point, you’re choosing:
 
-## The Updated Readiness Levels
+- Move **right** → understand the product better  
+- Move **up** → build the system better  
 
-### RL1 — Idea
-
-The idea exists and can be communicated clearly.
-
-There is no commitment, no dependency, and no cost beyond initial thinking. The idea can be abandoned without consequence.
+The map helps you decide which one matters most **right now**.
 
 ---
 
-### RL2 — Vision
+## The Zones
 
-The idea has direction.
+As you move through the map, you’ll fall into one of four zones.
 
-There is a defined problem, an intended user, and a basic articulation of why the product might matter. Tradeoffs begin to appear, but the work is still inexpensive to discard.
+### Overkill (too early)
 
----
+> **Overkill is when you solve problems before you understand what needs to be built.**
 
-### RL3 — Prototype
+This happens when engineering gets ahead of product.
 
-The idea has been experienced.
+You might:
+- Build full infrastructure before users exist  
+- Design systems for scale that may never come  
+- Lock in decisions too early  
 
-A prototype, demo, or walkthrough exists that allows someone to interact with the concept. The purpose is learning, not correctness or completeness. Real effort has been invested, and some risk is now present.
+This creates **code debt before value**.
 
----
+It’s also hard to unwind, especially if people feel attached to what they built.
 
-### RL4 — Play Test
+A useful question here is:
+> *What is the last responsible moment to make this decision?*
 
-The product has been used by people outside the core team.
-
-Feedback is based on observed behavior rather than opinion. Friction and misunderstanding become visible. This level determines whether the product is worth continued investment.
-
----
-
-### RL5 — Release
-
-The product is publicly available.
-
-There is now reputation risk and an expectation of basic reliability. The product can no longer be treated as an internal experiment.
+If you’re making it earlier than that, you’re probably in Overkill.
 
 ---
 
-### RL6 — Users
+### Fragile (too late)
 
-The product is used repeatedly.
+This is the opposite problem.
 
-Users return intentionally. There is a clear sense of who the product is for and why it provides value. Usage is no longer incidental.
+The product is valuable—people want it—but the system can’t support it.
 
----
+This often looks like:
+- A “vibe coded” app no one fully understands  
+- No monitoring, no ownership of infrastructure  
+- Billing, data, or reliability issues  
+- Things breaking as soon as real usage shows up  
 
-### RL7 — Audience
+The product has outpaced the engineering.
 
-Growth patterns are understood.
-
-There is clarity around how users discover the product and why adoption spreads. Growth may be limited, but it is explainable rather than accidental.
-
----
-
-### RL8 — Monetized
-
-Economic behavior is measurable.
-
-Revenue, cost savings, or other financial signals are observable. Product decisions now have direct economic implications, even if the model is still being refined.
+> **If you’re in the fragile zone, you waited too long.**
 
 ---
 
-### RL9 — Scalable
+### Safe (balanced)
 
-The product and organization can grow together.
+This is where you want to operate.
 
-Increased usage does not disproportionately increase operational burden. Systems, processes, and decision-making scale in a predictable way.
+You’re:
+- Not overbuilding ahead of demand  
+- Not underbuilding behind demand  
+- Moving step-by-step across both axes  
 
----
+There’s some tolerance here. You don’t need perfect balance.
 
-### RL10 — Stable
-
-The product is durable.
-
-It sustains itself under normal operating conditions and can evolve without constant restructuring. The product functions as a long-term asset rather than an ongoing experiment.
-
----
-
-## Why the Names Remain the Same
-
-The level names were intentionally preserved.
-
-They match how teams naturally describe products and allow for quick alignment without additional explanation. The update is in the **definition of progress**, not the vocabulary.
+But you are **aware of the gap** and adjust as needed.
 
 ---
 
-## Relationship to Big Slice / Small Slice (BSSS)
+### Alive (the goal)
 
-These Readiness Levels align with the Big Slice / Small Slice ownership model:
+I think of the top-right not as “winning,” but as being **alive**.
 
-- Big Slices are associated with advancement in readiness  
-- Ownership is earned when the product meaningfully progresses  
-- Contribution is tied to making the product more real, not to activity alone  
+A product is alive when:
 
-Readiness describes **where the product is**.  
-BSSS accounts for **who contributed to reaching that point**.
+- Users are growing naturally  
+- Revenue exceeds expenses  
+- The system is stable  
+
+It justifies its existence.
+
+It doesn’t need constant intervention to survive.
 
 ---
 
-## Summary
+## How I decide what to do next
 
-This update reframes Readiness Levels as a product tool rather than an engineering maturity scale.
+The most useful thing this map gives me is a simple decision rule.
 
-The goal is to support clearer planning, better expectation-setting, and more accurate attribution of work as a product moves from idea to stable asset.
+At any point, I ask:
 
-Readiness Levels are not a measure of ambition or quality.  
-They are a shared language for understanding commitment and reality.
+> **What is the biggest move for this product right now—more engineering or more understanding?**
+
+That question forces a choice.
+
+- If no one is using it → move right (product)  
+- If it’s breaking or unstable → move up (engineering)  
+
+You don’t need perfect information.  
+You just need to move in the right direction.
+
+---
+
+## Modern Engineering Reality
+
+This has changed a lot recently.
+
+With agentic coding and tools like Claude, a lot of engineering work has been compressed. You can generate large systems quickly.
+
+That’s powerful, but it also increases risk.
+
+You can now move **up the engineering axis very fast**, without earning it.
+
+Tools like vibe coding platforms are great for:
+- exploring ideas  
+- building prototypes  
+- understanding what might work  
+
+But they can also create fragile systems if you rely on them too long.
+
+At some point, you are responsible for:
+- your users  
+- their data  
+- the reliability of the system  
+
+That’s when engineering becomes real.
+
+---
+
+## Final Thought
+
+This map is not about perfection.
+
+It’s about staying aware of where you are and making the next responsible move.
+
+If something feels off, it usually is.
+
+- Too much building → go understand users  
+- Too much selling → go stabilize the system  
+
+Just keep asking:
+
+> **What is the biggest move for this product right now—more engineering or more understanding?**
