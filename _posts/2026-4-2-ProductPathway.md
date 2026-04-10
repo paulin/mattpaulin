@@ -10,13 +10,11 @@ author: "Matt Paulin"
 
 I am my own innovation hub.
 
-Over the last 6 months I have been building non-stop—web apps, games, Android apps, iOS apps. The question I keep coming back to is simple:
+Over the last 6 months I have been building non-stop—web apps, games, Android apps, iOS apps. The question I keep coming back to is:
 
 **What is the best use of my time today?**
 
-Not in theory. In practice.
-
-When you have multiple products in motion, this becomes the whole game.
+When you have more ideas than time, and you have obligations pulling you in all directions, this becomes the whole game.
 
 ---
 
@@ -27,29 +25,21 @@ The way I look at it, there are two forces that have to move together:
 - **Product thinking** → Why would anyone use this?
 - **Engineering thinking** → Why doesn’t this work?
 
-They are tightly coupled, especially early on. You can’t really separate them without creating problems.
+They are tightly coupled, especially early on.
 
 Product is about understanding people.  
 Engineering is about solving problems.
 
-But both are guesses.
+This was the inpiration of previous articles where I have been thinking about the steps toward building a product and the steps it takes to develop the engineering.
+- A **product track** (Idea → Vision → Prototype → MVP → …)  
+- An **engineering track** (Planning → Facilitate → Deploy → …)
 
-- Product guesses what people want  
-- Engineering guesses how to build it  
-
-You move forward by testing both at the same time.
 
 ---
 
 ## The Product Maturity Map
 
-If you’ve read other posts here, you’ve seen that I think in two tracks:
-
-- A **product track** (Idea → Vision → Prototype → MVP → …)  
-- An **engineering track** (Planning → Facilitate → Deploy → …)
-
-To manage this, I put them on a map:
-
+I found it very helpful to put them on a grid so that I can make decisions about what I need to work in, more product work or more engineering work.
 - **X-axis (right)** → Product usefulness (does anyone care?)
 - **Y-axis (up)** → Engineering maturity (is this well built?)
 
@@ -60,7 +50,6 @@ This creates a simple mental model:
 - Move **right** → increase usefulness  
 - Move **up** → improve reliability, scalability, and structure  
 
-The goal is not to max out one axis.  
 The goal is to move **through the map in balance**.
 
 ---
@@ -75,7 +64,7 @@ At that point, everything is undefined:
 - What does it look like?
 - How will it make money?
 
-I usually work through this phase with conversations, sketches, and rough prototypes. Speed matters more than correctness here.
+I usually work through this phase with conversations, sketches, and rough prototypes.
 
 Once you have something to work with, you start making moves.
 
@@ -181,29 +170,23 @@ You just need to move in the right direction.
 
 ---
 
-## Modern Engineering Reality
+## Modern Product Discovery
+One obvervation is with the advent of vibe coding platforms like Base44 and Loveable.ai it suddenly becomes very easy to move to the right on this map and create something people are using quickly.
 
-This has changed a lot recently.
-
-With agentic coding and tools like Claude, a lot of engineering work has been compressed. You can generate large systems quickly.
-
-That’s powerful, but it also increases risk.
-
-You can now move **up the engineering axis very fast**, without earning it.
-
-Tools like vibe coding platforms are great for:
+For example you can use these tools for:
 - exploring ideas  
 - building prototypes  
 - understanding what might work  
+- getting all the stakeholders on the same page
 
-But they can also create fragile systems if you rely on them too long.
+The danger is that they look done and the reality is they can also create fragile systems if you rely on them too long.
 
 At some point, you are responsible for:
 - your users  
 - their data  
 - the reliability of the system  
 
-That’s when engineering becomes real.
+That’s when you have gone too far to the right without really understanding the engineering. 
 
 ---
 
