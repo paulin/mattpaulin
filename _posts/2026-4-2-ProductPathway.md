@@ -3,7 +3,7 @@ layout: post
 title: "The Product Pathway"
 date: 2026-4-2
 author: "Matt Paulin"
-#categories: [software, product-management, readiness-levels]
+categories: [software, product-management, readiness-levels]
 ---
 
 # How I manage multiple products in tandem
@@ -30,7 +30,7 @@ They are tightly coupled, especially early on.
 Product is about understanding people.  
 Engineering is about solving problems.
 
-This was the inpiration of previous articles where I have been thinking about the steps toward building a product and the steps it takes to develop the engineering.
+This was the inspiration of previous articles where I have been thinking about the steps toward building a product and the steps it takes to develop the engineering.
 - A **product track** (Idea → Vision → Prototype → MVP → …)  
 - An **engineering track** (Planning → Facilitate → Deploy → …)
 
@@ -39,11 +39,13 @@ This was the inpiration of previous articles where I have been thinking about th
 
 ## The Product Maturity Map
 
-I found it very helpful to put them on a grid so that I can make decisions about what I need to work in, more product work or more engineering work.
+I found it very helpful to put them on a grid so that I can make decisions about what I need to work on, more product work or more engineering work.
 - **X-axis (right)** → Product usefulness (does anyone care?)
 - **Y-axis (up)** → Engineering maturity (is this well built?)
 
-<Insert Picture>
+![Product Maturity Map](/assets/images/Product Maturity Map.png)
+
+[Download the Product Maturity Map (PDF)](/assets/downloads/Product Maturity Map.pdf)
 
 This creates a simple mental model:
 
@@ -85,7 +87,7 @@ As you move through the map, you’ll fall into one of four zones.
 
 > **Overkill is when you solve problems before you understand what needs to be built.**
 
-This happens when engineering gets ahead of product.
+This happens when engineering gets ahead of the product.
 
 You might:
 - Build full infrastructure before users exist  
@@ -115,7 +117,7 @@ This often looks like:
 - Billing, data, or reliability issues  
 - Things breaking as soon as real usage shows up  
 
-The product has outpaced the engineering.
+The product has outpaced engineering.
 
 > **If you’re in the fragile zone, you waited too long.**
 
@@ -171,7 +173,7 @@ You just need to move in the right direction.
 ---
 
 ## Modern Product Discovery
-One obvervation is with the advent of vibe coding platforms like Base44 and Loveable.ai it suddenly becomes very easy to move to the right on this map and create something people are using quickly.
+One observation is with the advent of vibe coding platforms like Base44 and Loveable.ai it suddenly becomes very easy to move to the right on this map and create something people are using quickly.
 
 For example you can use these tools for:
 - exploring ideas  
@@ -186,7 +188,7 @@ At some point, you are responsible for:
 - their data  
 - the reliability of the system  
 
-That’s when you have gone too far to the right without really understanding the engineering. 
+That’s when you have gone too far to the right without really understanding the engineering.
 
 ---
 
