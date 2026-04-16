@@ -45,6 +45,16 @@ At the heart of it all is one goal: creating products that give people **epiphan
 
 ---
 
+## Ministry of Product
+
+My consulting practice is [Ministry of Product](https://ministryofproduct.com). I work with founders and executives who want to turn their vision into working software — embedding as a product partner, not a distant advisor.
+
+Recent products in market: [TrueUp](https://trueup.pro) (remote expert video for the trades), [SoundPoints](https://soundpoints.com) (location-based audio experiences), and [FortunateMatch](https://fortunatematch.com) (AI-powered event networking).
+
+If you’re building something and want a partner who can both shape the strategy and make it real, [that’s the place to start](https://ministryofproduct.com/advisory).
+
+---
+
 ## Collaborations & Community
 I enjoy working with people who combine design sense, technical depth, and intellectual honesty. I bring structure, momentum, and systems thinking — helping ideas move from ambiguity to something real.
 
