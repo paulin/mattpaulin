@@ -15,9 +15,8 @@ I wear three hats that work together:
 - **AI-Driven Product Leader** – I explore how machine learning, data, and autonomy translate into real product capabilities, tradeoffs, and decisions.
 - **Product Builder** – I deliver software from concept to launch, always focused on real users and real-world constraints.
 
-I use hands-on projects and experiments to stay close to emerging capabilities — not to chase hype, but to sharpen product judgment and understand what’s actually possible.
 
-What excites me most is seeing people use what I’ve built — because that’s when ideas become impact.
+What excites me most is seeing people use what I’ve built — because that’s when ideas become real.
 
 ---
 
@@ -26,9 +25,9 @@ I approach product development like climbing a mountain without a map. As a team
 
 - I believe in shipping early and learning fast.
 - I trust teams and empower them with clarity instead of bloated requirements.
-- I focus on systems, incentives, and decision-making, not just features.
+- I focus on systems, incentives, and decision-making
 
-OKRs have been part of my toolkit at every company I’ve led — not as busywork, but as guardrails for strategy, focus, and accountability.
+OKRs have been part of my toolkit at every company I’ve led — as guardrails for strategy, focus, and accountability.
 
 ---
 
@@ -47,7 +46,7 @@ At the heart of it all is one goal: creating products that give people **epiphan
 
 ## Ministry of Product
 
-My consulting practice is [Ministry of Product](https://ministryofproduct.com). I work with founders and executives who want to turn their vision into working software — embedding as a product partner, not a distant advisor.
+My consulting practice is [Ministry of Product](https://ministryofproduct.com). I work with founders and executives who want to turn their vision into working software — embedding as a product partner.
 
 Recent products in market: [TrueUp](https://trueup.pro) (remote expert video for the trades), [SoundPoints](https://soundpoints.com) (location-based audio experiences), and [FortunateMatch](https://fortunatematch.com) (AI-powered event networking).
 
@@ -107,11 +106,11 @@ If you’re building software products, leading teams, or exploring how AI is re
 }
 
 @keyframes slideIn {
-  from { 
+  from {
     opacity: 0;
     transform: translateY(-50px);
   }
-  to { 
+  to {
     opacity: 1;
     transform: translateY(0);
   }
