@@ -90,3 +90,10 @@ social-links:
 css:
   - /assets/css/beautiful-custom.css
   - /assets/css/custom.css
+
+# Site-wide custom CSS/JS (beautiful-jekyll loads these via site-css/site-js).
+# Powers the click-to-enlarge image lightbox on every post/page.
+site-css:
+  - /assets/css/lightbox.css
+site-js:
+  - /assets/js/lightbox.js
