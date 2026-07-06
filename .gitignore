@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 vendor
 portfolio/.DS_Store
+.DS_Store
