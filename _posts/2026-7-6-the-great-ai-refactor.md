@@ -12,7 +12,7 @@ I've been writing software for thirty years, so the word that keeps coming to mi
 
 When you refactor a piece of software, you keep what it does exactly the same — same inputs, same outputs, same promise to the user — but you tear up how it works on the inside. The old structure was built around constraints that don't apply anymore, so you reorganize around the constraints you actually have now. Nothing about the *purpose* changes. Everything about the *internals* does.
 
-That's the most honest description I have for what's happening to organizations. Companies still need to find customers, build products, make money, and stay trustworthy. The purpose is unchanged. But the way work is organized on the inside — who does what, in what order, with what handoffs — was designed for a world where building was slow and expensive and human labor was the bottleneck. That world is going away. So the internals are getting refactored, whether we plan for it or not.
+That's the best description I have for what's happening to organizations. Companies still need to find customers, build products, make money, and stay trustworthy. The purpose is unchanged. But the way work is organized on the inside — who does what, in what order, with what handoffs — was designed for a world where building was slow and expensive and human labor was the bottleneck. That world is going away. So the internals are getting refactored, whether we plan for it or not.
 
 I spent a long conversation mapping out what the "after" looks like, and it turned into a single picture I keep coming back to.
 
@@ -28,7 +28,7 @@ But it isn't natural. It's a *response to a constraint.* Building was expensive 
 
 And because the work was chopped into specialties, we needed handoffs to stitch it back together. Every arrow in that left column is a handoff, and every handoff is a little tax — a delay, a translation loss, a "wait, that's not what I meant." We got extraordinarily good at managing those handoffs. We built entire methodologies around them. But they were always overhead we tolerated, not value we created.
 
-## What changed is the constraint, not the goal
+## What changed is the constraint
 
 Here's the pivot the whole thing turns on. When AI can write the code, draft the design, generate the tests, stand up the infrastructure, and produce five prototypes before lunch, then *implementation stops being the scarce thing.*
 
@@ -60,15 +60,7 @@ The strip along the bottom of the graphic is the part I'd underline for anyone w
 
 The trap is Era 2 comfort. Bolting a copilot onto every seat feels like transformation, and it produces a real, measurable bump, so it's easy to declare victory and stop. But it leaves the expensive old structure — the specialties, the handoffs, the function-shaped teams — completely in place. You've optimized the thing you were eventually going to replace. Era 3 isn't "Era 2 but the AI is better." It's a different architecture.
 
-## This isn't a prediction I'm making from the outside
-
-I want to be clear that I'm not describing something I read about. On a small scale, in my own work, I already live on the right side of that graphic.
-
-When I run my backlog now, I don't implement most of it myself. I hand tickets to a fleet of cheap, capable agents that each work in their own isolated space, and I spend my expensive attention on the two ends — deciding what's worth doing at all, and reviewing the finished batch before it ships. I've [written before](/) about that shape: generate cheap, check expensive. Push the routine execution down so the scarce judgment can be spent where it actually pays.
-
-That's Scout-and-Editor at the front, Builder-fleet in the middle, an expensive reviewer playing Sweeper at the gate. I didn't set out to reproduce the diagram. I just kept following the cheap-implementation constraint to its conclusion, and this is where it landed me. Which is the main reason I believe the big version: I've watched the small version assemble itself.
-
-## What the refactor means if you're a person, not a company
+## What the refactor means if you're a person
 
 A few things fall out of this that I think are worth saying plainly.
 
@@ -78,21 +70,11 @@ A few things fall out of this that I think are worth saying plainly.
 
 **Metrics have to move from output to outcome.** Tickets closed, features shipped, lines written — those measured how much human execution you produced, back when execution was the scarce, expensive thing. When agents produce execution by the yard, counting it tells you nothing. The measures that matter become things like: how good are the opportunities we find, how fast do we get from signal to prototype, how much do we actually learn per prototype, how quickly do we adapt. Learning velocity becomes the number.
 
-## What I'm being careful about
+## Where this is all going
 
-I like this framing enough to build on it, which is exactly why I want to be honest about where it's thin.
+I have been watching for how our world is going to adapt to the quantization of work that tokens and AI have allowed. It's become a game of wack-a-mole for where the bottlenecks are. The old bottlenecks don't exist so the system has refactored itself into a new set of roles. I think we might start seeing job titles that reflect the roles I have listed out here.
 
-**A clean diagram is a lie of omission.** Real organizations are messier than seven tidy boxes in a ring. The stages blur, the loop stutters, people wear three hats badly instead of one hat well. The graphic is a *model* — useful for the same reason all models are useful, and wrong in the same way all models are wrong. I'd rather use it as a lens than defend it as a map.
-
-**Cheap execution is not the same as good execution.** The entire argument rests on AI handling the implementation well enough that human attention is free to move upstream. When it *doesn't* — when the fleet confidently builds the wrong thing — you haven't freed up judgment, you've just moved where the judgment has to happen, and hidden it inside a diff nobody read. The refactor only pays off if the checking gate is real. I keep a human at that gate on purpose.
-
-**"Refactor" is a comforting word, and comfort can mislead.** A software refactor keeps the same behavior and hurts nobody. An organizational one moves real people's roles out from under them. I chose the metaphor because it's the most *accurate* description of the internal reorganization — not because the human cost is as tidy as the code version. Saying "AI eliminates old assumptions, not jobs" is true at the level of the whole economy and cold comfort to a specific person on a specific Tuesday. Both of those things are true at once, and I don't want the clean version to paper over the hard one.
-
-**Era 2 might last longer than the graphic implies.** The bottom strip makes the three eras look like a smooth march. In practice a lot of companies will camp in copilot-land for years, because it's profitable and safe and doesn't require anyone to rethink the org chart. The refactor is available; it isn't inevitable on any particular timeline.
-
-## The bottom line
-
-The line I keep from all of this is the one printed across the bottom of the graphic: **AI doesn't eliminate jobs so much as it eliminates the old assumptions about how work should be organized.**
+The line to keep from all of this is the one printed across the bottom of the graphic: **AI doesn't eliminate jobs so much as it eliminates the old assumptions about how work should be organized.**
 
 The companies that win the next decade won't be the ones that automate their existing workflows the fastest. Automating the old pipeline just makes a structure built for a vanished constraint run quicker. The winners will be the ones willing to do the harder thing — keep the purpose, tear up the internals, and rebuild the way work flows around what AI actually makes possible.
 
