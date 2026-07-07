@@ -18,13 +18,19 @@ main img.zoomable {
   padding: 2vmin;
   background: rgba(0, 0, 0, 0.9);
   opacity: 0;
-  transition: opacity 0.2s ease;
+  /* Closed state: fully out of the way so it can't capture the cursor or clicks. */
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.2s ease, visibility 0s linear 0.2s;
   cursor: zoom-out;
   overscroll-behavior: contain;
 }
 
 .lightbox-overlay.is-open {
   opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transition: opacity 0.2s ease, visibility 0s;
 }
 
 .lightbox-overlay img {
@@ -36,6 +42,7 @@ main img.zoomable {
   border-radius: 4px;
   transform: scale(0.98);
   transition: transform 0.2s ease;
+  cursor: default;
 }
 
 .lightbox-overlay.is-open img {
